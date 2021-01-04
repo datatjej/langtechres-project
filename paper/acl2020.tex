@@ -39,98 +39,45 @@
 \author{Tova Erbén  \\
   LT2314 Language Technology Resources \\
   Gothenburg University \\
-  \texttt{guserbto@student.gu.se}} \\\And
+  \texttt{guserbto@student.gu.se} }
 
 \date{}
 
 \begin{document}
 \maketitle
 \begin{abstract}
-This work aims to explore some different methods available for normalization and lemmatisation of historical texts: substitution-based methods (Norma) and character-based statistical machine translation (cSMTiser). The material used in this endeavour is the MAþiR resource from Språkbanken Text, containing texts in Old Swedish (ca 1225-1526).
+This work aims to explore some different methods available for normalization and lemmatisation of historical texts: substitution-based methods (Norma) and character-based statistical machine translation (cSMTiser). The material used in this endeavour are taken from the MATHiR resource, containing texts in Old Swedish (ca 1225-1526).
 \end{abstract}
 
 \section{Introduction}
+Historical texts that were written before any spelling standardization had taken place in their language of medium tend to contain a lot of spelling variation. For example... This becomes problematic when you want to parse them for further processing or research them in a corpus. There exists several different methods for normalizing such text, i.e. map them to a standard form. 
 
-Introduction, Materials and methods, Results, Discussion, Conclusions and further work, 
+Bollmann (2019) gives an overview and comparison of the following methods: 1) substitution lists, 2) rule-based methods, 3) distance-based methods, 4) statistical machine translation, and 5) neural machine translation. 
 
+Substitution lists are the simplest out of these methods and consists of putting together a list of different variants for different words. Variants that don't make it to the list cannot be handled. The normalization tools VARD and Norma contain such substitution list components.
 
-The following instructions are directed to authors of papers submitted to ACL 2020 or accepted for publication in its proceedings.
-All authors are required to adhere to these specifications.
-Authors are required to provide a Portable Document Format (PDF) version of their papers.
-\textbf{The proceedings are designed for printing on A4 paper.}
+Rule-based methods instead try to pick up on regularities in the variations, e.g. that the letter \emph{v} is often written like \emph{u}. // Write something more about this //
 
-John Chen, Henry S. Thompson and Donald Walker.
-Additional elements were taken from the formatting instructions of the \emph{International Joint Conference on Artificial Intelligence} and the \emph{Conference on Computer Vision and Pattern Recognition}.
+The distance-based methods instead look at the number of edits needed to go from a variant spelling to a standard form, often using the Levenshtein distance. Adesam et al. (2012) use the Levensthein distance to derive substitution rules for Old Swedish, which perform better when compared to manually compiled substitution rules from dictionaries.
 
-
-\section{Electronically-available resources}
-
-ACL provides this description and accompanying style files at
-\begin{quote}
-\url{http://acl2020.org/downloads/acl2020-templates.zip}
-\end{quote}
-We strongly recommend the use of these style files, which have been appropriately tailored for the ACL 2020 proceedings.
-
-\paragraph{\LaTeX-specific details:}
-The templates include the \LaTeX2e{} source (\texttt{\small acl2020.tex}),
-the \LaTeX2e{} style file used to format it (\texttt{\small acl2020.sty}),
-an ACL bibliography style (\texttt{\small acl\_natbib.bst}),
-an example bibliography (\texttt{\small acl2020.bib}),
-and the bibliography for the ACL Anthology (\texttt{\small anthology.bib}).
+Statistical machine translation 
 
 
-\section{Length of Submission}
-\label{sec:length}
 
-The conference accepts submissions of long papers and short papers.
-Long papers may consist of up to eight (8) pages of content plus unlimited pages for references.
-Upon acceptance, final versions of long papers will be given one additional page -- up to nine (9) pages of content plus unlimited pages for references -- so that reviewers' comments can be taken into account.
-Short papers may consist of up to four (4) pages of content, plus unlimited pages for references.
-Upon acceptance, short papers will be given five (5) pages in the proceedings and unlimited pages for references. 
-For both long and short papers, all illustrations and tables that are part of the main text must be accommodated within these page limits, observing the formatting instructions given in the present document.
-Papers that do not conform to the specified length and formatting requirements are subject to be rejected without review.
+\section{Material and Methods}
 
-The conference encourages the submission of additional material that is relevant to the reviewers but not an integral part of the paper.
-There are two such types of material: appendices, which can be read, and non-readable supplementary materials, often data or code.
-Additional material must be submitted as separate files, and must adhere to the same anonymity guidelines as the main paper.
-The paper must be self-contained: it is optional for reviewers to look at the supplementary material.
-Papers should not refer, for further detail, to documents, code or data resources that are not available to the reviewers.
+
+\section{Results}
+
 Refer to Appendices~\ref{sec:appendix} and \ref{sec:supplemental} for further information. 
 
-Workshop chairs may have different rules for allowed length and whether supplemental material is welcome.
-As always, the respective call for papers is the authoritative source.
 
-
-\section{Anonymity}
-As reviewing will be double-blind, papers submitted for review should not include any author information (such as names or affiliations). Furthermore, self-references that reveal the author's identity, \emph{e.g.},
-\begin{quote}
-We previously showed \citep{Gusfield:97} \ldots
-\end{quote}
-should be avoided. Instead, use citations such as 
-\begin{quote}
-\citet{Gusfield:97} previously showed\ldots
-\end{quote}
-Please do not use anonymous citations and do not include acknowledgements.
-\textbf{Papers that do not conform to these requirements may be rejected without review.}
+\section{Discussion}
 
 Any preliminary non-archival versions of submitted papers should be listed in the submission form but not in the review version of the paper.
-Reviewers are generally aware that authors may present preliminary versions of their work in other venues, but will not be provided the list of previous presentations from the submission form.
-
-Once a paper has been accepted to the conference, the camera-ready version of the paper should include the author's names and affiliations, and is allowed to use self-references.
-
-\paragraph{\LaTeX-specific details:}
-For an anonymized submission, ensure that {\small\verb|\aclfinalcopy|} at the top of this document is commented out, and that you have filled in the paper ID number (assigned during the submission process on softconf) where {\small\verb|***|} appears in the {\small\verb|\def\aclpaperid{***}|} definition at the top of this document.
-For a camera-ready submission, ensure that {\small\verb|\aclfinalcopy|} at the top of this document is not commented out.
 
 
-\section{Multiple Submission Policy}
-Papers that have been or will be submitted to other meetings or publications must indicate this at submission time in the START submission form, and must be withdrawn from the other venues if accepted by ACL 2020. Authors of papers accepted for presentation at ACL 2020 must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. We will not accept for publication or presentation the papers that overlap significantly in content or results with papers that will be (or have been) published elsewhere.
-
-Authors submitting more than one paper to ACL 2020 must ensure that submissions do not overlap significantly (>25\%) with each other in content or results.
-
-
-
-\section{Formatting Instructions}
+\section{Conclusion and further work}
 
 Manuscripts must be in two-column format.
 Exceptions to the two-column format include the title, authors' names and complete addresses, which must be centered at the top of the first page, and any full-width figures or tables (see the guidelines in Section~\ref{ssec:title-authors}).
