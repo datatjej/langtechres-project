@@ -1,8 +1,12 @@
 # Notes
-
 Here is your wiki where you can document all stages of the project and save intermediate results and analyses.
 
-## Installing Moses on Windows 10 using the Linux submodule
+## cSMTiser
+The cSMTiser tool requires:<br>
+* moses decoder + KenLM
+* mgiza
+
+### Installing Moses on Windows 10 using the Linux submodule
 1. Set up a virtual environment.<br>
 2. `sudo apt-get install`:<br>
    g++ ✓  <br>
@@ -12,7 +16,7 @@ Here is your wiki where you can document all stages of the project and save inte
    libtool ✓ <br>
    zlib1g-dev ✓ <br>
    libicu-dev ✓ <br>
-   libboost-all-dev ✓ <br>
+   libboost-all-dev ✓ (Boost library)<br>
    libbz2-dev ✓ <br>
    liblzma-dev ✓ <br>
    python-dev ✓ <br>
@@ -23,3 +27,4 @@ Here is your wiki where you can document all stages of the project and save inte
    libgoogle-perftools-dev (for tcmalloc) ✓  <br>
    autoconf ✓ <br>
    doxygen ✓ <br>
+   
