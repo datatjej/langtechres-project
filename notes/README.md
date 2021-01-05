@@ -2,7 +2,7 @@
 
 Here is your wiki where you can document all stages of the project and save intermediate results and analyses.
 
-# Installing Moses on Windows 10 using the Linux submodule
+## Installing Moses on Windows 10 using the Linux submodule
 1. Set up a virtual environment.<br>
 2. `sudo apt-get install`:<br>
    g++ ✓  <br>
