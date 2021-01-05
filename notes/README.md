@@ -28,7 +28,7 @@ The cSMTiser tool requires:<br>
    `autoconf` ✓ <br>
    `doxygen` ✓ <br>
    
-   ## MGIZA
+   ### MGIZA
    MGIZA was developed by Qin Gao. It is an implementation of the popular GIZA++ word alignment toolkit to run multi-threaded on multi-core machines.<br>
    `git clone https://github.com/moses-smt/mgiza.git` ✓ <br>
    `cd mgiza/mgizapp`✓ <br>
