@@ -29,7 +29,7 @@ The cSMTiser tool requires:<br>
    `doxygen` ✓ <br>
 
 To compile with bare minimum of features:<br>
-`./bjam -j4` in ✓
+`./bjam -j4` ✓
    
 ### MGIZA
 GIZA was developed by Qin Gao. It is an implementation of the popular GIZA++ word alignment toolkit to run multi-threaded on multi-core machines.<br>
