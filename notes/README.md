@@ -9,22 +9,21 @@ The cSMTiser tool requires:<br>
 ### Installing Moses on Windows 10 using the Linux submodule
 1. Set up a virtual environment.<br>
 2. `sudo apt-get install`:<br>
-   g++ ✓  <br>
-   git ✓ <br>
-   subversion ✓ <br>
-   automake ✓ <br>
-   libtool ✓ <br>
-   zlib1g-dev ✓ <br>
-   libicu-dev ✓ <br>
-   libboost-all-dev ✓ (Boost library)<br>
-   libbz2-dev ✓ <br>
-   liblzma-dev ✓ <br>
-   python-dev ✓ <br>
-   graphviz ✓     <br>
-   imagemagick ✓ <br>
-   make ✓ <br>
-   cmake ✓ <br>
-   libgoogle-perftools-dev (for tcmalloc) ✓  <br>
-   autoconf ✓ <br>
-   doxygen ✓ <br>
-   
+   `g++` ✓  <br>
+   `git` ✓ <br>
+   `subversion` ✓ <br>
+   `automake` ✓ <br>
+   `libtool` ✓ <br>
+   `zlib1g-dev` ✓ <br>
+   `libicu-dev` ✓ <br>
+   `libboost-all-dev` ✓ (Boost library)<br>
+   `libbz2-dev` ✓ <br>
+   `liblzma-dev` ✓ <br>
+   `python-dev` ✓ <br>
+   `graphviz` ✓     <br>
+   `imagemagick` ✓ <br>
+   `make` ✓ <br>
+   `cmake` ✓ <br>
+   `libgoogle-perftools-dev` (for tcmalloc) ✓  <br>
+   `autoconf` ✓ <br>
+   `doxygen` ✓ <br>
