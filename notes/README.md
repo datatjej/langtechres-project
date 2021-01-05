@@ -27,6 +27,9 @@ The cSMTiser tool requires:<br>
    `libgoogle-perftools-dev` (for tcmalloc) ✓  <br>
    `autoconf` ✓ <br>
    `doxygen` ✓ <br>
+
+To compile with bare minimum of features:<br>
+`./bjam -j4` in progress
    
 ### MGIZA
 GIZA was developed by Qin Gao. It is an implementation of the popular GIZA++ word alignment toolkit to run multi-threaded on multi-core machines.<br>
