@@ -7,7 +7,7 @@ The cSMTiser tool requires:<br>
 * mgiza
 
 ### Installing Moses on Windows 10 using the Linux submodule
-1. Set up a virtual environment.<br>
+1. Set up a virtual environment (`csmt_env`).<br>
 2. `sudo apt-get install`:<br>
    `g++` ✓  <br>
    `git` ✓ <br>
