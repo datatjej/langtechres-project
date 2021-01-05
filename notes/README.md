@@ -36,5 +36,5 @@ The cSMTiser tool requires:<br>
    `make` ✓ <br>
    `make install` ✓ <br>
    
-   Compiling MGIZA requires the Boost library. If your Boost library are in non-system directory, use the script:<br>
+   Compiling MGIZA requires the Boost library. If your Boost library are in non-system directory, use the script to compile MGIZA:<br>
    `manual-compile/compile.sh` ??? <br>
