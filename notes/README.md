@@ -27,8 +27,13 @@ The cSMTiser tool requires:<br>
    `libgoogle-perftools-dev` (for tcmalloc) ✓  <br>
    `autoconf` ✓ <br>
    `doxygen` ✓ <br>
+   
+In addition, you have to install some perl packages:
 
-To compile with bare minimum of features:<br>
+`cpan XML::Twig` in progress <br>
+`cpan Sort::Naturally` <br>
+
+To compile Moses with bare minimum of features:<br>
 `./bjam -j4` ✓
    
 ### MGIZA
@@ -48,5 +53,10 @@ The MGIZA binary and the script merge_alignment.py need to be copied in you bina
 `export BINDIR=~/workspace/bin/training-tools` workspace? bin/trainig-tools? <br> 
 `cp bin/* $BINDIR/mgizapp`<br> 
 `cp scripts/merge_alignment.py $BINDIR` <br>
+
+cd ~/mosesdecoder
+mkdir tools
+cp ~/giza-pp/GIZA++-v2/GIZA++ ~/giza-pp/GIZA++-v2/snt2cooc.out ~/giza-pp/mkcls-v2/mkcls tools
+
 
 MGIZA works with the training script `train-model.perl`. You indicate its use (opposed to regular GIZA++) with the switch `-mgiza`. The switch `-mgiza-cpus` NUMBER allows you to specify the number of CPUs. 
