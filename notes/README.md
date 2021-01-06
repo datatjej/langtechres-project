@@ -30,8 +30,8 @@ The cSMTiser tool requires:<br>
    
 In addition, you have to install some perl packages:
 
-`cpan XML::Twig` in progress <br>
-`cpan Sort::Naturally` <br>
+`cpan XML::Twig` ✓ <br>
+`cpan Sort::Naturally` ✓ <br>
 
 To compile Moses with bare minimum of features:<br>
 `./bjam -j4` ✓
@@ -54,9 +54,6 @@ The MGIZA binary and the script merge_alignment.py need to be copied in you bina
 `cp bin/* $BINDIR/mgizapp`<br> 
 `cp scripts/merge_alignment.py $BINDIR` <br>
 
-cd ~/mosesdecoder
-mkdir tools
-cp ~/giza-pp/GIZA++-v2/GIZA++ ~/giza-pp/GIZA++-v2/snt2cooc.out ~/giza-pp/mkcls-v2/mkcls tools
-
+NB: I ended up following [this person's](https://danieltakeshi.github.io/2014/11/19/brain-dump-successfully-installing-and-running-the-moses-statistical-machine-translation-system/) instructions for this instead. Let's see...
 
 MGIZA works with the training script `train-model.perl`. You indicate its use (opposed to regular GIZA++) with the switch `-mgiza`. The switch `-mgiza-cpus` NUMBER allows you to specify the number of CPUs. 
