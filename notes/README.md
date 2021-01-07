@@ -6,6 +6,12 @@ The cSMTiser tool requires:<br>
 * moses decoder + KenLM
 * mgiza
 
+Running the cSMTiser tool consists of the following steps:
+* configuring the normaliser
+* training data preprocessing
+* building the models and tuning the system
+* running the final normaliser
+
 ### Installing Moses on Windows 10 using the Linux submodule
 1. Set up a virtual environment (`csmt_env`).<br>
 2. `sudo apt-get install`:<br>
