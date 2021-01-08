@@ -28,6 +28,12 @@ Optionally:<br>
 * Doxygen (for generating the documentation)
 * Python 2 >= 2.7 and Boost::Python (for Python bindings/embeddings)
 
+### Norma installation
+`mkdir build` <br>
+`cd build` <br>
+`cmake <pathtosource>` --> NB: I used the path for the norma directory, not src, since the CMakeList file in src was [missing an important line](https://stackoverflow.com/questions/52255075/cmake-warning-dev-in-cmakelists-txt-no-cmake-minimum-required-command-is-pres) which was there in the CMakeList file in the norma directory.<br>
+`make` <br>
+
 ## cSMTiser
 The cSMTiser tool requires:<br>
 * moses decoder + KenLM
