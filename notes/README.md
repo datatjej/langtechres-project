@@ -15,11 +15,11 @@ Needed for compilation:
  ...in particular these libraries: Filesystem, Program Options, Regex, System, Test
 * pkg-config --> `0.29.1` on PC, `1.6.1`on mltgpu
 * gfsm >= 0.0.16-1 and gfsmxl >= 0.0.15, available from http://kaskade.dwds.de/~moocow/mirror/projects/gfsm/<br>
-...download the latest version and then:<br>
+...download the latest version of both and do the following in each folder:<br>
 `cd gfsm-X.Y.Z`  (or wherever you extracted the distribution) <br>
 `sh ./configure` <br>
 `make` <br>
-`make install` <br>
+`make install` <br> <-- had to use `sudo make install` because of permission issues.
  
 * GLib >= 2.0 ([instructions](https://programmer.help/blogs/ubuntu-18.04-install-glib-library-and-configure-codeblocks.html)) <br>
 
