@@ -21,7 +21,8 @@ Needed for compilation:
 `make` <br>
 `make install` <br>
  
-* GLib >= 2.0 <br>
+* GLib >= 2.0 ([instructions](https://programmer.help/blogs/ubuntu-18.04-install-glib-library-and-configure-codeblocks.html)) <br>
+
 Optionally:<br>
 * ICU >= 1.49
 * Doxygen (for generating the documentation)
