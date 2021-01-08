@@ -9,12 +9,18 @@ At the moment, normalizers are restricted to work with **one word at a time**. T
 ### Dependencies
 
 Needed for compilation:
-* GCC >= 4.9
-* CMake >= 2.8.10
-* Boost >= 1.54
+* GCC >= 4.9 (GNU Compiler Collection) --> installed on both PC and mltgpu
+* CMake >= 2.8.10  --> `cmake version 3.10.2` on PC, `cmake version 3.14.5` on mltgpu 
+* Boost >= 1.54 --> `installed boost version: 1.65.1` on PC, not installed on mltgpu (!)
  ...in particular these libraries: Filesystem, Program Options, Regex, System, Test
-* pkg-config
-* gfsm >= 0.0.16-1 and gfsmxl >= 0.0.15, available from http://kaskade.dwds.de/~moocow/mirror/projects/gfsm/
+* pkg-config --> `0.29.1` on PC, `1.6.1`on mltgpu
+* gfsm >= 0.0.16-1 and gfsmxl >= 0.0.15, available from http://kaskade.dwds.de/~moocow/mirror/projects/gfsm/<br>
+...download the latest version and then:<br>
+`cd gfsm-X.Y.Z`  (or wherever you extracted the distribution) <br>
+`sh ./configure` <br>
+`make` <br>
+`make install` <br>
+ 
 * GLib >= 2.0 <br>
 Optionally:<br>
 * ICU >= 1.49
