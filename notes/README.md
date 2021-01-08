@@ -19,7 +19,7 @@ Needed for compilation:
 `cd gfsm-X.Y.Z`  (or wherever you extracted the distribution) <br>
 `sh ./configure` <br>
 `make` <br>
-`make install` <br> <-- had to use `sudo make install` because of permission issues.
+`make install` <-- had to use `sudo make install` because of permission issues.<br> 
  
 * GLib >= 2.0 ([instructions](https://programmer.help/blogs/ubuntu-18.04-install-glib-library-and-configure-codeblocks.html)) <br>
 
