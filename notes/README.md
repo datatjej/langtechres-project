@@ -15,8 +15,8 @@ Needed for compilation:
  ...in particular these libraries: Filesystem, Program Options, Regex, System, Test
 * pkg-config
 * gfsm >= 0.0.16-1 and gfsmxl >= 0.0.15, available from http://kaskade.dwds.de/~moocow/mirror/projects/gfsm/
-* GLib >= 2.0
-Optionally:
+* GLib >= 2.0 <br>
+Optionally:<br>
 * ICU >= 1.49
 * Doxygen (for generating the documentation)
 * Python 2 >= 2.7 and Boost::Python (for Python bindings/embeddings)
