@@ -34,6 +34,10 @@ Optionally:<br>
 `cmake <pathtosource>` --> NB: I used the path for the norma directory, not src, since the CMakeList file in src was [missing an important line](https://stackoverflow.com/questions/52255075/cmake-warning-dev-in-cmakelists-txt-no-cmake-minimum-required-command-is-pres) which was there in the CMakeList file in the norma directory.<br>
 `make` <br>
 
+## Norma running
+
+**Interactive** mode is unavailable in the latest release of Norma, due to technical issues. You can currently only use **batch mode**.
+
 ## cSMTiser
 The cSMTiser tool requires:<br>
 * moses decoder + KenLM
