@@ -1,6 +1,26 @@
 # Notes
 Here is your wiki where you can document all stages of the project and save intermediate results and analyses.
 
+## Norma
+Please note that Norma is only available as **a command-line utility** – there is no graphical interface. There are also **no pre-compiled binaries** at this point; you need to compile the source code yourself. Norma is written in **C++11**, though bindings for **Python 2** are provided as well.
+
+At the moment, normalizers are restricted to work with **one word at a time**. That means they cannot take context into account or contract several words into one. 
+
+### Dependencies
+
+Needed for compilation:
+* GCC >= 4.9
+* CMake >= 2.8.10
+* Boost >= 1.54
+ ...in particular these libraries: Filesystem, Program Options, Regex, System, Test
+* pkg-config
+* gfsm >= 0.0.16-1 and gfsmxl >= 0.0.15, available from http://kaskade.dwds.de/~moocow/mirror/projects/gfsm/
+* GLib >= 2.0
+Optionally:
+* ICU >= 1.49
+* Doxygen (for generating the documentation)
+* Python 2 >= 2.7 and Boost::Python (for Python bindings/embeddings)
+
 ## cSMTiser
 The cSMTiser tool requires:<br>
 * moses decoder + KenLM
