@@ -11,7 +11,7 @@ At the moment, normalizers are restricted to work with **one word at a time**. T
 Needed for compilation:
 * GCC >= 4.9 (GNU Compiler Collection) --> installed on both PC and mltgpu
 * CMake >= 2.8.10  --> `cmake version 3.10.2` on PC, `cmake version 3.14.5` on mltgpu 
-* Boost >= 1.54 --> `installed boost version: 1.65.1` on PC, not installed on mltgpu (!)
+* Boost >= 1.54 --> `installed boost version: 1.65.1` on PC, not installed on mltgpu (!!!) <br>
  ...in particular these libraries: Filesystem, Program Options, Regex, System, Test
 * pkg-config --> `0.29.1` on PC, `1.6.1`on mltgpu
 * gfsm >= 0.0.16-1 and gfsmxl >= 0.0.15, available from http://kaskade.dwds.de/~moocow/mirror/projects/gfsm/<br>
