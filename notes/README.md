@@ -69,7 +69,7 @@ NB: A target lexicon doesn't seem to be required for the mapping-based normalize
 *here*<br>
 \[...\]
 
-For **training the model**, use:
+For **training Norma on manually normalized data**, use:
 
     normalize -c example/example.cfg -f example/fnhd_train.txt -t --saveonexit
 
@@ -82,6 +82,8 @@ wainend	weinend <br>
 vnd	und <br>
 vastund	fastend* <br>
 \[...\]
+
+The option `-t` causes Norma to perform training only, without generating any normalizations, while `--saveonexit` is required (if not given in the config file) to save the trained parametrizations back to the parameter files. You can get a list of all possible command-line options by using the `-h` flag.
 
 ## cSMTiser
 The cSMTiser tool requires:<br>
