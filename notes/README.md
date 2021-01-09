@@ -75,12 +75,12 @@ For **training the model**, use:
 
 ...where `fnhd_train.txt`is a word mapping file of this format:<br>
 \[...\]
-*vnser	unser
-frawn	frauen
-lang	lang
-wainend	weinend
-vnd	und
-vastund	fastend*
+*vnser	unser <br>
+frawn	frauen <br>
+lang	lang <br>
+wainend	weinend <br>
+vnd	und <br>
+vastund	fastend* <br>
 \[...\]
 
 ## cSMTiser
