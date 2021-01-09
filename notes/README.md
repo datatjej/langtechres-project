@@ -83,7 +83,10 @@ vnd	und <br>
 vastund	fastend* <br>
 \[...\]
 
-The option `-t` causes Norma to perform training only, without generating any normalizations, while `--saveonexit` is required (if not given in the config file) to save the trained parametrizations back to the parameter files. You can get a list of all possible command-line options by using the `-h` flag.
+Flags:<br>
+`-t` - causes Norma to perform training only, without generating any normalizations <br>
+`--saveonexit` - is required (if not given in the config file) to save the trained parametrizations back to the parameter files <br>
+`-h` - gives a list of all possible command-line options <br>
 
 ## cSMTiser
 The cSMTiser tool requires:<br>
