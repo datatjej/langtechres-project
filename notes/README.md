@@ -36,7 +36,38 @@ Optionally:<br>
 
 ## Norma running
 
-**Interactive** mode is unavailable in the latest release of Norma, due to technical issues. You can currently only use **batch mode**.
+**Interactive** mode is unavailable in the latest release of Norma, due to technical issues. You can currently only use **batch mode**:
+
+In order to normalize all words from a text file that contains one wordform per line, just call:<br>
+
+`normalize -c example/example.cfg -f example/fnhd_sample.txt`<br>
+
+...where:<br>
+* `example.cfg` contains:<br>
+`normalizers=RuleBased` #Specifies the normalizer to use <br>
+`saveonexit=False` #Controls whether parameter files are saved when Norma exits. It defaults to False. <br>
+`perfilemode=False` #Allows you to use Norma with many different parametrizations without changing the configuration file each time.<br>
+
+`[Lexicon]`<br>
+#Most normalizer components require a *target lexicon*. This is basically a list of valid word forms that the normalizers can generate, and is used to restrict the normalizer's output. A target lexicon requires two files to be given in the configuration file:<br> 
+`fsmfile=bible_lexicon.fsm` # is the name of the lexicon file as a finite-state machine (see below).<br>
+`symfile=bible_lexicon.sym` <br>
+NB: A target lexicon doesn't seem to be required for the mapping-based normalizer, which makes sense!
+
+[RuleBased]<br>
+rulesfile=example.RuleBased.rulesfile<br>
+
+...and:<br>
+* `fnhd_sample.txt` contains a one token per line of words to normalize:<br>
+\[...\]<br>
+dese<br>
+wort<br>
+spricht<br>
+vnser<br>
+liber<br>
+here<br>
+\[...\]
+
 
 ## cSMTiser
 The cSMTiser tool requires:<br>
