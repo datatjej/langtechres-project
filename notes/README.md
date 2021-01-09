@@ -74,7 +74,7 @@ For **training the model**, use:
     normalize -c example/example.cfg -f example/fnhd_train.txt -t --saveonexit
 
 ...where `fnhd_train.txt`is a word mapping file of this format:<br>
-\[...\]
+\[...\]<br>
 *vnser	unser <br>
 frawn	frauen <br>
 lang	lang <br>
