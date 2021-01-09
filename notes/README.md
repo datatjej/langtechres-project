@@ -38,7 +38,7 @@ Optionally:<br>
 
 **Interactive** mode is unavailable in the latest release of Norma, due to technical issues. You can currently only use **batch mode**:
 
-In order to normalize all words from a text file that contains one wordform per line, just call:<br>
+In order to **normalize all words from a text file** that contains one wordform per line, just call:<br>
 
 `normalize -c example/example.cfg -f example/fnhd_sample.txt`<br>
 
@@ -68,6 +68,10 @@ NB: A target lexicon doesn't seem to be required for the mapping-based normalize
 *liber*<br>
 *here*<br>
 \[...\]
+
+For **training the model**, use:
+
+    normalize -c example/example.cfg -f example/fnhd_train.txt -t --saveonexit
 
 
 ## cSMTiser
