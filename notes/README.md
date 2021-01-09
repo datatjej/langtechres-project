@@ -44,6 +44,7 @@ In order to normalize all words from a text file that contains one wordform per 
 
 ...where:<br>
 * `example.cfg` contains:<br>
+
 `normalizers=RuleBased` #Specifies the normalizer to use <br>
 `saveonexit=False` #Controls whether parameter files are saved when Norma exits. It defaults to False. <br>
 `perfilemode=False` #Allows you to use Norma with many different parametrizations without changing the configuration file each time.<br>
