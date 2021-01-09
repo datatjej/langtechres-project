@@ -40,7 +40,7 @@ Optionally:<br>
 
 In order to **normalize all words from a text file** that contains one wordform per line, just call:<br>
 
-`normalize -c example/example.cfg -f example/fnhd_sample.txt`<br>
+    normalize -c example/example.cfg -f example/fnhd_sample.txt <br>
 
 ...where:<br>
 * `example.cfg` contains:<br>
@@ -73,6 +73,15 @@ For **training the model**, use:
 
     normalize -c example/example.cfg -f example/fnhd_train.txt -t --saveonexit
 
+...where `fnhd_train.txt`is a word mapping file of this format:<br>
+\[...\]
+*vnser	unser
+frawn	frauen
+lang	lang
+wainend	weinend
+vnd	und
+vastund	fastend*
+\[...\]
 
 ## cSMTiser
 The cSMTiser tool requires:<br>
