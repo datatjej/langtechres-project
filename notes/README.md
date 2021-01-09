@@ -54,18 +54,18 @@ In order to normalize all words from a text file that contains one wordform per 
 `symfile=bible_lexicon.sym` <br>
 NB: A target lexicon doesn't seem to be required for the mapping-based normalizer, which makes sense!
 
-[RuleBased]<br>
-rulesfile=example.RuleBased.rulesfile<br>
+`[RuleBased]`<br>
+`rulesfile=example.RuleBased.rulesfile`<br>
 
 ...and:<br>
 * `fnhd_sample.txt` contains a one token per line of words to normalize:<br>
 \[...\]<br>
-dese<br>
-wort<br>
-spricht<br>
-vnser<br>
-liber<br>
-here<br>
+*dese*<br>
+*wort*<br>
+*spricht*<br>
+*vnser*<br>
+*liber*<br>
+*here*<br>
 \[...\]
 
 
