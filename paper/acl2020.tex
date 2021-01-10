@@ -34,7 +34,7 @@
 
 \newcommand\BibTeX{B\textsc{ib}\TeX}
 
-\title{Exploring Methods for Historical Text Normalization}
+\title{Exploring Norma for Historical Text Normalization}
 
 \author{Tova Erbén  \\
   LT2314 Language Technology Resources \\
@@ -46,25 +46,67 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-This work aims to explore some different methods available for normalization and lemmatisation of historical texts: substitution-based methods (Norma) and character-based statistical machine translation (cSMTiser). The material used in this endeavour are taken from the MATHiR resource, containing texts in Old Swedish (ca 1225-1526).
+This work aims to explore the Norma tool for historical text normalization using substitution lists. The material used in this endeavour is the MATHiR resource from Språkbanken, containing annotated excerpts from five different texts in Old Swedish (ca 1225-1526).
 \end{abstract}
 
 \section{Introduction}
-Historical texts that were written before any spelling standardization had taken place in their language of medium tend to contain a lot of spelling variation. For example... This becomes problematic when you want to parse them for further processing or research them in a corpus. There exists several different methods for normalizing such text, i.e. map them to a standard form. 
 
-Bollmann (2019) gives an overview and comparison of the following methods: 1) substitution lists, 2) rule-based methods, 3) distance-based methods, 4) statistical machine translation, and 5) neural machine translation. 
+Historical texts that were written before any spelling standardization had taken place in their language of medium tend to contain a lot of spelling variation. This becomes problematic when you want to parse them for further processing or research them in a corpus. There exists several different methods for normalizing such text, i.e. map them to a standard form. 
+
+\citet{bollmann:19} gives an overview and comparison of the following methods: 1) substitution lists, 2) rule-based methods, 3) distance-based methods, 4) statistical machine translation, and 5) neural machine translation. 
 
 Substitution lists are the simplest out of these methods and consists of putting together a list of different variants for different words. Variants that don't make it to the list cannot be handled. The normalization tools VARD and Norma contain such substitution list components.
 
-Rule-based methods instead try to pick up on regularities in the variations, e.g. that the letter \emph{v} is often written like \emph{u}. // Write something more about this //
+Rule-based methods instead try to pick up on regularities in the variations, such as the letter \emph{v} often being written like \emph{u}. \citet{bollmann:12} describe the rule-based re-write rules as operating on one or more characters and only taking the immediate character context into consideration. If more than one rule is applicable, then you choose the one with the highest frequency in the training data.   
 
-The distance-based methods instead look at the number of edits needed to go from a variant spelling to a standard form, often using the Levenshtein distance. Adesam et al. (2012) use the Levensthein distance to derive substitution rules for Old Swedish, which perform better when compared to manually compiled substitution rules from dictionaries.
+The distance-based methods look at the number of edits needed to go from a variant spelling to a standard form, often using the Levenshtein distance. \citet{adesam:12} combine the distance- and rule-based approach by using the Levenshtein distance to derive rewrite rules for Old Swedish, which perform better when compared to manually compiled rewrite rules from dictionaries.
 
-Statistical machine translation 
+The statistical machine translation-based methods look to optimize the probability for a spelling variant \emph{v} being of standard form \emph{w} by looking, for instance, at character-based statistics (cSMT). \citet{pettersson:13} manage to increase the normalization accuracy for Swedish from 64.6 to 92.3 \% by applying cSMT to historical texts from the time period 1527–1812.    
 
-
-
+Another data-driven approach for spelling normalization is neural machine translation (NMT), commonly using encoder-decoder models with LSTM units \citep{bollmann:19}. However, when \citet{bollmann:19} compares some character-based NMT models to the previously mentioned methods, he notes that these models need more data in order to perform well. Instead, he recommends using the Norma tool in the "combined" setting (more about this later) for languages with little training data, and the character-based statistical machine translation tool cSMTiser otherwise.     
 \section{Material and Methods}
+
+\subsection{MaTHir}
+The material that I will be using in this study comes from the MaTHir resource at Språkbanken, consisting of annotated excerpts from five different Old Swedish texts:
+
+\begin{enumerate}
+   \item \emph{Abota}
+   \begin{itemize}
+     \item ca 1448
+     \item 540 tokens
+   \end{itemize}
+   \item \emph{Avgl} 
+     \begin{itemize}
+     \item Elder Westrogothic law
+     \item ca 1220/1280
+     \item 1228 tokens
+   \end{itemize}
+    \item \emph{Moses-b} 
+     \begin{itemize}
+     \item Paraphrases of the five books of Moses 
+     \item ca 1330/1526
+     \item 7049 token
+   \end{itemize}
+    \item \emph{Ogl-a} 
+     \begin{itemize}
+     \item Ostrogothic law
+     \item ca 1290/1350
+     \item 22090 tokens
+   \end{itemize}
+   \item \emph{Tungulus} 
+     \begin{itemize}
+     \item 1457
+     \item 2814 tokens
+   \end{itemize}
+\end{enumerate}
+
+These texts have been annotated word-by-word in XML format with information about syntactic relations, part of speech tags, morphology, lemma and head. This part of the resource is called MaTHiR Trees. The other one, MaTHiR Words, contains 10 TSV ('tab-separated values') files with lemmata information extracted from a reference dictionary for Medieval Swedish by \citet{soderwall:1891-1918} (Sdw). 
+
+Half of the files have four columns with information about lemma (which may contain spaces, and in the case of the verb file, a '+' sign separating the verb from a separable participle, e.g. EX), pseudolemma (containing only the verbal head in the case of verbs with separable participles), coarse-grained POS tag in accordance with Sdw, and finally a fine-grained POS tag. The other five files contain an additional column with parenthetical form, which show inflectional and spelling-related variation, also taken from Sdw.    
+
+\subsection{Norma} 
+
+
 
 
 \section{Results}
