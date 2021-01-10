@@ -46,7 +46,8 @@ qvinna <br>
 
 ## FINDOUT
 
-1. Is a target lexicon needed for lookuo/mapping normalization? - No!
-2. Is a target lexicon needed for weighted Levenshtein distance (WLD) normalization? 
-3. Is the parameter file `abc_train.WLD.paramfile` for WLD automatically generated when training on `abc_train.txt`?
+1. Is a target lexicon needed for lookup/mapping normalization? - No!
+2. Is a target lexicon needed for weighted Levenshtein distance (WLD) normalization? <br>
+- It runs, but doesn't normalize anything (only returns the unchanged tokens and confidence scores of 0). 
+3. Is the parameter file `abc_train.WLD.paramfile` for WLD automatically generated when training on `abc_train.txt`? - Yes!
 4. Is the `abc_train.Mapper.mapfile` automatically generated when training on `abc_train.txt`?
