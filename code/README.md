@@ -18,3 +18,9 @@ qwinna <br>
 \[...\] <br>
 
 2. script for extracting all lemmas (`lemma='af'`) from the MATHiR Tree files 
+
+## FINDOUT
+
+1. Is a target lexicon needed for lookup normalization? - No!
+2. Is a target lexicon needed for weighted Levenshtein distance (WLD) normalization? 
+3. Is the parameter file for WLD automatically generated?
