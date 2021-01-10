@@ -2,9 +2,6 @@
 
 Use this folder for the code related to your project.
 
-MATHiR Threes: https://spraakbanken.gu.se/en/resources/mathir-trad
-MATHiR Words: https://spraakbanken.gu.se/en/resources/mathir-ord
-
 ## COMMANDS
 
 Normalize:
@@ -23,6 +20,9 @@ Flags:
 
 
 ## TODO
+
+MATHiR Threes: https://spraakbanken.gu.se/en/resources/mathir-trad <br>
+MATHiR Words: https://spraakbanken.gu.se/en/resources/mathir-ord
 
 1. script for extracting all tokens (`form='aff'`) from the MATHir Trees files and saving them in a file, one token per line, called tokens.txt:
 
