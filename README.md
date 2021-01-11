@@ -1,3 +1,3 @@
-## Project for the Language Technology Resources course (MLT LT2314)
+## Project for the Language Technology Resources course (LT2314)
 
 (ಠ_ಠ)
