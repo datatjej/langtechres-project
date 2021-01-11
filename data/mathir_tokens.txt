@@ -1,11 +1,11 @@
-Hær
+hær
 sigx
 aff
 abotum
 allum
 skemptan
 mykla
-Tha
+tha
 herra
 abota
 ganger
@@ -33,7 +33,7 @@ skina
 om
 kloster
 alt
-Sidhen
+sidhen
 ganger
 herra
 abotæ
@@ -54,8 +54,8 @@ bozskom
 och
 adhrom
 skom
-Herra
-Abote
+herra
+abote
 ær
 klædder
 wæl
@@ -77,7 +77,7 @@ scapplara
 och
 fyra
 kuffla
-Æn
+æn
 ther
 til komber
 om sidher
@@ -97,7 +97,7 @@ in komma
 firi
 herra
 abota
-Æn
+æn
 herra
 abote
 æter
@@ -137,7 +137,7 @@ nio
 giordæ
 j
 piper
-Siden
+siden
 æter
 han
 tio
@@ -148,7 +148,7 @@ tio
 sinnum
 tio
 fiska
-Flæsk
+flæsk
 ma
 han
 ey
@@ -170,7 +170,7 @@ moster
 ær
 wr
 thy
-Siden
+siden
 læter
 han
 sla
@@ -201,7 +201,7 @@ war
 goth
 feth
 spadh
-Aldrik
+aldrik
 ma
 herra
 abote
@@ -211,7 +211,7 @@ fore thy at
 hon
 är
 tæffløs
-Tha
+tha
 rætes
 in
 egh
@@ -244,7 +244,7 @@ kale
 och
 fæm
 kolhuppad
-Siden
+siden
 æter
 herra
 abote
@@ -262,7 +262,7 @@ honum
 mere
 at
 ætæ
-Loffuat
+loffuat
 ær
 honum
 at
@@ -305,7 +305,7 @@ huru
 honum
 gætz
 aat
-Tha
+tha
 siger
 herra
 abote
@@ -322,12 +322,12 @@ ther
 onth
 øll
 j
-Hæffuin
+hæffuin
 wt
 tha
 bansatta
 nistuna
-Æn
+æn
 til
 hina
 adhra
@@ -348,7 +348,7 @@ mylskæ
 eller
 goth
 humbla øll
-Hit
+hit
 min
 kære
 gudzsøff
@@ -363,7 +363,7 @@ drikker
 en
 starkan
 mula dryk
-Siden
+siden
 drykker
 herra
 abote
@@ -374,7 +374,7 @@ at
 gud
 frælssi
 hona
-Annat
+annat
 sinne
 drikker
 herra
@@ -388,7 +388,7 @@ giffui
 goth
 ar
 bondom
-Tridhiæ
+tridhiæ
 sin
 drikker
 herra
@@ -399,7 +399,7 @@ och
 glømsko
 alla
 brødra
-Fiærde
+fiærde
 sinne
 drikker
 herra
@@ -414,7 +414,7 @@ at
 han
 falle
 eygh
-Fæmpte
+fæmpte
 sinne
 drikker
 herra
@@ -430,7 +430,7 @@ at
 hon
 brytes
 ey
-Swa
+swa
 drikker
 herra
 abote
@@ -438,7 +438,7 @@ siw
 sinnom
 och
 siwtigi
-Siden
+siden
 ganger
 herra
 abote
@@ -446,7 +446,7 @@ fran
 borde
 och
 siger
-Miserere mei deus
+miserere mei deus
 och
 thakker
 gudhi
@@ -458,13 +458,13 @@ mætter
 och
 wæl
 drukken
-Siden
+siden
 han
 haffuer
 lesit
 tiider
 siner
-Tha
+tha
 later
 han
 gøræ
@@ -496,7 +496,7 @@ rindher
 aff
 hwario
 hare
-Æn
+æn
 then
 samma
 ember
@@ -534,15 +534,15 @@ saker
 allæ
 abota
 flinskallutte
-Swa
+swa
 lyktæs
 thenne
 fabula
-Her
+her
 byriarz
 laghbok
 væsgöta
-Krister
+krister
 ær
 fyrst
 i
@@ -565,7 +565,7 @@ oc
 allir
 boclærðir
 mæn
-Varþær
+varþær
 barn
 til
 kirkiu
@@ -606,7 +606,7 @@ scal
 brymsignæ
 firi utan
 kirkiu. dyr
-Siþen
+siþen
 scal
 font
 wigyæ
@@ -630,7 +630,7 @@ oc
 moþer
 sculu
 vardvetæ
-Hændir
+hændir
 þæt
 sot
 a
@@ -675,7 +675,7 @@ gengyærd
 þerra
 brinder
 vp
-Byscupi
+byscupi
 scal
 gengyærd
 geræ
@@ -701,7 +701,7 @@ oc
 allir
 klerkar
 hans
-Uerder
+uerder
 maþer
 i
 kyrkiu
@@ -714,7 +714,7 @@ er
 kyrkia
 al
 vuighz
-Er
+er
 þet
 firi
 tiu
@@ -730,7 +730,7 @@ vilx
 oc
 natter
 gengerd
-En
+en
 a
 tiu
 vittrum
@@ -747,7 +747,7 @@ letæ
 sculu
 þer
 houodtiundæ
-Landbor
+landbor
 sculu
 eigh
 houodtiundæ
@@ -765,7 +765,7 @@ at
 falli
 i
 houod syndir
-Værþer
+værþer
 altæræ sten
 lös
 þa
@@ -791,7 +791,7 @@ altæræ vixls
 oc
 natter
 gengerð
-Oc
+oc
 firi
 kyrkiu gærð
 allen
@@ -807,7 +807,7 @@ firi
 stapul
 tolf
 öra
-Crusszur
+crusszur
 oc
 klokchor
 calka
@@ -827,7 +827,7 @@ hanum
 oc
 börn
 fermæ
-Taker
+taker
 kyrkia
 at
 fyrnass
@@ -859,7 +859,7 @@ en
 æru
 all
 hel
-Uerdher
+uerdher
 kyrkia
 brutin
 oc
@@ -878,7 +878,7 @@ swa
 hæreþe
 sva
 konogge
-Varþer
+varþer
 in gangit
 at
 opnom
@@ -906,7 +906,7 @@ skaþi
 se
 mere
 gör
-Er
+er
 grauit
 vndir
 syll
@@ -915,7 +915,7 @@ skal
 ecki
 prester
 værþæ
-Spyrs
+spyrs
 vp
 scaþi
 þa
@@ -929,7 +929,7 @@ kyrkia
 hauir
 sit
 alt
-Brender
+brender
 up
 kyrkia
 þa
@@ -947,7 +947,7 @@ oc
 baklyvsum
 er
 tænder
-Brender
+brender
 i
 kirkiu
 scruþer
@@ -972,7 +972,7 @@ mere
 se
 skaþi
 gör
-Skil
+skil
 þem
 a
 bondæ
@@ -1004,7 +1004,7 @@ svoret
 skal
 prester
 bötæ
-Bær
+bær
 prester
 messufat
 hém
@@ -1027,7 +1027,7 @@ at
 varu
 eigh
 bætri
-Hængir
+hængir
 klocka
 i
 kyrkiu
@@ -1045,7 +1045,7 @@ iardeghendi
 en
 bana
 far
-Falder
+falder
 klockæ
 rummi
 nider
@@ -1061,7 +1061,7 @@ han
 far
 banæ
 af
-Falder
+falder
 i
 hovod
 presti
@@ -1070,7 +1070,7 @@ klocchæræ
 varþi
 sær
 sialvar
-Brester
+brester
 klockæ
 firi
 þem
@@ -1078,7 +1078,7 @@ firi
 ér
 hvn
 vgild
-En
+en
 annar
 maþar
 felli
@@ -1108,14 +1108,14 @@ marcher
 hun
 se
 bættri
-Scill
+scill
 sopn
 valdi
 þer
 sum
 flere
 æru
-Værþer
+værþer
 marder
 i
 kyrkiugardhi
@@ -1143,7 +1143,7 @@ uid
 sinum
 þrim
 marchum
-Biscuper
+biscuper
 skal
 viþ
 sopn
@@ -1154,7 +1154,7 @@ viþer
 þen
 vihit
 uan
-Værþer
+værþer
 maþer
 lustin
 i
@@ -1182,7 +1182,7 @@ böte
 biscupi
 tolf
 öra
-Æn
+æn
 þer
 mali
 til
@@ -1190,7 +1190,7 @@ til
 ær
 friþ
 bröt
-Dylia
+dylia
 sopnær mæn
 kalla
 eigh
@@ -1234,7 +1234,7 @@ at
 gærþe
 sum
 annat
-Liggær
+liggær
 kirkiugardær
 alþer
 open
@@ -1246,7 +1246,7 @@ sak
 þet
 a
 biscopér
-Ligger
+ligger
 þridiunger
 vpen
 þæt
@@ -1265,7 +1265,7 @@ balka
 han
 atta
 örtoghor
-Oc
+oc
 e
 skal
 kirkiugarþær
@@ -1275,7 +1275,7 @@ baþi
 vinter
 oc
 somar
-Barn
+barn
 þorf
 kristnu
 maþer
@@ -1300,7 +1300,7 @@ man
 huslæ
 æn
 olæ
-Barn
+barn
 far
 eigh
 kristnu
@@ -1326,7 +1326,7 @@ oc
 marchum
 vid
 saksöchenden
-Forfal
+forfal
 prests
 æru
 æn
@@ -1339,18 +1339,18 @@ oc
 ær
 bortfarin
 för
-Annur
+annur
 æn
 han
 siukær
 ligher
-Þridiæ
+þridiæ
 æn
 han
 þighiændæ
 mæssu
 sighir
-Fyardæ
+fyardæ
 æn
 han
 ær
@@ -1360,7 +1360,7 @@ farin
 siukum
 at
 hiælpæ
-Vr
+vr
 skal
 mæssufatum
 fara
@@ -1373,7 +1373,7 @@ sivngær
 æigh
 þighianda
 mæssu
-Skil
+skil
 þæm
 a
 bonda
@@ -1396,7 +1396,7 @@ at
 han
 laghæ forfall
 fæk
-Prester
+prester
 scal
 bondæ
 ola
@@ -1446,12 +1446,12 @@ ok
 ortogh
 firi
 natuaku
-Eigh
+eigh
 mæra
 þit
 fleræ
 vaki
-Eigh
+eigh
 ok
 flera
 vaka
@@ -1468,7 +1468,7 @@ nætær
 liggi
 lik
 inni
-Vill
+vill
 han
 lengær
 læta
@@ -1478,7 +1478,7 @@ giui
 örtogh
 naat
 huaria
-Gæster
+gæster
 dör
 at
 bonda
@@ -1505,7 +1505,7 @@ at
 husla
 sum
 bondæ
-Dör
+dör
 stafkarl
 þa
 a
@@ -1515,7 +1515,7 @@ ok
 screppu
 ok
 læghærstad
-Sitær
+sitær
 biscuper
 innan
 soknæ
@@ -1537,7 +1537,7 @@ haui
 half
 mark
 firir
-Ganger
+ganger
 prester
 i
 sokn
@@ -1567,7 +1567,7 @@ ok
 tolf
 öræ
 presti
-A
+a
 acri
 scal
 tyundæ
@@ -1584,13 +1584,13 @@ sciptæ
 i
 þrer
 lötæ
-En
+en
 a
 biscopær
-Annan
+annan
 a
 kiurkia
-Þridia
+þridia
 væslir
 mæn
 prester
@@ -1606,7 +1606,7 @@ cruszu fotæ
 kombær
 a
 langafreadaghi
-Bonde
+bonde
 dör
 i
 sokn
@@ -1643,7 +1643,7 @@ prester
 uid
 liki
 takær
-Æn
+æn
 presti
 vill
 gipt
@@ -1655,7 +1655,7 @@ skæppur
 ællær
 örtugh
 pænningæ
-A
+a
 maþer
 bol
 i
@@ -1678,7 +1678,7 @@ ligger
 ok
 kirkiugarþi
 varþæ
-Sar
+sar
 man
 enka
 aker
@@ -1693,7 +1693,7 @@ aftær standæ
 allæn
 ællar
 bort. flytia
-Bor
+bor
 bondi
 a
 odmarkær
@@ -1709,7 +1709,7 @@ varæ
 han
 vill
 sva
-Eighi
+eighi
 ma
 landboæ
 nöghæ
@@ -1720,7 +1720,7 @@ kirkiu by
 til
 annarrær
 kirkiu
-Æn
+æn
 vaþa bloð
 comber
 i
@@ -1742,7 +1742,7 @@ kirkiugærþér
 vskir
 þy
 hældær
-Præstær
+præstær
 ma
 ængin
 man
@@ -1761,12 +1761,12 @@ man
 æn
 þer
 uilia
-Orsaker
+orsaker
 ær
 prester
 vm
 þat
-ADam
+adam
 war
 første
 man
@@ -1797,7 +1797,7 @@ hon
 xxx
 ara
 gamul
-Moyses
+moyses
 sighir
 mz
 fam
@@ -1805,7 +1805,7 @@ ordhom
 aff
 hans
 swnom
-Sanctus
+sanctus
 methodius
 martyr
 sighir
@@ -1832,12 +1832,12 @@ innan
 hæfftom
 oc
 iærnom
-Oc
+oc
 sighir
 sanctus
 methodius
 swa
-A
+a
 fæmptande
 are
 sidhan
@@ -1859,7 +1859,7 @@ oc
 kalladhe
 han
 cayn
-Æpthe
+æpthe
 litin
 tima
 sidan
@@ -1870,7 +1870,7 @@ oc
 kallade
 hona
 calmana
-Thæn thima
+thæn thima
 xxx
 aar
 waaro
@@ -1900,7 +1900,7 @@ syster
 som
 heth
 delbora
-Thæn thima
+thæn thima
 cayn
 war
 c
@@ -1918,14 +1918,14 @@ tha
 drap
 cayn
 abel
-Strabus
+strabus
 sighir
 en
 wis
 mæstare
 at
 adam
-Oc
+oc
 eua
 græto
 abels
@@ -1934,7 +1934,7 @@ c
 aar
 innan
 renliffwe
-Oc
+oc
 aldrigh
 haffdo
 the
@@ -1962,7 +1962,7 @@ som
 war
 tha
 oføddhir
-Sidhan
+sidhan
 waro
 the
 badhen
@@ -2043,7 +2043,7 @@ til
 wan
 hærra
 siælffwan
-Alt
+alt
 thz
 som
 føddis
@@ -2065,7 +2065,7 @@ føddos
 wt aff
 seth
 affkommo
-Sæth
+sæth
 afflade
 son
 oc
@@ -2120,7 +2120,7 @@ kombir
 atir
 fyri
 doma dagh
-Thæn thima
+thæn thima
 ther
 enoch
 war
@@ -2134,7 +2134,7 @@ doo
 adam
 hans
 ældhir fadhir
-M
+m
 ara
 gamal
 oc
@@ -2150,7 +2150,7 @@ swa
 længe
 som
 adam
-Oc
+oc
 the
 som
 sighia
@@ -2187,14 +2187,14 @@ adam
 hans
 forfadhir
 doo
-Oc
+oc
 war
 enoch
 siwnde
 man
 aff
 adam
-Aff
+aff
 enoch
 kom
 matusale
@@ -2206,13 +2206,13 @@ aff
 lamet
 kom
 noe
-Noe
+noe
 war
 tionde
 man
 aff
 adam
-Fra
+fra
 adam
 sidhan
 han
@@ -2240,13 +2240,13 @@ hær
 første
 wærldenna
 aldhir
-Aff
+aff
 noe
 føddis
 føre
 noe
 flodh
-Thre
+thre
 syni
 oc
 the
@@ -2262,7 +2262,7 @@ modhir
 oc
 sinom
 konom
-Aff
+aff
 them
 kommo
 sidhan
@@ -2273,7 +2273,7 @@ oc
 bygdis
 alt
 iordherike
-Oc
+oc
 æptir
 thera
 thria
@@ -2283,7 +2283,7 @@ aller
 hemberen
 innan
 thry
-Aff
+aff
 sæm
 noe
 syni
@@ -2324,7 +2324,7 @@ wæl
 halffwir
 deel
 wærldenna
-Aff
+aff
 iafeth
 kommo
 alle
@@ -2356,7 +2356,7 @@ delen
 aff
 wærldenne
 europa
-Oc
+oc
 sighir
 ysidorus
 en
@@ -2394,7 +2394,7 @@ alt
 æpte
 noe
 flodh
-Førsth
+førsth
 hinwagh
 iorsala
 haff
@@ -2420,7 +2420,7 @@ taghar
 ledhona
 offwir
 haffwit
-Oc
+oc
 ey
 waro
 mæn
@@ -2449,7 +2449,7 @@ oc
 østan
 greklandz
 haff
-Oc
+oc
 gatu
 aldrigh
 kommit
@@ -2468,7 +2468,7 @@ oc
 swa
 landuæghis
 sidan
-Innan
+innan
 swærike
 oc
 gøtalandh
@@ -2499,7 +2499,7 @@ thænna
 wægh
 jwrsula
 haff
-Aff
+aff
 cham
 noe
 syni
@@ -2513,13 +2513,13 @@ byggia
 wæstan nordhan
 jorsala
 haff
-Oc
+oc
 hethir
 thæn
 delin
 wærldenna
 affrica
-Aff
+aff
 enom
 adams
 syni
@@ -2542,7 +2542,7 @@ aff
 sæt
 adams
 syni
-Æn
+æn
 chain
 slækt
 oc
@@ -2558,7 +2558,7 @@ tappades
 innan
 noe
 flodh
-Aff
+aff
 seth
 adam
 syni
@@ -2572,7 +2572,7 @@ gøthar
 oc
 sweiar
 wt komne
-Nw
+nw
 wiliom
 wi
 ey
@@ -2601,7 +2601,7 @@ wtkommen
 wars
 hærra
 modhir
-Fæm
+fæm
 hundradha
 ara
 gamal
@@ -2622,7 +2622,7 @@ føddhir
 kom
 noe
 flodh
-Oc
+oc
 thwem
 aarom
 æpte
@@ -2679,7 +2679,7 @@ oc
 l
 ara
 gamal
-Aff
+aff
 sæm
 kom
 arfaxat
@@ -2691,7 +2691,7 @@ aff
 kaynan
 kom
 sale
-Sale
+sale
 bygdhe
 først
 ierusalem
@@ -2706,11 +2706,11 @@ aff
 hans
 nampne
 sale
-Aff
+aff
 sale
 kom
 heber
-Innan
+innan
 hans
 daghom
 næmrot
@@ -2745,7 +2745,7 @@ adam
 war
 skapadhir
 mz
-Oc
+oc
 alle
 mæn
 taladho
@@ -2761,7 +2761,7 @@ som
 wpgiordho
 turrem
 babel
-Oc
+oc
 før
 thy
 kallas
@@ -2785,7 +2785,7 @@ ey
 widh
 turrem
 babel
-Aff
+aff
 honom
 kallas
 oc
@@ -2797,7 +2797,7 @@ tala
 thz
 samma
 malet
-Aff
+aff
 heber
 kom
 falegh
@@ -2821,7 +2821,7 @@ aff
 thare
 kom
 abram
-Æn
+æn
 liffdhe
 sæm
 noe
@@ -2838,7 +2838,7 @@ allom
 aldhruga
 manna
 aldra
-Oc
+oc
 æptir
 thera
 rækningh
@@ -2854,7 +2854,7 @@ han
 war
 ey
 meer
-Thy at
+thy at
 fra
 noe
 daghom
@@ -2890,7 +2890,7 @@ minna
 æn
 eth
 tusandh
-Oc
+oc
 innan
 abrahams
 daghom
@@ -2898,7 +2898,7 @@ byriadhis
 tridhi
 wærldenna
 aldir
-Æpthir
+æpthir
 tæsse
 rækningh
 var
@@ -2918,7 +2918,7 @@ aar
 oc
 iiij
 aar
-ABraham
+abraham
 bodhe
 før
 oc
@@ -2927,7 +2927,7 @@ brodhir
 aram
 innan
 kaldea
-Caldei
+caldei
 varo
 affgudha dyrkara
 oc
@@ -2979,7 +2979,7 @@ wærldena
 riker
 oc
 valdughir
-Nicholaus
+nicholaus
 damascenus
 sighir
 at
@@ -2998,7 +2998,7 @@ hwar
 hans
 palacium
 stodh
-War
+war
 hærra
 bødh
 honom
@@ -3031,11 +3031,11 @@ om
 sidhe
 aff
 hænne
-Aff
+aff
 abraham
 kom
 ysaac
-Aff
+aff
 ysaac
 kom
 iacob
@@ -3049,7 +3049,7 @@ ther
 adam
 war
 iordadhir
-Aff
+aff
 iacob
 kommo
 xij
@@ -3057,7 +3057,7 @@ patriarche
 ruben
 symeon
 leui
-Judas
+judas
 ysachar
 zabulon
 beniamin
@@ -3082,11 +3082,11 @@ skulde
 fødhas
 gudz
 son
-Aff
+aff
 iudha
 kom
 pharas
-Aff
+aff
 phares
 kom
 esrom
@@ -3106,7 +3106,7 @@ aff
 nason
 kom
 salmon
-Innan
+innan
 phares
 daghom
 kom
@@ -3128,7 +3128,7 @@ oc
 barnom
 til
 egyptum
-Ioseph
+ioseph
 thæn
 tolffte
 var
@@ -3167,7 +3167,7 @@ sidhan
 ioseph
 war
 dødhir
-Innan
+innan
 salomons
 daghom
 tha
@@ -3195,7 +3195,7 @@ aff
 amram
 kom
 moyses
-Moyses
+moyses
 ledde
 israel
 sona
@@ -3217,7 +3217,7 @@ ræt
 a
 gudz
 wæghna
-Sæx
+sæx
 hwndrat
 tusandh
 mæn
@@ -3250,7 +3250,7 @@ kommo
 til
 jorsula
 land
-Salomon
+salomon
 war
 høffdinge
 øffwir
@@ -3262,7 +3262,7 @@ aff
 iuda
 var
 kommen
-Aff
+aff
 salmon
 kom
 boz
@@ -3284,7 +3284,7 @@ ysai
 kom
 dauid
 konung
-Twa
+twa
 konunga
 haffde
 israel
@@ -3292,7 +3292,7 @@ synir
 hafft
 føre
 dauid
-Første
+første
 var
 abimelech
 aff
@@ -3310,7 +3310,7 @@ oc
 ey
 mz
 ræt
-Annar
+annar
 var
 saul
 aff
@@ -3324,7 +3324,7 @@ oc
 rættelika
 til
 walda
-Oc
+oc
 før
 thy
 fingo
@@ -3340,7 +3340,7 @@ rikis
 æpthir
 them
 dødha
-Dauid
+dauid
 kom
 rættelika
 til
@@ -3353,7 +3353,7 @@ for
 mz
 valdhe
 dygdelica
-Oc
+oc
 før
 thy
 fik
@@ -3364,7 +3364,7 @@ til
 rikis
 æpte
 han
-Fiærdhe
+fiærdhe
 wærldenna
 aldir
 byriadis
@@ -3386,7 +3386,7 @@ aar
 xx
 arom
 minna
-Dauid
+dauid
 fik
 thz
 loff
@@ -3401,7 +3401,7 @@ siælfwir
 sagde
 aff
 honom
-Jak
+jak
 haffwir
 fwnnit
 en
@@ -3415,7 +3415,7 @@ huat vithna
 thz
 iak
 wil
-Enghin
+enghin
 var
 madhir
 grymare
@@ -3431,7 +3431,7 @@ them
 honom
 vilde
 wæghia
-Inghen
+inghen
 var
 fiændhen
 hardare
@@ -3441,7 +3441,7 @@ matto
 nakot
 gen
 honom
-Oc
+oc
 enghin
 war
 madhir
@@ -3456,7 +3456,7 @@ vtan
 the
 varo
 hedhner
-Aff
+aff
 dauid
 konungh
 kom
@@ -3489,7 +3489,7 @@ asa
 kom
 iosaphat
 konunghir
-Aff
+aff
 iosaphat
 kom
 ioram
@@ -3499,7 +3499,7 @@ ioram
 kom
 ozias
 konungir
-Aff
+aff
 ozia
 kom
 ioathan
@@ -3519,7 +3519,7 @@ ezechia
 kom
 manasses
 konunghir
-Thænne
+thænne
 var
 først
 iller
@@ -3549,12 +3549,12 @@ gudhi
 oc
 vart
 fræls
-Oc
+oc
 vart
 sidhan
 godhir
 konungir
-Aff
+aff
 manasse
 kom
 amon
@@ -3575,7 +3575,7 @@ tha
 han
 var
 wnghir
-Aff
+aff
 amon
 kom
 iosias
@@ -3585,7 +3585,7 @@ aff
 allom
 æptir
 dauid
-Aff
+aff
 iosia
 kommo
 tre
@@ -3593,11 +3593,11 @@ konunga
 huar
 æptir
 annan
-Thæn
+thæn
 ælste
 het
 iechonias
-Annar
+annar
 ioachan
 tridhi
 sedechias
@@ -3666,7 +3666,7 @@ til
 konung
 føre
 iochan
-Jechonias
+jechonias
 war
 ey
 bætre
@@ -3686,13 +3686,13 @@ han
 bætrade
 sik
 ey
-Ther
+ther
 føre
 læt
 iechonias
 dræpa
 vriam
-Jeremias
+jeremias
 propheta
 talade
 til
@@ -3719,7 +3719,7 @@ j
 huat
 iak
 sigir
-Nw
+nw
 sighir
 war
 hærre
@@ -3727,7 +3727,7 @@ swa
 siælfwir
 til
 idhir
-Iak
+iak
 skal
 ledha
 idhir
@@ -3763,13 +3763,13 @@ wilde
 almænningx folkit
 dræpa
 jeremiam
-Landz hærrane
+landz hærrane
 frælsado
 han
 aff
 thera
 handom
-Oc
+oc
 lykto
 han
 inne
@@ -3780,7 +3780,7 @@ skulde
 ey
 oppenbarlika
 prædica
-Ieremias
+ieremias
 haffde
 sin
 scriffwara
@@ -3822,7 +3822,7 @@ mæn
 komma
 innan
 iherusalem
-Bæste
+bæste
 mæn
 aff
 rikeno
@@ -3843,7 +3843,7 @@ finge
 at
 veta
 t
-Sidan
+sidan
 konungen
 haffde
 læsit
@@ -3872,7 +3872,7 @@ oc
 bødh
 lata
 fanga
-Jeremiam
+jeremiam
 oc
 baruch
 war
@@ -3882,7 +3882,7 @@ them
 før
 hans
 handom
-Ieremias
+ieremias
 læt
 sidhan
 scriffwa
@@ -3917,7 +3917,7 @@ til
 rikis
 at
 rada
-Hær æpthir
+hær æpthir
 kom
 nabogodonosor
 babylonie
@@ -3938,14 +3938,14 @@ wælburna
 mæn
 mz
 honom
-Innan bland
+innan bland
 thera
 war
 daniel
 ok
 hans
 kompana
-Nabugodonozor
+nabugodonozor
 førdhe
 sina
 fangha
@@ -3966,12 +3966,12 @@ at
 thiæna
 wndhi
 skat
-Iheconias
+iheconias
 trøste
 sik
 a mot
 nabugodonozor
-Oc
+oc
 ey
 sidhan
 skatta
@@ -4000,7 +4000,7 @@ mwrin
 oc
 doo
 ther aff
-Nabugodonozor
+nabugodonozor
 læt
 hans
 syni
@@ -4011,13 +4011,13 @@ ieconias
 x
 dagha
 radha
-Sidhan
+sidhan
 kom
 han
 athir
 til
 iherusalem
-Jeconias
+jeconias
 wnge
 giordhe
 som
@@ -4077,11 +4077,11 @@ iuda
 landh
 oc
 iherusalem
-False
+false
 propheta
 daradho
 sedechiam
-Tha
+tha
 sagdo
 honom
 at
@@ -4091,14 +4091,14 @@ hans
 rike
 skulde
 førdæruas
-Innan
+innan
 skaman
 tima
 aff
 egypto
 lande
 konunge
-Jeremias
+jeremias
 ensamin
 oc
 baruch
@@ -4106,7 +4106,7 @@ the
 sagdo
 honom
 sant
-Sedechias
+sedechias
 trode
 bætir
 salse
@@ -4116,13 +4116,13 @@ ey
 skatta
 vndhi
 nabugodonozor
-Jeremias
+jeremias
 kom
 før
 konungen
 oc
 sagde
-Swa
+swa
 sighir
 war
 hærra
@@ -4137,7 +4137,7 @@ hona
 hwem
 iak
 wil
-Nw
+nw
 haffwir
 iak
 giffwit
@@ -4177,7 +4177,7 @@ illa
 fara
 mz
 them
-Ananias
+ananias
 war
 en
 falser
@@ -4226,7 +4226,7 @@ badhe
 folk
 oc
 gærsima
-Ieremias
+ieremias
 swarade
 gudh
 gaffwe
@@ -4238,7 +4238,7 @@ som
 thu
 sighir
 æn
-Jak
+jak
 sighir
 nw
 tik
@@ -4266,7 +4266,7 @@ manadha
 oc
 ey
 længhir
-Ananias
+ananias
 doo
 som
 jeremias
@@ -4275,7 +4275,7 @@ honom
 aff
 hans
 dødh
-Rædhis
+rædhis
 sedechias
 oc
 trodhe
@@ -4286,7 +4286,7 @@ sændhe
 skat
 til
 babilonem
-Ieremias
+ieremias
 sændhe
 sin
 breff
@@ -4393,7 +4393,7 @@ oc
 nekadhe
 honom
 skat
-Tha
+tha
 kom
 nabodonozor
 maktoghir
@@ -4451,7 +4451,7 @@ aata
 sin
 eghin
 barn
-Æptir
+æptir
 halfwan
 annan
 iæmlangan
@@ -4463,7 +4463,7 @@ som
 ytre
 mwren
 gømdo
-Tha
+tha
 rymdhe
 sedechias
 annan
@@ -4476,7 +4476,7 @@ bæstu
 mæn
 mz
 honom
-Nabugodonozor
+nabugodonozor
 mæn
 gato
 gripit
@@ -4520,7 +4520,7 @@ føra
 n
 til
 babylonem
-Hær
+hær
 ændas
 nu
 iuda
@@ -4552,12 +4552,12 @@ thwem
 konunghom
 oc
 xx
-Hær
+hær
 børias
 v
 wærldena
 aldir
-Nabugodonozor
+nabugodonozor
 læt
 nidhir bryta
 allan
@@ -4583,7 +4583,7 @@ at
 iordhena
 æpthir
 han
-Nabugodonosor
+nabugodonosor
 læt
 biudha
 jeremie
@@ -4610,14 +4610,14 @@ wildhe
 fræls
 innan
 iuda lande
-Ieremias
+ieremias
 walde
 sik
 at
 boo
 innan
 iudea
-Nabugodonozor
+nabugodonozor
 skipade
 en
 godhan
@@ -4626,7 +4626,7 @@ godoliam
 foghata
 iffwir
 iudeam
-En
+en
 aff
 iuda konunga
 slækt
@@ -4642,7 +4642,7 @@ før
 han
 war
 fangen
-Tha
+tha
 konungen
 mz
 konungx
@@ -4664,7 +4664,7 @@ drap
 godoliam
 iuda
 landz foghata
-Tha
+tha
 waro
 iuda
 rædde
@@ -4692,7 +4692,7 @@ enkte
 liffdhe
 æptir
 annat
-Judei
+judei
 giordo
 sith
 radh
@@ -4700,7 +4700,7 @@ a mot
 ieremie
 prophete
 radhe
-Oc
+oc
 rymdo
 alle
 saman
@@ -4723,7 +4723,7 @@ wt aff
 iudea
 iursala
 land
-Scamman
+scamman
 thima
 ther æptir
 stridhu
@@ -4749,7 +4749,7 @@ som
 jeremias
 propheta
 spade
-Iudar
+iudar
 drapo
 jeremiam
 innan
@@ -4785,7 +4785,7 @@ han
 wan
 juda
 land
-Egyptu
+egyptu
 hiøllo
 jeremiam
 wærdughan
@@ -4835,7 +4835,7 @@ wetto
 them
 gudelican
 hedhir
-Oc
+oc
 war
 thz
 førsta
@@ -4849,7 +4849,7 @@ før
 hon
 war
 fødh
-Egyptum
+egyptum
 jordadho
 ieremiam
 mz
@@ -4867,7 +4867,7 @@ etirblandat
 nær
 hans
 mwld
-Alexandhir
+alexandhir
 konunghir
 aff
 grecia
@@ -4909,7 +4909,7 @@ ther
 enkte
 etir
 wara
-Nabogodonosor
+nabogodonosor
 ødhe
 swa
 egyptum
@@ -4934,7 +4934,7 @@ førde
 han
 til
 babilonem
-Sidhan
+sidhan
 stodh
 iudea
 ødhe
@@ -4943,7 +4943,7 @@ aar
 aff
 iuda
 bygningh
-Nabogodonozor
+nabogodonozor
 satte
 iuda
 land
@@ -5015,7 +5015,7 @@ gærna
 oc
 drak
 litet
-Nabogodonozor
+nabogodonozor
 saa
 en
 rædelikin
@@ -5057,7 +5057,7 @@ hwat
 hans
 drøma
 teknadhe
-Enghin
+enghin
 hittis
 thæn
 honom
@@ -5070,7 +5070,7 @@ daniel
 kallades
 før
 konungen
-Daniel
+daniel
 sagde
 til
 konungin
@@ -5080,7 +5080,7 @@ omøgelikit
 nakrom
 manne
 wisa
-Gudh
+gudh
 ær
 thæn
 innan
@@ -5101,7 +5101,7 @@ drømom
 hwat
 warda
 skal
-Thu
+thu
 hugxade
 hærra
 før æn
@@ -5131,7 +5131,7 @@ wældukt
 iffwir
 all
 rike
-Sidhan
+sidhan
 thu
 sompnadhe
 tha
@@ -5158,7 +5158,7 @@ bilæte
 ællir
 ena
 script
-The
+the
 sama
 statua
 haffdhe
@@ -5187,7 +5187,7 @@ somme
 skører
 som
 skala
-Thu
+thu
 min
 hærra
 oc
@@ -5204,7 +5204,7 @@ længe
 som
 thz
 standhir
-Æptir
+æptir
 thit
 rike
 kombir
@@ -5225,7 +5225,7 @@ nw
 ær
 thit
 rike
-Thz
+thz
 riket
 war
 cyri
@@ -5253,7 +5253,7 @@ som
 nidhirbrutu
 babylons
 rike
-Tridhia
+tridhia
 riket
 aff
 eer
@@ -5292,12 +5292,12 @@ frælsadh
 innan
 skaman
 tima
-Fiærda
+fiærda
 riket
 aff
 iærn
 wardhir
-Romara
+romara
 rike
 swa
 starkt
@@ -5315,7 +5315,7 @@ som
 iærn
 allan
 malm
-Thæs
+thæs
 føthir
 æru
 blandhade
@@ -5354,7 +5354,7 @@ badhe
 mællan
 iulium
 oc
-Antonium
+antonium
 oc
 swa
 mællan
@@ -5362,7 +5362,7 @@ constantium
 magnum
 oc
 maxencium
-En
+en
 sten
 kom
 aff
@@ -5375,7 +5375,7 @@ brøt nidhir
 scriptena
 ælla
 bilæte
-Thz
+thz
 ær
 at
 sighia
@@ -5402,7 +5402,7 @@ sighia
 wtan
 likama
 bland
-Om
+om
 thæn
 tima
 sagdhe
@@ -5440,7 +5440,7 @@ domadagh
 oc
 ændis
 ekke
-Tha
+tha
 fiøl
 nabogodonozor
 a
@@ -5457,7 +5457,7 @@ iuir
 all
 babylonie
 rike
-Daniel
+daniel
 skipade
 swa
 mz
@@ -5485,7 +5485,7 @@ rædh
 iuir
 babylonem
 siælfwan
-Nabogodonozor
+nabogodonozor
 war
 tha hwaro
 hedhin
@@ -5581,7 +5581,7 @@ han
 vt a
 hælwitis
 baal
-Nabugodonozor
+nabugodonozor
 læt
 gøra
 ena
@@ -5610,7 +5610,7 @@ statue
 som
 sannom
 gudhi
-Oc
+oc
 hwa
 som
 ey
@@ -5631,13 +5631,13 @@ alna
 høghir
 iffwir
 onghnen
-Daniel
+daniel
 war
 mædhan
 hema
 innan
 babylonie
-Three
+three
 hans
 kompana
 ananias
@@ -5693,7 +5693,7 @@ mz
 glædhi
 wtan
 meen
-Thæn
+thæn
 sanghir
 hethir
 benedicte
@@ -5728,7 +5728,7 @@ war
 liker
 gudz
 syni
-Tha
+tha
 øpthe
 nabugodonosor
 oc
@@ -5744,7 +5744,7 @@ iuda
 gud
 til
 hiælp
-Oc
+oc
 skipade
 at
 hwar
@@ -5770,7 +5770,7 @@ thera
 wald
 oc
 syslo
-Nabugodonozor
+nabugodonozor
 drømdhe
 som
 han
@@ -5838,7 +5838,7 @@ tha
 thæs
 røthir
 standha
-Syw
+syw
 aar
 skal
 thz
@@ -5878,7 +5878,7 @@ rike
 hwem
 han
 wil
-Daniel
+daniel
 tydhe
 honom
 drømen
@@ -5926,7 +5926,7 @@ mannom
 oc
 aff
 waldom
-Daniel
+daniel
 badh
 før
 honom
@@ -5945,7 +5945,7 @@ aar
 innan
 vij
 manadha
-Sidhan
+sidhan
 fik
 nabugodonozor
 atir
@@ -5966,7 +5966,7 @@ føre
 sik
 vij
 domara
-Siw
+siw
 aar
 sidhan
 han
@@ -6000,7 +6000,7 @@ a
 them
 vij
 arom
-Iosephus
+iosephus
 sighir
 at
 nabugodonozor
@@ -6031,18 +6031,18 @@ oc
 vij
 aar
 sidhan
-Æptir
+æptir
 nabugodonsor
 gambla
 dødhan
 thok
 widh
 rikeno
-Nabugodonosor
+nabugodonosor
 vnge
 hans
 son
-Thænne
+thænne
 nabugodonozor
 war
 æn
@@ -6063,7 +6063,7 @@ haffde
 brodhir
 som
 het
-Eiulmerodagh
+eiulmerodagh
 thænne
 for
 ostyrlika
@@ -6112,7 +6112,7 @@ nampn
 het
 echonias
 wnge
-Eiulmerodagh
+eiulmerodagh
 laa
 fangin
 æ mædhan
@@ -6121,7 +6121,7 @@ fadhir
 oc
 brodhir
 liffdho
-Æptir
+æptir
 nabugodonozor
 wnga
 dødhan
@@ -6146,7 +6146,7 @@ sigh
 nakon
 annan
 konungh
-Eiulmerodagh
+eiulmerodagh
 rædhis
 at
 hans
@@ -6219,7 +6219,7 @@ dødha
 oc
 aldrigh
 før
-Eiulmerodagh
+eiulmerodagh
 haffdhe
 son
 som
@@ -6232,7 +6232,7 @@ konunghir
 hans
 fadhir
 dødhan
-Innan
+innan
 hans
 daghom
 teedhe
@@ -6257,7 +6257,7 @@ nabugodonozor
 mz
 enne
 statua
-Danieli
+danieli
 teedhis
 oc
 æn
@@ -6293,7 +6293,7 @@ skal
 stan
 halfiærda
 aar
-En
+en
 røst
 aff
 himblum
@@ -6312,7 +6312,7 @@ thz
 at
 sighia
 døø
-Ihesus
+ihesus
 christus
 han
 skal
@@ -6363,7 +6363,7 @@ thot hwaro
 yngre
 aat
 mandomenom
-Daniel
+daniel
 tedhis
 j
 baltzar
@@ -6380,13 +6380,13 @@ iherusalem
 oc
 hans
 offir
-Æn
+æn
 sidhan
 thz
 wordhe
 atir
 wp giort
-Oc
+oc
 thz
 skulle
 standa
@@ -6399,7 +6399,7 @@ manadha
 oc
 xx
 dagha
-CYrus
+cyrus
 persie
 konunghir
 oc
@@ -6419,7 +6419,7 @@ oc
 belagde
 cyrus
 babylonem
-Baltazar
+baltazar
 rædhis
 them
 enkte
@@ -6460,7 +6460,7 @@ han
 oc
 hans
 wenir
-Tha
+tha
 saa
 baltazar
 ena
@@ -6480,13 +6480,13 @@ tydha
 før æn
 daniel
 kom
-Swa
+swa
 war
 scriffwat
-Mane
+mane
 techel
 phares
-Daniel
+daniel
 sagde
 til
 baltazar
@@ -6521,7 +6521,7 @@ han
 kændis
 widh
 gudh
-Thætta
+thætta
 wiste
 tu
 wæl
@@ -6539,7 +6539,7 @@ oc
 loffua
 thina
 affgudha
-Thæssin
+thæssin
 scriptin
 hon
 budhar
@@ -6547,7 +6547,7 @@ tik
 bradelika
 gudz
 hæmpdh
-Mane
+mane
 sighir
 oc
 tydhir
@@ -6563,7 +6563,7 @@ dagha
 wardha
 ekke
 flere
-Thechel
+thechel
 sighir
 swa
 oc
@@ -6585,7 +6585,7 @@ wardhir
 minna
 wyrdhir
 hædhan fraa
-Phares
+phares
 sighir
 swa
 oc
@@ -6598,7 +6598,7 @@ skipta
 medi
 oc
 perse
-Tha
+tha
 samo
 nat
 fik
@@ -6625,7 +6625,7 @@ rike
 oc
 drapo
 baltazar
-Cyrus
+cyrus
 war
 systhir son
 darij
@@ -6668,7 +6668,7 @@ frælsir
 æptir
 lxx
 aar
-Daniel
+daniel
 badh
 wan
 hærra
@@ -6756,7 +6756,7 @@ tha
 nee
 gen
 honom
-Sidhan
+sidhan
 skulu
 romara
 koma
@@ -6776,7 +6776,7 @@ sidhan
 æwærdelica
 øde
 standa
-Thzta
+thzta
 wisade
 gudz
 ængil
@@ -6799,7 +6799,7 @@ wisadhe
 iudom
 sinom
 frændhom
-Oc
+oc
 maa
 hwar
 man
@@ -6810,7 +6810,7 @@ the
 æru
 sannelica
 blindhe
-Vespacianus
+vespacianus
 romara
 kesare
 oc
@@ -6824,7 +6824,7 @@ ierusalem
 wars
 hærra
 dødh
-Æpthir
+æpthir
 them
 war
 domicianus
@@ -6835,10 +6835,10 @@ kesare
 domicianum
 war
 nærua
-Æptir
+æptir
 næruam
 traianus
-Innan
+innan
 hans
 daghom
 frestadho
@@ -6856,7 +6856,7 @@ som
 hon
 stodh
 føør
-Tha
+tha
 teedhos
 iudha
 rædelik
@@ -6871,7 +6871,7 @@ oc
 rymdo
 fran
 gærningenne
-Annan
+annan
 tima
 kommo
 the
@@ -6894,7 +6894,7 @@ oc
 fraa
 the
 sinne
-Sidan
+sidan
 byggo
 kristne
 mæn
@@ -6927,7 +6927,7 @@ tha
 war
 hærra
 pintis
-Darius
+darius
 haffde
 danielem
 kæran
@@ -6958,7 +6958,7 @@ oc
 xx
 første
 hærra
-En
+en
 tima
 ther
 daniel
@@ -7026,7 +7026,7 @@ taka
 hwar
 sin
 løn
-Oc
+oc
 antichristus
 skal
 wardha
@@ -7074,7 +7074,7 @@ sæl
 them
 daghenom
 naar
-Æptir
+æptir
 darium
 dødhan
 fik
@@ -7108,7 +7108,7 @@ j
 daghom
 ezechie
 iuda konungx
-Han
+han
 propheteradhe
 swa
 aff
@@ -7120,7 +7120,7 @@ hærra
 taladhe
 swa
 siælfwir
-Iak
+iak
 haffwir
 gripit
 høghra
@@ -7135,7 +7135,7 @@ vndhi
 han
 all
 riken
-Cyrus
+cyrus
 widhir thok
 sidhan
 at
@@ -7172,7 +7172,7 @@ at
 wpbyggia
 atir
 iherusalem
-Oc
+oc
 læt
 cyrus
 scriffwa
@@ -7194,7 +7194,7 @@ han
 ær
 iuda
 gudh
-Oc
+oc
 manade
 iudha
 innan
@@ -7215,7 +7215,7 @@ templum
 domini
 oc
 stadhen
-Zacharias
+zacharias
 propheta
 føddhir
 aff
@@ -7242,7 +7242,7 @@ som
 cyrus
 bødh
 them
-Salachiel
+salachiel
 war
 son
 ioachim
@@ -7282,7 +7282,7 @@ wt aff
 babylonia
 til
 iherusalem
-Zorobabel
+zorobabel
 war
 wæl
 forman
@@ -7321,7 +7321,7 @@ thu
 thusandh
 frælsa
 manna
-Cyrus
+cyrus
 konunghir
 gaff
 them
@@ -7366,7 +7366,7 @@ til
 iherusalem
 at
 byggia
-Samaritani
+samaritani
 heto
 the
 som
@@ -7379,7 +7379,7 @@ stadh
 at
 boa
 ther
-The
+the
 sama
 samaritani
 baaro
@@ -7426,14 +7426,14 @@ læggia
 sin
 arm
 vp aa
-Cyrus
+cyrus
 war
 godhir
 iudom
 æ mædhan
 han
 lifde
-Æptir
+æptir
 han
 dødhan
 wart
@@ -7446,7 +7446,7 @@ fyughir
 nampm
 han
 heet
-Cambises
+cambises
 han
 heet
 artaxerses
@@ -7456,7 +7456,7 @@ asuerus
 oc
 heet
 nabugodonsor
-Innan
+innan
 hans
 daghom
 war
@@ -7466,7 +7466,7 @@ olofernes
 som
 hon
 drap
-Til
+til
 thænna
 konung
 scriffwado
@@ -7506,7 +7506,7 @@ længhir
 skat
 aff
 iudhom
-Tha
+tha
 for bødh
 cambises
 iudom
@@ -7521,7 +7521,7 @@ domini
 tha
 war
 bygt
-Cambises
+cambises
 haffdhe
 en
 brodhir
@@ -7555,7 +7555,7 @@ hærra
 var
 han
 heryneides
-Cambises
+cambises
 doo
 sonaløs
 heryneides
@@ -7571,7 +7571,7 @@ styra
 rikit
 vndir
 mergum
-Cambises
+cambises
 brodhir
 som
 enghin
@@ -7582,7 +7582,7 @@ war
 wtan
 ensamin
 heryneides
-Siw
+siw
 manadha
 liffdhe
 heryneides
@@ -7619,7 +7619,7 @@ før
 allom
 rikis
 hærrom
-En
+en
 walloghir
 hærra
 vndir stodh
@@ -7665,7 +7665,7 @@ konungen
 wart
 honom
 wredhir
-Amian
+amian
 sagde
 sinom
 fadhir
@@ -7674,7 +7674,7 @@ konungen
 haffde
 engin
 øron
-Sidhan
+sidhan
 taladis
 thz
 mællan
@@ -7722,7 +7722,7 @@ darius
 loffwat
 oc
 iættat
-Zorobabel
+zorobabel
 at
 byggia
 wp
@@ -7739,7 +7739,7 @@ nakon
 rikedom
 at
 radha
-Zorobabel
+zorobabel
 war
 fæghin
 thera
@@ -7756,9 +7756,9 @@ at
 byggia
 teplum
 domini
-Aggeus
+aggeus
 oc
-Zacharias
+zacharias
 prophete
 trøste
 han
@@ -7795,7 +7795,7 @@ badhe
 the
 oc
 han
-Zorobabel
+zorobabel
 war
 swa
 wælkommen
@@ -7845,7 +7845,7 @@ tree
 thridi
 war
 zorobabel
-Thæn
+thæn
 første
 aff
 them
@@ -7876,7 +7876,7 @@ før
 ær
 konungen
 starkast
-Annar
+annar
 sagde
 at
 winith
@@ -7887,7 +7887,7 @@ waro
 tæsse
 hans
 skæl
-Mannin
+mannin
 han
 radhir
 allo
@@ -7914,7 +7914,7 @@ drikkir
 som
 andri
 mæn
-Zorobabel
+zorobabel
 war
 thæn
 tridhi
@@ -7945,7 +7945,7 @@ them
 ther
 viin qwistana
 planta
-Oc
+oc
 før
 qwinnona
 skuld
@@ -7986,7 +7986,7 @@ gladh
 tha
 syrgde
 han
-Thot huaro
+thot huaro
 tykkir
 mig
 sagde
@@ -8024,11 +8024,11 @@ oc
 sagdu
 allir
 at
-Zorobabel
+zorobabel
 sagde
 aldra
 sannast
-Tha
+tha
 badh
 konungen
 honom
@@ -8065,7 +8065,7 @@ ey
 waaro
 æn
 atir sændh
-Darius
+darius
 vette
 honom
 gærna
@@ -8086,10 +8086,10 @@ loffuat
 oc
 sænde
 atir
-Zorobabel
+zorobabel
 mz
 breffwom
-Zorobabel
+zorobabel
 bygde
 wp
 sidhan
@@ -8105,7 +8105,7 @@ syunda
 ari
 darij
 konungx
-Fraa
+fraa
 them
 tima
 cyrus
@@ -8145,7 +8145,7 @@ oc
 vj
 aar
 thy at
-Cyrus
+cyrus
 war
 xxx
 aar
@@ -8156,7 +8156,7 @@ hans
 son
 atta
 aar
-Oc
+oc
 herineides
 oc
 hans
@@ -8225,7 +8225,7 @@ vp
 innan
 thre
 dagha
-Nw
+nw
 haffua
 iudhar
 templum
@@ -8252,7 +8252,7 @@ waldførdho
 iuda
 til
 babylonem
-Æptir
+æptir
 darium
 dødan
 war
@@ -8291,7 +8291,7 @@ rætti
 iudha
 sith
 wald
-Innan
+innan
 hans
 daghom
 war
@@ -8347,10 +8347,10 @@ biscops
 som
 atir for
 mz
-Zorobabel
+zorobabel
 til
 iherusalem
-Thænne
+thænne
 same
 esdras
 ælla
@@ -8369,7 +8369,7 @@ fram
 til
 sina
 dagha
-Artexerses
+artexerses
 konunghir
 haffde
 esdram
@@ -8412,7 +8412,7 @@ som
 æn
 æru
 vtlændis
-Iudhar
+iudhar
 waro
 fængir
 oc
@@ -8442,21 +8442,21 @@ alzskona
 ræth
 oc
 sidhi
-Nw
+nw
 haffua
 iudar
 atirfangit
 bade
 templum
 mz
-Zorobabel
+zorobabel
 oc
 swa
 moysi
 lagh
 mz
 hesdra
-Ierusalem
+ierusalem
 iffwir
 liggir
 æn
@@ -8479,7 +8479,7 @@ badhe
 dagh
 oc
 nat
-En
+en
 iude
 som
 heet
@@ -8510,7 +8510,7 @@ vp
 atir
 ierusalem
 mwr
-Artexerses
+artexerses
 gaff
 neemie
 vij
@@ -8527,7 +8527,7 @@ til at
 byggia
 vp
 mwrin
-Neemias
+neemias
 kom
 mz
 dighert
@@ -8544,7 +8544,7 @@ stadhen
 innan
 vij
 aar
-Æptir
+æptir
 artæxesen
 var
 konunghir
@@ -8556,7 +8556,7 @@ han
 sagdianus
 vij
 manadha
-Æpthir
+æpthir
 han
 darius
 nothus
@@ -8568,7 +8568,7 @@ andro
 nampne
 heth
 asuerus
-Jnnan
+jnnan
 hans
 tima
 war
@@ -8576,7 +8576,7 @@ hester
 regina
 oc
 mardocheus
-Æptir
+æptir
 asuerum
 war
 konunghir
@@ -8609,7 +8609,7 @@ greci
 walloghir
 iffwir
 riken
-Nw
+nw
 møthir
 hær
 hystoria
@@ -8664,7 +8664,7 @@ til
 wars
 hærra
 pynor
-Aff
+aff
 zorobabel
 kom
 abiud
@@ -8695,7 +8695,7 @@ iacob
 aff
 iacob
 iosep
-Joseph
+joseph
 war
 wara
 fru
@@ -8713,7 +8713,7 @@ giptas
 vtan
 sina
 slækt
-Sanctus
+sanctus
 ieronius
 sighir
 swa
@@ -8803,19 +8803,19 @@ tydha
 twe
 latins versir
 tæsse
-Milia
+milia
 sunt
 quinque
 centum
 nonaginta
 nouemque
-Annos
+annos
 ad
 cristum
 si
 numerare
 velis
-Kunungær
+kunungær
 latær
 kirkiu
 byria
@@ -8823,7 +8823,7 @@ böndær
 til
 lukins
 gæra
-Nu
+nu
 ær
 kirkia
 giorþ
@@ -8876,7 +8876,7 @@ skal
 alt
 sokn
 kusta
-Siþan
+siþan
 skal
 biskupe
 buþ
@@ -8893,7 +8893,7 @@ ok
 sialuær
 han
 þrættande
-Þrim
+þrim
 borþum
 æru
 böndær
@@ -8996,7 +8996,7 @@ halft
 pund
 mæþ
 uax
-Nu
+nu
 þa
 biskupær
 will
@@ -9029,7 +9029,7 @@ a
 kirkiu bol
 mote
 hanum
-Skötninga
+skötninga
 alla
 þa
 sum
@@ -9069,7 +9069,7 @@ föþu
 kirkiu
 til
 skruz
-Nu
+nu
 dele
 præstær
 ok
@@ -9113,7 +9113,7 @@ huat
 hon
 uill
 hældær
-Nu
+nu
 hulkit
 hældær
 præstær
@@ -9217,7 +9217,7 @@ kunungær
 ok
 þrea
 hæræþe
-Þa
+þa
 skal
 præst
 til
@@ -9283,7 +9283,7 @@ sætia
 ok
 præstær
 kukkara
-Nu
+nu
 kan
 kirkia
 brinna
@@ -9366,7 +9366,7 @@ af
 biskupe
 sinum
 buþ
-Nu
+nu
 far
 præstær
 buþ
@@ -9377,7 +9377,7 @@ bonda
 skripta
 ok
 olia
-Nu
+nu
 kombær
 barn
 ok
@@ -9434,7 +9434,7 @@ eþe
 sialuær
 han
 þriþi
-Far
+far
 han
 eþ
 gangit
@@ -9449,7 +9449,7 @@ böte
 markær
 arua
 bondans
-Nu
+nu
 ær
 þæt
 klokkarans
@@ -9462,7 +9462,7 @@ i
 sokn
 mæþ
 præste
-Nu
+nu
 dör
 bonde
 þa
@@ -9521,7 +9521,7 @@ huaria
 han
 siþan
 uakær
-Nu
+nu
 liggær
 lik
 um
@@ -9580,7 +9580,7 @@ sum
 förþe
 likit
 iui
-Nu
+nu
 a
 præstær
 likinu
@@ -9591,7 +9591,7 @@ ok
 gript
 at
 wighia
-Nu
+nu
 a
 bonde
 salamæssu
@@ -9619,7 +9619,7 @@ lius
 ælla
 þrætiughu
 pænninga
-Nu
+nu
 ær
 klukkara
 skuld
@@ -9645,7 +9645,7 @@ n
 örtugh
 klokkara
 giua
-Nu
+nu
 lusna
 band
 a
@@ -9669,7 +9669,7 @@ um
 ok
 sokn
 til sighia
-Nu
+nu
 faldær
 klokka
 niþær
@@ -9694,7 +9694,7 @@ arua
 klokkarans
 af
 kirkiu fæ
-Nu
+nu
 bristær
 klokka
 siþan
@@ -9702,7 +9702,7 @@ laghuarat
 ær
 ligge
 ogildær
-Nu
+nu
 bristær
 klokka
 þa
@@ -9716,7 +9716,7 @@ markum
 böte
 klokkarin
 kirkiu gömarum
-Nu
+nu
 ringir
 þæn
 sum
@@ -9765,7 +9765,7 @@ klokku
 uari
 ok
 saklös
-Nu
+nu
 giuær
 klokkare
 hanum
@@ -9803,7 +9803,7 @@ bande
 a
 klokkarin
 uarþa
-Nu
+nu
 a
 præstær
 firi
@@ -9812,7 +9812,7 @@ sina
 allan
 kuikan
 tiunda
-Nu
+nu
 bonde
 tiunda
 af
@@ -9845,7 +9845,7 @@ rök
 sum
 han
 kombær
-Nu
+nu
 æ huat
 tiunda
 um
@@ -9860,7 +9860,7 @@ liti
 sokn
 sua
 at
-Nu
+nu
 hauær
 bonde
 sinu
@@ -9914,7 +9914,7 @@ han
 egh
 atær
 gialda
-Ok
+ok
 bonde
 ok
 bryti
@@ -9925,7 +9925,7 @@ sik
 ok
 sin
 hion
-Nu
+nu
 skal
 bonde
 tuem
@@ -9959,7 +9959,7 @@ baþe
 fatöke
 ok
 riki
-Nu
+nu
 sitær
 hussætu maþær
 i
@@ -9996,7 +9996,7 @@ leghu drængær
 gæri
 þæssa
 pænningana
-Nu
+nu
 a
 klokkare
 haluan
@@ -10012,7 +10012,7 @@ præste
 korn
 ok
 kuika
-Nu
+nu
 a
 præstær
 ok
@@ -10031,7 +10031,7 @@ paska
 þriþiu
 um
 pingizs dagha
-Nu
+nu
 alle
 þe
 sum
@@ -10051,7 +10051,7 @@ et
 sin
 um
 arit
-Nu
+nu
 kan
 præstær
 ok
@@ -10091,7 +10091,7 @@ höre
 þa
 wari
 saklös
-Nu
+nu
 ær
 præstær
 ok
@@ -10108,7 +10108,7 @@ tiunda
 korn
 ok
 kuika
-Nu
+nu
 kan
 uæghfarande
 man
@@ -10153,7 +10153,7 @@ kuste
 half
 mark
 taka
-Þa
+þa
 ær
 þæt
 bondans
@@ -10242,7 +10242,7 @@ præstær
 biskupe
 trea
 markær
-Dör
+dör
 stafkarl
 i
 sokn
@@ -10261,7 +10261,7 @@ mera
 pik
 ok
 skræppu
-Nu
+nu
 sitær
 bonde
 kuar
@@ -10289,7 +10289,7 @@ ok
 sua
 firi
 þriþia
-Sitær
+sitær
 kuar
 um
 þry
@@ -10297,7 +10297,7 @@ böte
 biskupe
 þrea
 markær
-Nu
+nu
 före
 bonde
 egh
@@ -10378,7 +10378,7 @@ sum
 för
 uar
 saght
-Nu
+nu
 ær
 biskupær
 skyldughær
@@ -10528,7 +10528,7 @@ biskups næmd
 kuma
 ekke
 huma mal
-Alli
+alli
 eþa
 aghu
 a
@@ -10549,7 +10549,7 @@ kirkiu ran
 hælghu dagha bardaghi
 ok
 hælghudagha brut
-Þæssa
+þæssa
 eþa
 þa
 fælle
@@ -10573,7 +10573,7 @@ ok
 göþslu eþa
 ok
 sætis eþa
-Ok
+ok
 alle
 þe
 eþa
@@ -10595,7 +10595,7 @@ sum
 firi
 trulldoma
 suærias
-Nu
+nu
 a
 egh
 tuæsuare
@@ -10606,7 +10606,7 @@ koma
 a
 slita
 hærazs næmd
-Nu
+nu
 uitnar
 man
 sinn
@@ -10661,7 +10661,7 @@ egh
 biskups rætte
 bort
 skripta
-Suæria
+suæria
 þer
 egh
 baþir
@@ -10723,7 +10723,7 @@ fasta
 ok
 fæ
 böta
-Nu
+nu
 dele
 præstær
 ok
@@ -10752,7 +10752,7 @@ firi
 biskupe
 ælla
 prouaste
-Nu
+nu
 uarþær
 kona
 dighær
@@ -10795,7 +10795,7 @@ at
 hon
 hauande
 uar
-Nu
+nu
 kære
 biskups
 soknare
@@ -10821,7 +10821,7 @@ at
 hon
 hauande
 war
-Nu
+nu
 takær
 maþær
 yppinbarlika
@@ -10850,7 +10850,7 @@ hialpær
 hanum
 egh
 lönda skript
-Ælla
+ælla
 gær
 hor
 ælla
@@ -10880,7 +10880,7 @@ biskupe
 firi
 þrea
 markær
-Nu
+nu
 liggær
 maþær
 i
@@ -10926,7 +10926,7 @@ böte
 biskupe
 þrea
 markær
-Nu
+nu
 gangær
 fiughurtan
 manna
@@ -10949,7 +10949,7 @@ egh
 lönda skript
 firi
 biskups sak
-Nu
+nu
 ma
 ængin
 eþ
@@ -10972,7 +10972,7 @@ uitnum
 hana
 atær
 döma
-Nu
+nu
 fællir
 annur
 næmd
@@ -11012,7 +11012,7 @@ skal
 fælla
 ælla
 wæria
-Nu
+nu
 uarþær
 maþær
 fældær
@@ -11039,7 +11039,7 @@ witz orþ
 ok
 uari
 uarþær
-Nu
+nu
 skil
 þöm
 a
@@ -11065,7 +11065,7 @@ wilia
 sum
 flere
 æru
-Nu
+nu
 wil
 næmdin
 huazke
@@ -11116,7 +11116,7 @@ böte
 firi
 tolf
 markær
-Nu
+nu
 æn
 siax
 uilia
@@ -11137,7 +11137,7 @@ ok
 i
 allum
 næmdum
-Nu
+nu
 skal
 biskups næmd
 sannind
@@ -11145,7 +11145,7 @@ leta
 ok
 hærazs næmd
 lagha gærþ
-Nu
+nu
 gangær
 man
 eþ
@@ -11195,7 +11195,7 @@ skriptaþær
 æn
 eþrin
 fællis
-Nu
+nu
 kunungx sak
 ælla
 hærazs sak
@@ -11223,7 +11223,7 @@ sua
 biskups sak
 sum
 kunungx sak
-Nu
+nu
 uarþær
 næmd
 atær dömd
@@ -11276,7 +11276,7 @@ hwuzs man
 firi
 sialuan
 sik
-Nu
+nu
 gifs
 nokrum
 ur
@@ -11295,7 +11295,7 @@ se
 saklös
 firi
 biskpe
-Sua
+sua
 ok
 i
 allum
@@ -11314,7 +11314,7 @@ aghu
 egh
 biskupe
 böta
-Nu
+nu
 kære
 soknarin
 til
@@ -11361,7 +11361,7 @@ böte
 sum
 skilt
 ær
-Nu
+nu
 sum
 mange
 aghu
@@ -11431,7 +11431,7 @@ enum
 i
 atte
 sakinne
-Siþan
+siþan
 læggin
 þingsmæn
 hanum
@@ -11488,7 +11488,7 @@ fæstær
 ok
 hete
 saklös
-Nu
+nu
 kunnu
 þer
 koma
@@ -11526,7 +11526,7 @@ stæmnu manna eþ
 ok
 se
 saklös
-Nu
+nu
 ær
 þæt
 boda
@@ -11588,7 +11588,7 @@ ok
 egh
 fææ
 böta
-Nu
+nu
 firi
 allum
 andrum
@@ -11618,14 +11618,14 @@ sakær
 at
 þrim
 markum
-Gær
+gær
 a
 ykil dagh
 sakær
 at
 siax
 örum
-Nu
+nu
 se
 maþær
 man
@@ -11674,7 +11674,7 @@ rætte
 sik
 uiþ
 guþ
-Nu
+nu
 uill
 han
 egh
@@ -11699,7 +11699,7 @@ iak
 hauær
 þik
 kallat
-Nu
+nu
 uill
 h
 egh
@@ -11723,7 +11723,7 @@ biþia
 han
 rætta
 sik
-Nu
+nu
 dull
 han
 þa
@@ -11770,7 +11770,7 @@ ok
 egh
 fa
 böta
-Nu
+nu
 biuþær
 han
 egh
@@ -11788,7 +11788,7 @@ ma
 han
 fram
 sæghia
-Nu
+nu
 will
 han
 þa
@@ -11811,7 +11811,7 @@ fasta
 ok
 fæ
 böta
-Nu
+nu
 gangær
 in
 iula friþær
@@ -11833,7 +11833,7 @@ dagh
 æptær
 tolfta
 dagh
-Nu
+nu
 gangær
 in
 paska friþær
@@ -11857,7 +11857,7 @@ dagh
 æfte
 första
 dagh
-Nu
+nu
 gangær
 pingz dagha hælghþ
 in
@@ -11876,7 +11876,7 @@ sungin
 a
 attunda
 daghinum
-Nu
+nu
 ær
 kirkmæssu hælgþ
 fran
@@ -11894,7 +11894,7 @@ aptunsangær
 sungin
 a
 daghinum
-Huar
+huar
 sum
 bærs
 i
@@ -11914,7 +11914,7 @@ mæþ
 tolf
 manna
 eþi
-Nu
+nu
 skærdax hælghþ
 ok
 pætars mæssu
@@ -11950,7 +11950,7 @@ sina
 at
 fiuratighi
 markum
-Þær
+þær
 skal
 tiughu
 makær
@@ -11961,7 +11961,7 @@ ok
 tiughu
 markær
 biskupær
-Giuær
+giuær
 mæþr
 eghn
 til
@@ -11981,7 +11981,7 @@ haluæn
 i
 hæluanum
 liggær
-Nu
+nu
 dela
 þön
 innan
@@ -12000,7 +12000,7 @@ huat
 han
 hafþe
 atær
-Þæt
+þæt
 ær
 en
 huwþ lutær
@@ -12020,7 +12020,7 @@ sum
 en
 þerra
 takær
-Antuiggia
+antuiggia
 dylia
 at
 han
@@ -12036,7 +12036,7 @@ han
 ok
 egh
 mera
-Nu
+nu
 æn
 klöstær
 hauær
@@ -12047,7 +12047,7 @@ mæþ
 fiughurtan
 manna
 eþe
-Nu
+nu
 bærias
 mæn
 i
@@ -12074,7 +12074,7 @@ lata
 atær
 skira
 kirkiu garþin
-Nu
+nu
 dæpas
 mæn
 ælla
@@ -12096,7 +12096,7 @@ skal
 krkiu
 uighia
 lata
-Nu
+nu
 warþær
 man
 firi
@@ -12127,7 +12127,7 @@ ok
 egh
 firi
 fea giald
-Nu
+nu
 sitær
 han
 i
@@ -12143,7 +12143,7 @@ han
 i
 ban
 sætia
-Nu
+nu
 sitær
 han
 i
@@ -12162,7 +12162,7 @@ at
 niu
 markum
 sakær
-Nu
+nu
 all
 annur
 misfall
@@ -12178,7 +12178,7 @@ hans
 ok
 egh
 feia giald
-Nu
+nu
 uill
 han
 egh
@@ -12209,7 +12209,7 @@ taka
 ok
 kunungær
 lösöra
-Nu
+nu
 myrþir
 moþir
 barn
@@ -12239,7 +12239,7 @@ egh
 uinnas
 hænna
 at
-Nu
+nu
 æn
 þæn
 kærir
@@ -12306,7 +12306,7 @@ sökia
 skal
 hæræzs næmd
 slita
-Nu
+nu
 æn
 hana
 uænis
@@ -12325,7 +12325,7 @@ uæria
 hana
 ælla
 fælla
-Nu
+nu
 ma
 egh
 biskups
@@ -12341,7 +12341,7 @@ yppinbar
 mal
 ok
 laghwnnin
-Giwær
+giwær
 soknare
 bondans
 kunu
@@ -12362,7 +12362,7 @@ böte
 soknarin
 fiuratighi
 markær
-Nu
+nu
 ma
 egh
 biskups
@@ -12406,7 +12406,7 @@ eþe
 biskupe
 þre
 markær
-Nu
+nu
 æn
 han
 takær
@@ -12498,7 +12498,7 @@ atte
 i
 bo
 bondans
-Nu
+nu
 æn
 hon
 löpær
@@ -12525,7 +12525,7 @@ hawær
 þem
 skilt
 at
-Nu
+nu
 æn
 bondin
 giwær
@@ -12566,7 +12566,7 @@ falzs
 wærs
 firi
 horsiangina
-Nu
+nu
 ma
 egh
 biskups
@@ -12629,7 +12629,7 @@ böte
 biskupe
 þrea
 markær
-Nu
+nu
 ær
 þæt
 biskups rættær
@@ -12648,7 +12648,7 @@ huat
 sum
 oloflikt
 ær
-Nu
+nu
 æn
 han
 skil
@@ -12674,7 +12674,7 @@ huart
 biskupe
 þrea
 markær
-Nu
+nu
 æn
 man
 sla
@@ -12692,7 +12692,7 @@ firi
 ængti
 banz mal
 annat
-Firi
+firi
 þæssin
 mal
 þa
@@ -12773,7 +12773,7 @@ markær
 þæn
 sum
 kallaþe
-Nu
+nu
 bærs
 præstær
 ok
@@ -12809,7 +12809,7 @@ sik
 lösa
 af
 banninu
-Nu
+nu
 warþær
 præstær
 sar
@@ -12836,7 +12836,7 @@ lati
 sik
 af
 lösa
-Nu
+nu
 vitir
 præstær
 bonda
@@ -12872,7 +12872,7 @@ sik
 böte
 lagha
 bötær
-Nu
+nu
 latær
 man
 wighia
@@ -12948,7 +12948,7 @@ kununna
 tua
 markær
 biskupinum
-Hær
+hær
 byrias
 kunungx
 eþzsöre
@@ -12959,12 +12959,12 @@ flokka
 fiughurtan
 ok
 tiughu
-Þæssin
+þæssin
 mal
 æru
 kunungx
 edzsöre
-Ridær
+ridær
 man
 hem
 at
@@ -12994,7 +12994,7 @@ garþ
 sökir
 i
 þrangum
-Þaghar
+þaghar
 han
 i
 garþin
@@ -13015,7 +13015,7 @@ skenu
 ælla
 gör
 bloþuiti
-Alle
+alle
 þe
 sum
 þær
@@ -13029,7 +13029,7 @@ farunöte
 hawa
 brutit
 eþsörit
-Ridær
+ridær
 man
 at
 annars
@@ -13084,7 +13084,7 @@ hanum
 uaru
 brutit
 eþzsörit
-Nu
+nu
 takær
 þæt
 hin
@@ -13111,7 +13111,7 @@ hawa
 egh
 brutit
 eþzsörit
-Nu
+nu
 riþa
 þer
 hem
@@ -13146,7 +13146,7 @@ höttær
 mæþ
 ængu
 böttær
-Bryta
+bryta
 þer
 hus
 ælla
@@ -13185,7 +13185,7 @@ han
 uart
 firi
 eþzsörit
-Nu
+nu
 kan
 man
 þæn
@@ -13215,7 +13215,7 @@ han
 fa
 i
 hemsokninne
-Nu
+nu
 kunnu
 þer
 firi fara
@@ -13236,7 +13236,7 @@ tomptinne
 ær
 alt
 ogilt
-Nu
+nu
 æn
 þe
 aghas
@@ -13270,7 +13270,7 @@ fioll
 sum
 fötær
 stoþu
-Nu
+nu
 kan
 þæn
 löpa
@@ -13316,7 +13316,7 @@ lanzs laghum
 sum
 þæt
 giorþu
-Nu
+nu
 fa
 þæn
 sar
@@ -13349,7 +13349,7 @@ egh
 hans
 bo
 skiptis
-Nu
+nu
 hittas
 mæn
 i
@@ -13402,7 +13402,7 @@ hanum
 uaru
 brutit
 eþzsörit
-Nu
+nu
 a
 þæn
 i
@@ -13423,7 +13423,7 @@ bötrina
 sum
 sarit
 fik
-Nu
+nu
 hauær
 annar
 bönina
@@ -13506,7 +13506,7 @@ förra
 böt
 uiþær
 kungin
-Nu
+nu
 ær
 þæt
 landboe
@@ -13545,7 +13545,7 @@ ok
 i
 friþi
 biþia
-Nu
+nu
 æn
 annar
 man
@@ -13600,7 +13600,7 @@ iorþattarin
 landboan
 i
 friþ
-Nu
+nu
 hæmnis
 man
 a
@@ -13626,7 +13626,7 @@ kom
 mællum
 ællas
 egh
-Nu
+nu
 ma
 man
 egh
@@ -13686,7 +13686,7 @@ hauær
 han
 brutit
 eþzssörit
-Nu
+nu
 æn
 nakuat
 ær
@@ -13698,7 +13698,7 @@ mughu
 þer
 egh
 hæmnas
-Nu
+nu
 ma
 egh
 man
@@ -13768,7 +13768,7 @@ hawær
 han
 brutit
 eþzssörit
-Nu
+nu
 takær
 man
 kunu
@@ -13805,7 +13805,7 @@ huat
 ær
 sant
 um
-Nu
+nu
 bryzs
 han
 wiþær
@@ -13828,7 +13828,7 @@ hauær
 han
 brutit
 eþzssörit
-Nu
+nu
 sitær
 man
 firi
@@ -13862,7 +13862,7 @@ hauær
 han
 brutit
 eþzsörit
-Nu
+nu
 kombær
 skialnaþær
 manna
@@ -13886,7 +13886,7 @@ andrum
 egh
 brutit
 eþzssörit
-Nu
+nu
 sitær
 man
 firi
@@ -13911,7 +13911,7 @@ höttær
 mæþ
 ængu
 böttær
-Nu
+nu
 huggær
 man
 klæþe
@@ -13940,7 +13940,7 @@ eþe
 böte
 þre
 markær
-Nu
+nu
 dræpær
 man
 annan
@@ -13972,7 +13972,7 @@ aghu
 alle
 friþ
 haua
-Nu
+nu
 æn
 man
 far
@@ -13999,7 +13999,7 @@ han
 hauær
 brutit
 eþzsörit
-Nu
+nu
 riþær
 han
 til
@@ -14032,7 +14032,7 @@ haua
 egh
 brutit
 eþzsörit
-Nu
+nu
 æltir
 man
 annan
@@ -14146,7 +14146,7 @@ af
 haua
 brutit
 eþzsörit
-Nu
+nu
 skal
 þæt
 hæræzs næmd
@@ -14174,7 +14174,7 @@ ok
 egh
 af
 þingstæmnunne
-Nu
+nu
 a
 han
 friþ
@@ -14217,7 +14217,7 @@ hauær
 han
 brutit
 eþzsörit
-Nu
+nu
 sitia
 þer
 firi
@@ -14240,7 +14240,7 @@ ok
 höttær
 sköt
 böttær
-Nu
+nu
 leþir
 maþær
 man
@@ -14263,7 +14263,7 @@ uaru
 haua
 brutit
 eþzsörit
-Nu
+nu
 kumbær
 i
 uakna skipte
@@ -14274,7 +14274,7 @@ mallum
 egh
 brutit
 eþzsörit
-Nu
+nu
 hæmnis
 man
 a
@@ -14344,7 +14344,7 @@ annar
 skialnaþær
 þerra
 mællum
-Nu
+nu
 riþær
 man
 hem
@@ -14416,7 +14416,7 @@ husum
 hans
 sandær
 þiufnaþær
-Nu
+nu
 æru
 all
 þæssin
@@ -14468,7 +14468,7 @@ annan
 kununginum
 þriþia
 hæræþinu
-Nu
+nu
 foruærka
 þer
 egh
@@ -14507,7 +14507,7 @@ ensamin
 sina
 sak
 böta
-Nu
+nu
 huar
 sum
 þöm
@@ -14591,7 +14591,7 @@ mæþ
 tolf
 manna
 eþe
-Nu
+nu
 æn
 kirkiu sok
 ælla
@@ -14615,7 +14615,7 @@ skils
 firi
 biltugha
 mæn
-Nu
+nu
 aghu
 þer
 biltugha
@@ -14682,7 +14682,7 @@ ok
 ær
 hans
 ensak
-Nu
+nu
 skal
 um
 all
@@ -14706,7 +14706,7 @@ gærþin
 uær
 gör
 i
-Nu
+nu
 skal
 hæræzs höfþingi
 biltugha
@@ -14762,7 +14762,7 @@ uara
 ok
 egh
 dylia
-Nu
+nu
 ma
 han
 egh
@@ -14791,7 +14791,7 @@ han
 böte
 firi
 ulagh
-Nu
+nu
 ma
 egh
 þæn
@@ -14841,7 +14841,7 @@ för
 æru
 þön
 ulagh
-Nu
+nu
 æn
 næmdin
 fælle
@@ -14858,7 +14858,7 @@ at
 han
 ær
 biltugha
-Nu
+nu
 æn
 namdin
 uær
@@ -14897,7 +14897,7 @@ eþe
 dylia
 æfti
 lanzs laghum
-Nu
+nu
 þessim
 mal
 all
@@ -14910,7 +14910,7 @@ skulu
 slitas
 a
 kunungxs ræfst
-Nu
+nu
 ma
 en
 man
@@ -14932,7 +14932,7 @@ för
 æn
 eþzsörit
 gafs
-Nu
+nu
 ma
 eg
 kona
@@ -14945,7 +14945,7 @@ ma
 egh
 biltugha
 uara
-Nu
+nu
 ma
 egh
 ughurmaghi
@@ -14963,7 +14963,7 @@ suæria
 egh
 ughurmagha
 uara
-Nu
+nu
 ma
 egh
 þræll
@@ -14998,7 +14998,7 @@ han
 matte
 biltugha
 uara
-Nu
+nu
 æn
 han
 kan
@@ -15041,7 +15041,7 @@ garþzs liþ
 sum
 han
 a
-Nu
+nu
 kan
 sua
 uarþa
@@ -15069,7 +15069,7 @@ stenka
 hon
 gær
 þæt
-Nu
+nu
 uænis
 þön
 sak
@@ -15159,7 +15159,7 @@ ok
 hana
 stenka
 lata
-Nu
+nu
 æn
 þæn
 sum
@@ -15194,7 +15194,7 @@ ok
 egh
 lif
 hans
-Nu
+nu
 fa
 han
 raþa
@@ -15361,7 +15361,7 @@ fik
 þe
 æruin
 barnit
-Sua
+sua
 ok
 æn
 hon
@@ -15446,7 +15446,7 @@ ok
 bötær
 firi
 bondan
-Nu
+nu
 dræpær
 annat
 þerra
@@ -15478,7 +15478,7 @@ mæþ
 andru
 at
 taka
-Nu
+nu
 myrþi
 man
 ælla
@@ -15541,7 +15541,7 @@ sik
 til
 arfs
 dræpa
-Nu
+nu
 kan
 of harþlika
 raþit
@@ -15582,7 +15582,7 @@ mæþ
 uaþa
 ælla
 uilia
-Utan
+utan
 moþir
 kunni
 liggia
@@ -15597,7 +15597,7 @@ uærþ
 arf
 sit
 mista
-Nu
+nu
 kunnu
 fæþrinis frændær
 kæra
@@ -15673,7 +15673,7 @@ i
 siang
 mæþ
 stiupfæþrinum
-Dor
+dor
 þæt
 i
 sianginne
@@ -15685,7 +15685,7 @@ hun
 at
 mista
 aruit
-Nu
+nu
 kunnu
 þer
 þrætta
@@ -15718,7 +15718,7 @@ markær
 ok
 ut
 aruit
-Dræpær
+dræpær
 mæþ
 uaþa
 þa
@@ -15801,7 +15801,7 @@ sum
 drap
 ælla
 myrþi
-Nu
+nu
 myrþir
 maþær
 man
@@ -15881,7 +15881,7 @@ ok
 hana
 stenka
 lata
-Nu
+nu
 uil
 egh
 hin
@@ -15913,7 +15913,7 @@ ok
 egh
 lif
 sit
-Nu
+nu
 uarþær
 man
 i
@@ -15986,7 +15986,7 @@ læggia
 ok
 ogildan
 döma
-Nu
+nu
 uarþær
 han
 egh
@@ -16043,7 +16043,7 @@ allum
 lös örum
 for utan
 iorþ
-Nu
+nu
 gangær
 man
 at
@@ -16079,7 +16079,7 @@ sum
 til
 hans
 gangær
-Sua sum
+sua sum
 hæmnis
 a
 þön
@@ -16095,7 +16095,7 @@ eþzsöre
 han
 gör
 bloþuiti
-Nu
+nu
 uarþær
 man
 a
@@ -16161,7 +16161,7 @@ dömde
 böte
 fiuratighi
 markær
-Nu
+nu
 kænnis
 manne
 drap
@@ -16247,7 +16247,7 @@ hans
 þær
 firi
 gangi
-Nu
+nu
 hittis
 þæn
 man
@@ -16312,7 +16312,7 @@ kunungur
 þriþia
 alli
 mæn
-Nu
+nu
 þær
 þylikt
 mal
@@ -16332,7 +16332,7 @@ han
 sannan
 at
 uara
-Nu
+nu
 stial
 maþær
 eld
@@ -16395,7 +16395,7 @@ kunungur
 þriþitia
 alli
 mæn
-Nu
+nu
 þær
 sum
 þylikt
@@ -16417,7 +16417,7 @@ han
 sannan
 at
 uara
-Nu
+nu
 uitis
 manne
 at
@@ -16449,7 +16449,7 @@ ok
 egh
 lif
 sit
-Nu
+nu
 ær
 han
 egh
@@ -16478,7 +16478,7 @@ ok
 egh
 eghn
 sina
-Nu
+nu
 stial
 man
 korn
@@ -16589,7 +16589,7 @@ fuldær
 a
 bak
 bundin
-Nu
+nu
 taks
 egh
 agnabakær
@@ -16610,7 +16610,7 @@ atær
 sum
 han
 tok
-Nu
+nu
 warþær
 kona
 dræpin
@@ -16634,7 +16634,7 @@ gild
 at
 attatighi
 markum
-Nu
+nu
 aghu
 þe
 uitzs orþ
@@ -16657,7 +16657,7 @@ gild
 at
 hundraþa
 markum
-Wilia
+wilia
 þer
 uita
 at
@@ -16672,7 +16672,7 @@ gild
 at
 siaxtantighi
 markum
-Nu
+nu
 uarþær
 man
 a
@@ -16688,7 +16688,7 @@ gildær
 at
 attatighi
 markum
-Nu
+nu
 warþær
 han
 dræpin
@@ -16703,7 +16703,7 @@ gildær
 at
 hundraþ
 markum
-Nu
+nu
 ær
 han
 sænktær
@@ -16715,7 +16715,7 @@ gildær
 at
 siaxtantighi
 markum
-Hær
+hær
 byrias
 drapa balkær
 i
@@ -16725,7 +16725,7 @@ flokka
 en
 ok
 tiughu
-Nu
+nu
 kombær
 skialnaþær
 manna
@@ -16755,7 +16755,7 @@ samuleþ
 hæraþe
 huar
 þerra
-Nu
+nu
 dræpær
 maþær
 man
@@ -16819,7 +16819,7 @@ oranbot
 þær
 sannan
 drapu
-Nu
+nu
 fa
 þe
 draparan
@@ -16873,7 +16873,7 @@ iuir
 hse
 uadþ
 halda
-Nu
+nu
 kunnu
 mæn
 koma
@@ -16957,7 +16957,7 @@ mæþ
 böte
 þrea
 markær
-Nu
+nu
 flytia
 þer
 han
@@ -16977,7 +16977,7 @@ han
 saklöst
 halshugga
 lata
-Nu
+nu
 ma
 egh
 taka
@@ -17067,7 +17067,7 @@ mæþ
 hæræzs mannum
 þit
 koma
-Nu
+nu
 æn
 þæn
 sum
@@ -17125,7 +17125,7 @@ ugilt
 sum
 han
 far
-Nu
+nu
 æn
 far
 egh
@@ -17138,7 +17138,7 @@ ugilt
 sum
 han
 far
-Nu
+nu
 æn
 han
 far
@@ -17171,7 +17171,7 @@ ok
 siþan
 halshugga
 han
-Nu
+nu
 far
 bonde
 hærazs höfþinga
@@ -17262,7 +17262,7 @@ samuleþ
 kunungur
 ok
 hæræþe
-Nu
+nu
 dræpær
 inlændingær
 inlæding
@@ -17412,7 +17412,7 @@ uisa
 þæn
 sum
 drap
-Nu
+nu
 uill
 han
 egh
@@ -17506,7 +17506,7 @@ sökia
 stæmna
 ælla
 hæmna
-Nu
+nu
 sökir
 man
 annan
@@ -17585,7 +17585,7 @@ baþe
 sant
 ok
 lagh
-Nu
+nu
 orkar
 egh
 annar
@@ -17616,7 +17616,7 @@ ok
 kununge
 ok
 biskupe
-Nu
+nu
 æn
 þe
 suæria
@@ -17630,7 +17630,7 @@ huat
 ær
 sant
 um
-Nu
+nu
 uær
 hæræzs næmdin
 draparan
@@ -17652,7 +17652,7 @@ böte
 hæraþit
 þet
 morþgialdit
-Nu
+nu
 gangær
 han
 uiþær
@@ -17696,7 +17696,7 @@ sum
 för
 uar
 skilt
-Nu
+nu
 æn
 han
 sum
@@ -17788,7 +17788,7 @@ lionga þingi
 uarþa
 giorþe
 friþlösi
-Nu
+nu
 hua
 sum
 samuist
@@ -17835,7 +17835,7 @@ at
 han
 uar
 friþlös
-Nu
+nu
 æn
 all
 sokn
@@ -17855,7 +17855,7 @@ sua
 sum
 skilt
 ær
-Nu
+nu
 æn
 fiarþungxs
 hæræþe
@@ -17875,7 +17875,7 @@ sua
 sum
 skilt
 ær
-Nu
+nu
 æn
 alt
 hæræþe
@@ -17895,7 +17895,7 @@ sua
 sum
 skilt
 ær
-Nu
+nu
 æn
 han
 hauær
@@ -17934,7 +17934,7 @@ uiþær
 ok
 egh
 mera
-Nu
+nu
 æruir
 han
 siþan
@@ -17982,7 +17982,7 @@ siþan
 skiptis
 mællin
 aruanna
-Nu
+nu
 uærkar
 man
 sak
@@ -17998,7 +17998,7 @@ alla
 saki
 mæþ
 hanum
-Nu
+nu
 æn
 han
 kombær
@@ -18016,7 +18016,7 @@ sum
 uærkaþus
 i
 friþlösunne
-Nu
+nu
 æn
 þe
 kæra
@@ -18054,7 +18054,7 @@ at
 böta
 firi
 han
-Nu
+nu
 æ
 firi
 huat
@@ -18087,7 +18087,7 @@ sum
 nu
 ær
 skilt
-Nu
+nu
 skal
 drapara
 bo
@@ -18182,7 +18182,7 @@ ok
 mælt
 a
 fæstninga stæmnu
-Nu
+nu
 sighia
 barnin
 sik
@@ -18220,7 +18220,7 @@ han
 þa
 sak
 giorþe
-Nu
+nu
 æn
 þæt
 æt
@@ -18325,7 +18325,7 @@ malsæghanda
 at
 þy
 male
-Nu
+nu
 raþa
 þön
 undan
@@ -18361,7 +18361,7 @@ mannum
 böte
 þre
 markær
-Nu
+nu
 haldær
 annar
 ok
@@ -18383,7 +18383,7 @@ uitnum
 huarn
 þerra
 beta
-Böte
+böte
 halzs bani
 i
 lagha
@@ -18405,7 +18405,7 @@ flyia
 tue
 firi
 en
-Nu
+nu
 uill
 halz bani
 amote
@@ -18422,7 +18422,7 @@ draparin
 uill
 amote
 suæria
-Nu
+nu
 fly
 halz bani
 ok
@@ -18509,7 +18509,7 @@ haua
 böt
 uiþ
 þöm
-Nu
+nu
 kænnis
 manne
 ualruf
@@ -18538,7 +18538,7 @@ manna
 böte
 þrea
 markær
-Nu
+nu
 skal
 þön
 æt
@@ -18642,7 +18642,7 @@ sum
 hanum
 ær
 næstær
-Nu
+nu
 þæn
 sum
 næstær
@@ -18680,7 +18680,7 @@ a
 hanum
 oranbot
 böta
-Nu
+nu
 kombær
 oran
 manna
@@ -18691,7 +18691,7 @@ aghu
 alli
 ena
 kirkiu
-Nu
+nu
 þa
 hin
 standær
@@ -18704,7 +18704,7 @@ hin
 saklöst
 uti
 standa
-Nu
+nu
 æn
 annar
 standær
@@ -18717,7 +18717,7 @@ saklöst
 standa
 norþan
 kirkiu
-Nu
+nu
 aghu
 þe
 baþir
@@ -18794,7 +18794,7 @@ hanum
 ænga
 olagha
 agangu
-Nu
+nu
 aghu
 draparans
 frændær
@@ -18845,7 +18845,7 @@ fa
 þriþiungh
 af
 botinne
-Nu
+nu
 ær
 alt
 enu
@@ -18865,7 +18865,7 @@ annöþugha
 til
 draps
 taka
-Nu
+nu
 ær
 alt
 i
@@ -18883,14 +18883,14 @@ taka
 ok
 egh
 kununa
-Nu
+nu
 ma
 egh
 kunu
 til
 halzsbænd
 uitna
-Nu
+nu
 drapær
 man
 kunu
@@ -18944,7 +18944,7 @@ maghande
 söke
 hans
 mals man
-Nu
+nu
 dræpær
 kona
 man
@@ -18970,7 +18970,7 @@ sum
 för
 uar
 skilt
-Nu
+nu
 æn
 þer
 hæmnas
@@ -19000,7 +19000,7 @@ egh
 halhugga
 firi
 drap
-Nu
+nu
 æn
 han
 uill
@@ -19030,7 +19030,7 @@ sum
 för
 uar
 skilt
-Nu
+nu
 uill
 han
 egh
@@ -19087,7 +19087,7 @@ ok
 han
 friþ
 lyia
-Kununna
+kununna
 drape
 ma
 egh
@@ -19108,7 +19108,7 @@ ensak
 ok
 egh
 eþzsöre
-Nu
+nu
 uarþær
 utlændingær
 dræpin
@@ -19147,7 +19147,7 @@ drap
 fylghir
 egh
 oranbot
-Nu
+nu
 skal
 egh
 oranbot
@@ -19214,7 +19214,7 @@ ok
 hans
 bo
 skiptis
-Nu
+nu
 ær
 utlændingær
 þær
@@ -19238,7 +19238,7 @@ uiþær
 han
 uarþær
 giort
-Nu
+nu
 uarþær
 man
 a
@@ -19278,7 +19278,7 @@ ok
 kræfia
 uiþær gangu
 manzssins
-Nu
+nu
 kombær
 þæn
 sum
@@ -19332,7 +19332,7 @@ uatne
 rost
 at
 lande
-Nu
+nu
 kombær
 egh
 uiþærgangu maþrin
@@ -19451,7 +19451,7 @@ takær
 þæn
 sum
 böte
-Kombær
+kombær
 han
 egh
 innan
@@ -19470,7 +19470,7 @@ kunungær
 alt
 þæt
 morþgialdit
-Nu
+nu
 dræpær
 friþlös
 maþær
@@ -19491,7 +19491,7 @@ gangær
 uiþær
 gærþ
 sinne
-Nu
+nu
 uill
 iak
 til
@@ -19528,7 +19528,7 @@ friþlösum
 saklöst
 þingh
 haua
-Nu
+nu
 hittas
 þe
 sum
@@ -19582,7 +19582,7 @@ bonde
 takær
 han
 malsæghanda ræt
-NU
+nu
 gifs
 hæræþe
 sak
@@ -19679,7 +19679,7 @@ ok
 egh
 firi
 flere
-Nu
+nu
 a
 hæræþzs höfþingi
 mantal
@@ -19725,7 +19725,7 @@ böte
 ok
 ut
 morþgialdit
-Nu
+nu
 uarþær
 dræpin
 þæn
@@ -19763,7 +19763,7 @@ egh
 hans
 bo
 skiptis
-Nu
+nu
 uarþær
 dræpin
 þæn
@@ -19805,7 +19805,7 @@ i
 þingum
 ok
 fæmptum
-Nu
+nu
 dræpær
 þræll
 frælsan
@@ -19863,7 +19863,7 @@ skiptas
 han
 dræpær
 man
-Nu
+nu
 uill
 egh
 bondin
@@ -19902,7 +19902,7 @@ rutnar
 hætte uiþ
 fiuratighi
 markum
-Nu
+nu
 uarþær
 dræpin
 kunungxs
@@ -19930,7 +19930,7 @@ uaru
 þæt
 tolf
 markæt
-Nu
+nu
 uarþær
 dræpin
 iarls
@@ -19946,7 +19946,7 @@ markum
 a
 iarl
 taka
-Nu
+nu
 uarþær
 biskups
 bryti
@@ -19966,7 +19966,7 @@ markum
 skal
 biskupær
 taka
-Nu
+nu
 uarþær
 laghmanzs
 bryti
@@ -19991,7 +19991,7 @@ a
 sialfs
 sins
 kust
-Nu
+nu
 uarþær
 þæn
 dræpin
@@ -20020,7 +20020,7 @@ gildær
 sum
 skilt
 ær
-Nu
+nu
 uarþær
 dræpin
 bonda
@@ -20064,7 +20064,7 @@ gildær
 bolax man
 sum
 bonde
-Nu
+nu
 uarþær
 dræpin
 kunungx man
@@ -20148,7 +20148,7 @@ sum
 han
 aghu
 taka
-Nu
+nu
 uarþær
 hærtugha
 man
@@ -20175,7 +20175,7 @@ markær
 skal
 hærtughi
 haua
-Nu
+nu
 uarþær
 dræpin
 biskups
@@ -20194,7 +20194,7 @@ biskups
 æru
 niu
 markær
-Nu
+nu
 uarþær
 dræpin
 þæs
@@ -20233,7 +20233,7 @@ taka
 sum
 han
 þianaþe
-Nu
+nu
 dræpær
 maþær
 man
@@ -20265,7 +20265,7 @@ markum
 ær
 kunungx
 ensak
-Nu
+nu
 dræpær
 maþær
 man
@@ -20282,7 +20282,7 @@ markum
 ær
 kunungx
 ensak
-Nu
+nu
 dræpær
 fostre
 frælsan
@@ -20316,7 +20316,7 @@ hans
 taki
 rættær
 arui
-Nu
+nu
 dræpær
 fræls
 man
@@ -20330,7 +20330,7 @@ uan
 atte
 til
 hans
-Nu
+nu
 dræpær
 fræls
 man
@@ -20373,7 +20373,7 @@ sum
 kalua
 hauær
 burit
-Nu
+nu
 ma
 egh
 uitna
@@ -20406,7 +20406,7 @@ uitna
 firi
 fostra
 drap
-Nu
+nu
 kunnu
 þe
 hittas
@@ -20432,7 +20432,7 @@ han
 uar
 egh
 folk fræls
-Nu
+nu
 uarþær
 gæfþræll
 dræpin
@@ -20464,7 +20464,7 @@ han
 uar
 egh
 gæfþræll
-Nu
+nu
 uarþær
 dræpin
 lurkær
@@ -20486,7 +20486,7 @@ gildær
 at
 þrim
 markum
-Nu
+nu
 uarþær
 lekare
 dræpin
@@ -20548,7 +20548,7 @@ slippe
 hanum
 aldær
 faghnaþær
-Nu
+nu
 dræpær
 ughurmaghi
 man
@@ -20566,7 +20566,7 @@ huatzske
 karl
 ælla
 kunungær
-Nu
+nu
 kallar
 annar
 ughurmagha
@@ -20617,7 +20617,7 @@ böte
 sum
 skilt
 ær
-Nu
+nu
 ma
 egh
 ughurmagha
@@ -20642,7 +20642,7 @@ han
 sum
 skilt
 ær
-Nu
+nu
 dræpær
 ughumaghi
 ughurmagha
@@ -20651,7 +20651,7 @@ böte
 sum
 skilt
 ær
-Nu
+nu
 aghe
 aldrigh
 þæn
@@ -20661,7 +20661,7 @@ annan
 dræpær
 til
 arfs
-Nu
+nu
 uill
 maþær
 man
@@ -20728,7 +20728,7 @@ uar
 sæt
 ok
 böt
-Nu
+nu
 dræpær
 annöþughær
 annöþughan
@@ -20766,7 +20766,7 @@ sua sum
 för
 uar
 skilt
-Nu
+nu
 æn
 þæn
 sum
@@ -20782,7 +20782,7 @@ mæþ
 eþe
 fiughurtan
 manna
-Hær
+hær
 byrias
 uaþa mal
 ok
@@ -20798,7 +20798,7 @@ floka
 en
 ok
 fiuratighi
-Nu
+nu
 huggær
 maþær
 at
@@ -20930,7 +20930,7 @@ sin
 ok
 se
 saklös
-Nu
+nu
 far
 han
 egh
@@ -20952,7 +20952,7 @@ egh
 kunungx
 soknare
 nær
-Nu
+nu
 sighær
 þæn
 sum
@@ -20999,7 +20999,7 @@ kuma
 ok
 tolf
 æftir
-Nu
+nu
 stæmnir
 kunungx
 soknare
@@ -21100,7 +21100,7 @@ fiu
 ok
 egh
 uaþa eþ
-Nu
+nu
 skiutær
 man
 spiute
@@ -21120,7 +21120,7 @@ kombær
 ær
 handlös
 uaþe
-Nu
+nu
 draghæm
 man
 spiut
@@ -21148,7 +21148,7 @@ egh
 uærk
 liggi
 ogilt
-Nu
+nu
 halda
 uærk
 til
@@ -21158,7 +21158,7 @@ haldin
 til
 halfra
 bot
-Nu
+nu
 kombær
 man
 undir
@@ -21213,7 +21213,7 @@ döþ
 af
 hans
 handuærkum
-Nu
+nu
 æn
 flere
 aghu
@@ -21238,7 +21238,7 @@ i
 gialdit
 mæþ
 hanum
-Nu
+nu
 akær
 drængær
 bondans
@@ -21255,7 +21255,7 @@ ogildær
 af
 sialfsins
 handuærkum
-Nu
+nu
 faldær
 möllari
 undi
@@ -21290,7 +21290,7 @@ gild
 at
 þrim
 markum
-Nu
+nu
 æn
 annar
 man
@@ -21311,7 +21311,7 @@ gildær
 at
 halfre
 bot
-Nu
+nu
 hugga
 mæn
 træ
@@ -21352,7 +21352,7 @@ gialdin
 sum
 fat
 ær
-Nu
+nu
 uitis
 þöm
 þæt
@@ -21393,7 +21393,7 @@ sum
 för
 uar
 skilt
-Nu
+nu
 bitær
 humdær
 man
@@ -21435,7 +21435,7 @@ utan
 hundær
 ok
 maþær
-Nu
+nu
 uitis
 þæt
 manne
@@ -21463,7 +21463,7 @@ böt
 sum
 skilt
 ær
-Nu
+nu
 uarþær
 annöþughær
 i
@@ -21478,7 +21478,7 @@ i
 uaþa
 sum
 uilia
-Nu
+nu
 dræpær
 þræll
 i
@@ -21491,7 +21491,7 @@ uaþa
 sum
 firi
 uilia
-Warþær
+warþær
 fostre
 i
 uaþa
@@ -21507,7 +21507,7 @@ uaþa
 sum
 firi
 uilia
-Nu
+nu
 uarþær
 kona
 ælla
@@ -21547,7 +21547,7 @@ egh
 ok
 egh
 ensak
-Nu
+nu
 stial
 man
 ælla
@@ -21594,7 +21594,7 @@ ok
 böta
 firi
 þöm
-Nu
+nu
 uarþær
 maþær
 sarghaþær
@@ -21638,7 +21638,7 @@ ok
 mæle
 sialuær
 æfte
-Nu
+nu
 huggær
 man
 annan
@@ -21763,7 +21763,7 @@ fæmt
 halde
 friþi
 sinum
-Nu
+nu
 firi
 drap
 ælla
@@ -21815,7 +21815,7 @@ ok
 ung hors
 ok
 nöt
-Nu
+nu
 æ
 firi
 huat
@@ -21888,7 +21888,7 @@ baþe
 sant
 ok
 lagh
-Nu
+nu
 æn
 þæt
 ær
@@ -21938,7 +21938,7 @@ ok
 hans
 bo
 skiptis
-Nu
+nu
 ma
 egh
 þæn
@@ -21964,7 +21964,7 @@ annan
 gör
 han
 ulagh
-Nu
+nu
 uill
 han
 sarit
@@ -22039,7 +22039,7 @@ huat
 sum
 han
 uill
-Nu
+nu
 uill
 han
 egh
@@ -22091,7 +22091,7 @@ egh
 sialuær
 sik
 sökia
-Nu
+nu
 all
 afhug
 þön
@@ -22105,7 +22105,7 @@ all
 fiuratighi
 marka
 sak
-Nu
+nu
 fylghir
 egh
 lytis bot
@@ -22115,7 +22115,7 @@ ut
 maþær
 uarþær
 gældær
-Nu
+nu
 uill
 man
 fullsære
@@ -22150,7 +22150,7 @@ mæþ
 fiughurtan
 manna
 eþe
-Nu
+nu
 aghas
 tue
 man
@@ -22178,7 +22178,7 @@ ok
 bloþuiti
 firi
 skenu
-Nu
+nu
 æn
 man
 sökir
@@ -22208,7 +22208,7 @@ egh
 löska mæn
 ælla
 leghu drængia
-Nu
+nu
 sökir
 man
 annan
@@ -22302,7 +22302,7 @@ ok
 hæraþe
 ok
 biskupe
-Nu
+nu
 æn
 þer
 suæria
@@ -22316,7 +22316,7 @@ huat
 ær
 sant
 um
-Nu
+nu
 gangær
 han
 uidþ
@@ -22357,7 +22357,7 @@ tylfta eþa
 sum
 saght
 uar
-Nu
+nu
 æn
 þæn
 sum
@@ -22384,7 +22384,7 @@ tylftar eþa
 sin
 uitni
 suæria
-Nu
+nu
 dræpær
 man
 annan
@@ -22424,7 +22424,7 @@ böta
 sum
 skilt
 ær
-Nu
+nu
 sarghar
 bonde
 husfru
@@ -22436,7 +22436,7 @@ böte
 sum
 skilt
 ær
-Nu
+nu
 slar
 han
 hana
@@ -22469,7 +22469,7 @@ bot
 sum
 omynd
 takær
-Nu
+nu
 raþær
 han
 hænne
@@ -22490,7 +22490,7 @@ lyt
 þa
 uari
 ogilt
-Nu
+nu
 huggær
 man
 annan
@@ -22538,7 +22538,7 @@ ok
 hæræþe
 ok
 malsæghanda
-Nu
+nu
 sarghar
 man
 annan
@@ -22569,7 +22569,7 @@ ok
 hæræþe
 ok
 malsæghanda
-Nu
+nu
 sæghær
 kunungx
 soknare
@@ -22622,7 +22622,7 @@ uari
 saklös
 firi
 knifs laghit
-Nu
+nu
 æn
 han
 gitær
@@ -22666,7 +22666,7 @@ huat
 ær
 sant
 um
-Nu
+nu
 uarþær
 knifs lagh
 mæþ
@@ -22708,7 +22708,7 @@ dyli
 sum
 skilt
 ær
-Nu
+nu
 uarþær
 kunungxs man
 huggin
@@ -22742,7 +22742,7 @@ han
 þukka
 a
 taka
-Nu
+nu
 uarþær
 biskups
 man
@@ -22757,7 +22757,7 @@ markær
 firi
 þukka
 taka
-Nu
+nu
 uarþær
 huggin
 hærtugha
@@ -22770,7 +22770,7 @@ hærtughans
 þukke
 niu
 markær
-Nu
+nu
 uarþær
 huggin
 þæs
@@ -22794,7 +22794,7 @@ hans
 þukke
 siax
 markær
-Nu
+nu
 æn
 kunungxs man
 ælla
@@ -22820,7 +22820,7 @@ fylghia
 þær
 egh
 þukka bötær
-Nu
+nu
 gangær
 man
 at
@@ -22877,7 +22877,7 @@ fa
 þæt
 ær
 ugilt
-Nu
+nu
 æn
 nakuar
 skialnaþær
@@ -22907,7 +22907,7 @@ ok
 ængte
 firi
 friþbrutit
-Nu
+nu
 æn
 man
 far
@@ -22930,7 +22930,7 @@ all
 æn
 et
 fullsære
-Nu
+nu
 kumbær
 skialnaþær
 manna
@@ -22951,7 +22951,7 @@ baþe
 kununge
 ok
 hæræþe
-Nu
+nu
 æ huat
 inlændingær
 ælla
@@ -23006,7 +23006,7 @@ ok
 hæræþe
 ok
 malsæghande
-Nu
+nu
 æn
 kona
 kan
@@ -23068,7 +23068,7 @@ taka
 uingæua
 firi
 hana
-Nu
+nu
 æn
 huggær
 man
@@ -23090,7 +23090,7 @@ alsæghanda
 af
 hænna
 gozs
-Nu
+nu
 skal
 egh
 kona
@@ -23120,7 +23120,7 @@ hun
 þerra
 man
 sargha
-Nu
+nu
 ma
 egh
 kununa
@@ -23181,7 +23181,7 @@ lyti
 mæþ
 halwu
 böta
-Nu
+nu
 æn
 ughurmaghi
 sarghar
@@ -23228,7 +23228,7 @@ lyte
 mæþ
 haluu
 böta
-Nu
+nu
 sæghær
 hin
 sum
@@ -23259,7 +23259,7 @@ uar
 innan
 fæmtan
 ara
-Nu
+nu
 æn
 han
 kære
@@ -23338,7 +23338,7 @@ bloþuiti
 ælla
 firi
 skenu
-Nu
+nu
 æ huat
 þæt
 ær
@@ -23390,7 +23390,7 @@ huarte
 karl
 ælla
 kunungær
-Nu
+nu
 æn
 han
 uarþær
@@ -23467,7 +23467,7 @@ lytis bot
 ok
 ække
 förra
-Nu
+nu
 huggær
 man
 ælla
@@ -23529,7 +23529,7 @@ iamgildi
 þræll
 ok
 fostre
-Nu
+nu
 sarghar
 þræll
 frælsan
@@ -23615,7 +23615,7 @@ uaþa
 sum
 firi
 uilia
-Nu
+nu
 hamblar
 man
 þræl
@@ -23649,7 +23649,7 @@ huarte
 karl
 ælla
 kunungær
-Nu
+nu
 huggær
 man
 at
@@ -23725,7 +23725,7 @@ höghre
 sak
 ælla
 læghre
-Nu
+nu
 uill
 man
 uaþa eþ
@@ -23746,7 +23746,7 @@ sua
 þa
 hete
 fallin
-Nu
+nu
 fællis
 uaþa eþær
 ælla
@@ -23768,7 +23768,7 @@ lite
 at
 fæstingh
 sinne
-Nu
+nu
 skal
 uaþa eþ
 sialfsuiliandis
@@ -23785,7 +23785,7 @@ egh
 uaþa eþ
 siþan
 ganga
-Nu
+nu
 hugxs
 minste
 fingær
@@ -23806,7 +23806,7 @@ halfmark
 firi
 lækis
 gæf
-Nu
+nu
 uarþa
 all
 fiughur
@@ -23830,7 +23830,7 @@ half
 mark
 at
 lækis gæf
-Varþær
+varþær
 þumul fingær
 af huggin
 mæþ
@@ -23854,7 +23854,7 @@ half
 mark
 firi
 lækis gæf
-Warþær
+warþær
 all
 hand
 af huggin
@@ -23886,7 +23886,7 @@ lyti
 sum
 firi
 sar
-Nu
+nu
 stingær
 man
 ögha
@@ -23908,7 +23908,7 @@ sua
 sum
 för
 skilt
-Huggær
+huggær
 man
 næsa
 ælla
@@ -23931,7 +23931,7 @@ sum
 för
 uar
 skilt
-Huggær
+huggær
 man
 tæ
 af
@@ -23945,7 +23945,7 @@ tæ
 sum
 firi
 fingær
-Huggær
+huggær
 af
 fot
 mæþ
@@ -23959,7 +23959,7 @@ skilt
 æ
 firi
 hand
-Nu
+nu
 firi
 allan
 uaþa
@@ -23974,7 +23974,7 @@ huarte
 karl
 ælla
 kunungær
-Nu
+nu
 slar
 man
 annan
@@ -24007,7 +24007,7 @@ kunungær
 ok
 mark
 hæræþe
-Nu
+nu
 lösis
 ben
 ur
@@ -24034,7 +24034,7 @@ skalu
 ær
 skena
 fiæþærtiugh
-Nu
+nu
 slar
 man
 annan
@@ -24059,7 +24059,7 @@ ok
 mark
 alli
 mæn
-Nu
+nu
 hauær
 han
 uitzsorþ
@@ -24145,7 +24145,7 @@ at
 laghlika
 þing
 stæmt
-Nu
+nu
 sighær
 han
 sik
@@ -24222,7 +24222,7 @@ huat
 ær
 sant
 um
-Nu
+nu
 æn
 han
 suær
@@ -24250,7 +24250,7 @@ sum
 för
 uar
 skilt
-Nu
+nu
 skill
 þem
 a
@@ -24289,9 +24289,9 @@ i
 malum
 sum
 til
-Lionga þingxs
+lionga þingxs
 höra
-Nu
+nu
 gær
 han
 egh
@@ -24306,7 +24306,7 @@ lionga þinge
 til
 hans
 næmna
-Nu
+nu
 uill
 han
 ræt
@@ -24341,7 +24341,7 @@ firi
 þing
 ok
 fæmtir
-Nu
+nu
 slar
 man
 arm
@@ -24366,7 +24366,7 @@ firi
 skenu
 ær
 skilt
-Nu
+nu
 slar
 man
 annan
@@ -24389,7 +24389,7 @@ sum
 för
 uar
 saght
-Nu
+nu
 æn
 han
 sla
@@ -24410,7 +24410,7 @@ gæri
 þæt
 i
 kunungx garþe
-Nu
+nu
 sla
 kona
 man
@@ -24444,7 +24444,7 @@ kunu
 uitna
 firi
 akomu
-Nu
+nu
 slar
 man
 annan
@@ -24502,7 +24502,7 @@ sum
 giorþe
 fiuratighi
 markær
-Nu
+nu
 far
 þræll
 ælla
@@ -24549,7 +24549,7 @@ giort
 ælla
 mæþ
 uaþa
-Nu
+nu
 gær
 man
 fulla
@@ -24581,7 +24581,7 @@ lyti
 mæþ
 haluu
 böta
-Nu
+nu
 gær
 man
 bloþuiti
@@ -24606,7 +24606,7 @@ lyti
 mæþ
 halw
 böta
-Nu
+nu
 gær
 ughurmaghi
 skenu
@@ -24621,7 +24621,7 @@ uaþa eþær
 ok
 egh
 kunungx sak
-Nu
+nu
 firi
 allan
 uaþa
@@ -24636,7 +24636,7 @@ huarte
 karl
 ælla
 kunungær
-Nu
+nu
 fa
 man
 sar
@@ -24671,7 +24671,7 @@ lyte
 böta
 sum
 sar
-Nu
+nu
 uill
 han
 dylia
@@ -24700,7 +24700,7 @@ fæ
 hauær
 þæt
 giort
-Nu
+nu
 far
 fræls
 man
@@ -24726,7 +24726,7 @@ lyte
 mæþ
 haluu
 böta
-Nu
+nu
 far
 annöþughær
 akomu
@@ -24759,7 +24759,7 @@ andra
 tua
 öra
 lytis bötær
-Nu
+nu
 dyll
 man
 firi
@@ -24782,7 +24782,7 @@ ok
 egh
 firi
 soknaranum
-Vill
+vill
 man
 þriggia
 marka
@@ -24798,7 +24798,7 @@ manna
 eþe
 firi
 malsæghandanum
-Nu
+nu
 æn
 þæt
 ær
@@ -24828,7 +24828,7 @@ huat
 ær
 sant
 um
-Nu
+nu
 gör
 man
 forsæte
@@ -24848,7 +24848,7 @@ forsæte
 böte
 þrea
 markær
-Nu
+nu
 gær
 man
 atlöp
@@ -24886,7 +24886,7 @@ atlöp
 böte
 þrea
 markær
-Nu
+nu
 all
 þön
 manhælgþa mal
@@ -24912,7 +24912,7 @@ manzs
 ok
 egh
 gildare
-Nu
+nu
 æn
 man
 slar
@@ -24940,7 +24940,7 @@ eþe
 böte
 þre
 markær
-Nu
+nu
 firi
 all
 manhælghþa mal
@@ -24953,7 +24953,7 @@ giua
 ok
 egh
 soknarin
-Nu
+nu
 bötir
 han
 uiþær
@@ -24983,7 +24983,7 @@ malsæghandan
 böte
 sum
 skils
-Nu
+nu
 uarþær
 man
 stukkaþær
@@ -25037,7 +25037,7 @@ dylin
 mæþ
 tolf
 mannum
-Nu
+nu
 giuær
 man
 andrum
@@ -25063,7 +25063,7 @@ mæþ
 böte
 fiuratighi
 markær
-Nu
+nu
 sæll
 man
 i
@@ -25096,7 +25096,7 @@ fræls
 at
 leþznum
 ganga
-Nu
+nu
 slitær
 hæræþzs næmd
 tuæsuære
@@ -25127,14 +25127,14 @@ iorþa ran
 fult
 ok
 fiæþærtiught
-Nu
+nu
 brytær
 man
 kunungx dom
 þæt
 ær
 fiæþærtiught
-Nu
+nu
 brytær
 man
 laghmanzs dom
@@ -25143,14 +25143,14 @@ laghmanzs dom
 tolf
 marka
 sak
-Nu
+nu
 brytær
 man
 hæraraþs höfþinga dom
 böte
 þre
 markær
-Nu
+nu
 brytær
 man
 fiarþungx höfþinga
@@ -25158,7 +25158,7 @@ dom
 böte
 þre
 markær
-Nu
+nu
 kænnis
 kunu
 trulldombær
@@ -25182,7 +25182,7 @@ skal
 stenka
 i
 hæl
-Nu
+nu
 kænnis
 hænne
 þæt
@@ -25234,7 +25234,7 @@ manna
 böte
 þreia
 markær
-Nu
+nu
 rænir
 maþær
 man
@@ -25253,7 +25253,7 @@ han
 ær
 þæt
 fiæþær tiught
-Nu
+nu
 uill
 han
 löpa
@@ -25269,7 +25269,7 @@ han
 ok
 fiæþærtiugh
 sak
-Nu
+nu
 leþis
 þæt
 ran
@@ -25300,7 +25300,7 @@ markum
 ær
 höghsta
 ran
-Nu
+nu
 gær
 man
 bos ran
@@ -25329,7 +25329,7 @@ buþkafla
 fult
 ok
 fiæþær tiught
-Nu
+nu
 leþis
 þæt
 egh
@@ -25350,7 +25350,7 @@ eþe
 böte
 fiuratighi
 markær
-Nu
+nu
 gær
 man
 hand ran
@@ -25386,7 +25386,7 @@ manna
 böte
 þreia
 markær
-Nu
+nu
 taks
 þæt
 ut
@@ -25428,7 +25428,7 @@ huat
 ær
 sant
 um
-Nu
+nu
 rænis
 man
 i
@@ -25456,7 +25456,7 @@ eþær
 böte
 fiuratighi
 markær
-Nu
+nu
 i
 allu
 þrætylftum
@@ -25480,7 +25480,7 @@ gangit
 fallis
 til
 fiæþærtiughx
-Nu
+nu
 stial
 man
 fæ
@@ -25555,7 +25555,7 @@ ok
 mæþ
 fiuratighi
 markær
-Nu
+nu
 stial
 man
 inne
@@ -25676,7 +25676,7 @@ galgha
 döma
 ok
 up hængia
-Nu
+nu
 takx
 egh
 i
@@ -25719,7 +25719,7 @@ ok
 mæþ
 siax
 markær
-Nu
+nu
 stiall
 han
 hæst
@@ -25732,7 +25732,7 @@ ut las
 sum
 firi
 inlas
-Nu
+nu
 stial
 han
 hæst
@@ -25761,7 +25761,7 @@ ok
 mæþ
 þreia
 markær
-Nu
+nu
 gifs
 manni
 sak
@@ -25790,7 +25790,7 @@ ok
 mæþ
 fiuratighi
 markær
-Nu
+nu
 æn
 taks
 i
@@ -25836,7 +25836,7 @@ föra
 uitna
 ok
 up hængia
-Nu
+nu
 taks
 i
 olestum
@@ -25850,7 +25850,7 @@ mæþ
 tolf
 manna
 eþe
-Nu
+nu
 taks
 undi
 lase
@@ -25898,7 +25898,7 @@ han
 skal
 lösa
 mæþ
-Nu
+nu
 kan
 bondin
 stulin
@@ -26041,7 +26041,7 @@ mæþ
 tof
 manna
 eþe
-Nu
+nu
 ær
 egh
 uindögha
@@ -26051,7 +26051,7 @@ a
 han
 egh
 uitzsorþ
-Syn
+syn
 han
 hanum
 ranzsak
@@ -26112,7 +26112,7 @@ hittis
 egh
 uari
 saklös
-Nu
+nu
 mughu
 böndær
 saklöst
@@ -26133,7 +26133,7 @@ gat
 egh
 til
 kumit
-Þri
+þri
 æru
 þiuua
 en
@@ -26160,7 +26160,7 @@ egh
 i
 handum
 takit
-Nu
+nu
 æn
 þri
 mæn
@@ -26262,7 +26262,7 @@ ok
 hans
 bo
 skiptis
-Nu
+nu
 ær
 þiuuær
 uunnin
@@ -26361,7 +26361,7 @@ stuld
 maþær
 fæþær
 sinum
-Nu
+nu
 slæppir
 man
 þiuue
@@ -26416,7 +26416,7 @@ egh
 hans
 bo
 skipta
-Nu
+nu
 gitær
 han
 sik
@@ -26468,7 +26468,7 @@ eþe
 böte
 fiuratighi
 markær
-Nu
+nu
 a
 firi
 huat
@@ -26488,7 +26488,7 @@ sum
 nu
 ær
 skilt
-Nu
+nu
 kærir
 annar
 til
@@ -26509,7 +26509,7 @@ eþe
 böte
 þre
 markær
-Nu
+nu
 slar
 annar
 band
@@ -26542,7 +26542,7 @@ mæþ
 kunungxs
 soknarans
 luui
-Nu
+nu
 rænir
 man
 þiuf
@@ -26585,7 +26585,7 @@ mæþ
 böte
 þre
 markær
-Nu
+nu
 stial
 kona
 fullan
@@ -26664,7 +26664,7 @@ egh
 laghum
 firi
 ganga
-Nu
+nu
 æn
 hon
 uarþær
@@ -26761,7 +26761,7 @@ han
 uill
 ællær
 egh
-Will
+will
 egh
 han
 lösa
@@ -26802,7 +26802,7 @@ laghin
 gaf
 kunung
 magnus
-Nu
+nu
 alla
 þa
 saki
@@ -26839,7 +26839,7 @@ kan
 gæras
 til
 hænna
-Nu
+nu
 siþan
 uight
 ær
@@ -26858,7 +26858,7 @@ ok
 suara
 firi
 hana
-Nu
+nu
 stial
 löska
 kona
@@ -26936,7 +26936,7 @@ fa
 markær
 firi
 hana
-Nu
+nu
 siþan
 löska
 kona
@@ -27044,7 +27044,7 @@ han
 förþe
 hanum
 kununa
-Nu
+nu
 spanar
 man
 hion
@@ -27070,7 +27070,7 @@ eþe
 böböte
 þre
 markær
-Nu
+nu
 gær
 man
 saghu
@@ -27092,7 +27092,7 @@ a
 firi
 tua
 öra
-Nu
+nu
 takær
 man
 manzs
@@ -27164,7 +27164,7 @@ bondanum
 stulit
 uar
 af
-Nu
+nu
 stiall
 man
 ur
@@ -27201,7 +27201,7 @@ böte
 firi
 siax
 öra
-Nu
+nu
 snattar
 man
 minna
@@ -27251,7 +27251,7 @@ malsæghanda
 ok
 atær
 styldina
-Nu
+nu
 æn
 han
 hauær
@@ -27276,7 +27276,7 @@ ok
 taki
 dom
 til
-Nu
+nu
 æn
 kunungx
 soknarin
@@ -27310,7 +27310,7 @@ högre
 siax
 öra
 snattan
-Nu
+nu
 kære
 bondin
 til
@@ -27357,7 +27357,7 @@ bondin
 malsæghanda ræt
 af
 hanum
-Nu
+nu
 æn
 fallzs
 at
@@ -27371,7 +27371,7 @@ han
 malsæghanda ræt
 af
 hanum
-Nu
+nu
 stial
 ughurmaghi
 fulla
@@ -27395,7 +27395,7 @@ snattaþe
 ok
 uari
 saklös
-Nu
+nu
 snattar
 þræll
 þæt
@@ -27432,7 +27432,7 @@ taka
 ællæ
 han
 vp hængia
-Nu
+nu
 stial
 bonda
 fostre
@@ -27474,7 +27474,7 @@ sin
 lut
 alli
 mæn
-Hær
+hær
 byrias
 gipta balkær
 i
@@ -27484,7 +27484,7 @@ flokka
 niu
 ok
 tiughu
-Nu
+nu
 biþær
 þæn
 sum
@@ -27535,7 +27535,7 @@ gull
 til
 ælla
 siluær
-Nu
+nu
 æn
 hon
 a
@@ -27560,7 +27560,7 @@ omynd
 ok
 þry
 hwuþ
-Nu
+nu
 giptis
 fræls
 kona
@@ -27583,7 +27583,7 @@ skulu
 uara
 niu
 öra
-Nu
+nu
 þön
 koma
 sum
@@ -27619,7 +27619,7 @@ tiu
 öra
 til
 mattul köps
-Nu
+nu
 skal
 þæn
 fæsta
@@ -27674,7 +27674,7 @@ sum
 rættær
 gipta man
 ær
-Nu
+nu
 kan
 þæn
 uara
@@ -27709,7 +27709,7 @@ fæsta
 sum
 bazst
 uill
-Nu
+nu
 aflar
 man
 barn
@@ -27736,7 +27736,7 @@ ok
 ær
 þæt
 aþalkunu barn
-Nu
+nu
 fæstir
 man
 kunu
@@ -27749,7 +27749,7 @@ fæstinne
 barn
 ær
 arfgængt
-Nu
+nu
 skil
 þöm
 a
@@ -27806,7 +27806,7 @@ at
 þæt
 uar
 fæsta kunu barn
-Nu
+nu
 siþan
 fæst
 ær
@@ -27864,7 +27864,7 @@ skal
 han
 uæria
 sik
-Nu
+nu
 hulikin
 sum
 hana
@@ -27942,7 +27942,7 @@ markum
 ok
 samuleþ
 hærazs höfþinge
-Nu
+nu
 siþan
 þön
 æru
@@ -28005,7 +28005,7 @@ gozs
 han
 dör
 för
-Nu
+nu
 æn
 hon
 dör
@@ -28028,7 +28028,7 @@ at
 þön
 uigh
 sen
-Nu
+nu
 æn
 annat
 þerra
@@ -28081,7 +28081,7 @@ saman
 æruir
 rættær
 ærui
-Nu
+nu
 skil
 þöm
 a
@@ -28119,7 +28119,7 @@ ok
 kirkiunna
 rættær
 ær
-Nu
+nu
 hauær
 man
 kunu
@@ -28220,7 +28220,7 @@ hanum
 i
 hændær
 sætia
-Nu
+nu
 skal
 han
 frændum
@@ -28259,7 +28259,7 @@ egh
 sua
 skyldan
 uara
-Nu
+nu
 skal
 til
 ölstæmnu
@@ -28302,7 +28302,7 @@ læggia
 skal
 bondin
 ut uarþa
-Nu
+nu
 aghu
 þe
 tuænni
@@ -28335,7 +28335,7 @@ næstær
 ok
 gipta
 aghær
-Hauær
+hauær
 hon
 faþur
 liuande
@@ -28411,7 +28411,7 @@ næmir
 ok
 annar
 gipta malum
-Nu
+nu
 æn
 egh
 þæn
@@ -28479,7 +28479,7 @@ bruþ
 til
 bos
 uarþa
-Nu
+nu
 rænis
 bruþ
 af
@@ -28501,7 +28501,7 @@ baþe
 gipt
 ok
 giuin
-Nu
+nu
 þæn
 sum
 til mælir
@@ -28509,7 +28509,7 @@ han
 skal
 hindradax gæf
 uarþa
-Nu
+nu
 giuær
 man
 iorþ
@@ -28528,7 +28528,7 @@ husfrun
 siþan
 þa
 iorþ
-Nu
+nu
 giuær
 man
 iorþ
@@ -28559,7 +28559,7 @@ utan
 hans
 arua
 uilin
-Nu
+nu
 giuær
 man
 lösöra
@@ -28586,7 +28586,7 @@ utan
 arua
 hans
 uilin
-Nu
+nu
 haua
 frændær
 uingæf
@@ -28611,7 +28611,7 @@ ok
 undir
 ena
 blöiu
-Nu
+nu
 dela
 mæn
 um
@@ -28653,7 +28653,7 @@ giuit
 ok
 mera
 egh
-Nu
+nu
 hauær
 han
 fangit
@@ -28689,7 +28689,7 @@ ok
 sua
 a
 gipta kuælde
-Nu
+nu
 dela
 þer
 um
@@ -28751,7 +28751,7 @@ fæstinga
 stæmnu
 ok
 gipta kuældi
-Nu
+nu
 skal
 han
 annan
@@ -28781,7 +28781,7 @@ a
 ok
 lagh
 sighia
-Nu
+nu
 giuær
 moþir
 dottur
@@ -28827,7 +28827,7 @@ sum
 för
 uar
 skilt
-Nu
+nu
 æn
 hon
 gær
@@ -28862,7 +28862,7 @@ gangær
 laghlika
 ömynd
 bort
-Nu
+nu
 klanda
 sundærkulla
 broþir
@@ -28881,7 +28881,7 @@ ma
 hana
 atær
 fa
-Nu
+nu
 gær
 bonde
 köp
@@ -28936,7 +28936,7 @@ se
 hænna
 rættær
 arui
-Nu
+nu
 aghu
 þön
 barn
@@ -28964,7 +28964,7 @@ utan
 i
 þæmma
 lutum
-Kan
+kan
 hungær
 hænda
 þa
@@ -29017,7 +29017,7 @@ aruum
 hænna
 omynd
 atær gialda
-Nu
+nu
 kan
 hær
 til
@@ -29062,7 +29062,7 @@ ok
 hana
 atær lösa
 mæþ
-Nu
+nu
 kan
 bondin
 hæriaþær
@@ -29094,7 +29094,7 @@ atær lösa
 hon
 laghlika
 af hænd
-Nu
+nu
 ma
 bondin
 egh
@@ -29142,7 +29142,7 @@ ar
 gangær
 köpit
 atær
-Nu
+nu
 ær
 ömynd
 laghlika
@@ -29160,7 +29160,7 @@ framleþis
 skils
 om
 iorþa köp
-Nu
+nu
 ær
 hænna
 arue
@@ -29199,7 +29199,7 @@ aghe
 sum
 köpt
 hauær
-Nu
+nu
 æn
 han
 ær
@@ -29228,7 +29228,7 @@ uæria
 sum
 skilt
 ær
-Nu
+nu
 kærir
 hon
 ælla
@@ -29285,7 +29285,7 @@ sum
 þem
 galt
 gen
-Nu
+nu
 hon
 uar
 i
@@ -29308,7 +29308,7 @@ tua
 lyti
 arui
 bondans
-Nu
+nu
 æn
 hun
 hauær
@@ -29342,7 +29342,7 @@ standin
 köpin
 all
 kuar
-Nu
+nu
 hauær
 han
 skipt
@@ -29365,7 +29365,7 @@ amote
 gær
 han
 olagh
-Nu
+nu
 köpir
 han
 hænna
@@ -29407,7 +29407,7 @@ uitzs orþ
 sum
 köpt
 hauær
-Nu
+nu
 þaghar
 han
 sæl
@@ -29424,7 +29424,7 @@ egh
 eþum
 a mote
 ganga
-Nu
+nu
 sæl
 kona
 ælla
@@ -29451,7 +29451,7 @@ uæria
 sum
 köpt
 hauær
-Nu
+nu
 skipti
 kona
 uiþær
@@ -29503,7 +29503,7 @@ han
 þæt
 tiu
 öra
-Nu
+nu
 a
 hon
 fara
@@ -29550,7 +29550,7 @@ bondans
 arua
 tua
 lyti
-Nu
+nu
 giptir
 man
 kunu
@@ -29577,7 +29577,7 @@ omyndina
 han
 æruir
 husin
-Nu
+nu
 æn
 glömir
 ok
@@ -29624,7 +29624,7 @@ för
 bondin
 þriþiung
 hænna
-Nu
+nu
 köpa
 þön
 eghn
@@ -29682,7 +29682,7 @@ egh
 þæt
 til
 fullnaþa
-Nu
+nu
 ær
 þæt
 annöþught
@@ -29739,7 +29739,7 @@ sua
 ær
 lupit
 bort
-Nu
+nu
 ær
 eghn
 at
@@ -29774,7 +29774,7 @@ gangær
 eghn
 til
 omynd
-Nu
+nu
 skal
 bondin
 ut luka
@@ -29811,7 +29811,7 @@ sina
 iorþ
 firi
 fulla
-Nu
+nu
 at
 þriþia
 hofþe
@@ -29833,7 +29833,7 @@ minna
 ok
 egh
 mera
-Nu
+nu
 æn
 þöm
 skil
@@ -29879,7 +29879,7 @@ in tok
 ok
 tolf
 æftir
-Nu
+nu
 kan
 egh
 þön
@@ -29915,7 +29915,7 @@ omynd
 sum
 næstær
 ær
-Nu
+nu
 dör
 husfru
 bondans
@@ -29960,7 +29960,7 @@ a
 eghn
 hun
 atte
-Nu
+nu
 bor
 kona
 mæþ
@@ -30062,7 +30062,7 @@ ganga
 ær
 olagha
 köp
-Nu
+nu
 gangær
 kona
 a
@@ -30080,7 +30080,7 @@ firi
 barnanna
 bo
 raþa
-Nu
+nu
 ær
 þæn
 litils
@@ -30154,7 +30154,7 @@ uæl
 uill
 af
 faþinis frændum
-Nu
+nu
 æn
 fæþrinis frændrini
 æru
@@ -30190,7 +30190,7 @@ ok
 suara
 firi
 þem
-Nu
+nu
 döia
 barn
 moþurinna
@@ -30231,7 +30231,7 @@ sua
 moþir
 sum
 dottir
-Nu
+nu
 æruir
 aldrigh
 sundærkulla
@@ -30256,7 +30256,7 @@ barn
 mæþ
 moþur
 sinne
-Nu
+nu
 gangær
 aldrigh
 kuldær
@@ -30267,7 +30267,7 @@ annar
 ær
 aldær
 döþær
-Nu
+nu
 siþan
 af liþær
 bröþra aruinu
@@ -30284,7 +30284,7 @@ af
 sundær kulla
 som
 samkulla
-Nu
+nu
 æruir
 hon
 bygt
@@ -30332,7 +30332,7 @@ garzs
 ok
 egh
 husbonde
-Nu
+nu
 giptis
 kona
 ok
@@ -30390,7 +30390,7 @@ sin
 takin
 al
 æm iamt
-Nu
+nu
 bor
 bonde
 i
@@ -30411,7 +30411,7 @@ sik
 ok
 sinum
 sunum
-Nu
+nu
 ær
 bonde
 a
@@ -30436,7 +30436,7 @@ ok
 egh
 synir
 hans
-Nu
+nu
 gipte
 bonde
 son
@@ -30452,7 +30452,7 @@ egh
 bröþrum
 til
 fulnaþa
-Nu
+nu
 boa
 bröþær
 i
@@ -30481,7 +30481,7 @@ ok
 markær
 firi
 ölgærþ
-Nu
+nu
 uilia
 bröþær
 gipta
@@ -30501,7 +30501,7 @@ sundærkulla
 utan
 sialuær
 uili
-Nu
+nu
 takær
 man
 fostra
@@ -30515,7 +30515,7 @@ kallar
 han
 frælsan
 uara
-Nu
+nu
 biþær
 fræls
 man
@@ -30546,7 +30546,7 @@ a
 frælsa
 omynd
 haua
-Nu
+nu
 biþær
 fræls
 man
@@ -30563,7 +30563,7 @@ hænna
 ær
 siax
 öra
-Nu
+nu
 biþær
 fostre
 frælsa
@@ -30584,7 +30584,7 @@ omynd
 ær
 siax
 öra
-Nu
+nu
 afla
 þön
 bos
@@ -30624,7 +30624,7 @@ barn
 a
 bætri
 alf
-Nu
+nu
 dö
 fostra
 taki
@@ -30649,7 +30649,7 @@ fylghin
 þem
 fræls
 æ
-Nu
+nu
 giftir
 man
 fostru
@@ -30727,7 +30727,7 @@ egh
 kæfsir
 i
 barnum
-Hær
+hær
 byrias
 ærfþa balkær
 i
@@ -30762,7 +30762,7 @@ mat
 egh
 ærua
 han
-Hær
+hær
 burias
 eghna salu
 i
@@ -30772,7 +30772,7 @@ flokka
 fiure
 ok
 tiughu
-Nu
+nu
 fæstir
 man
 eþa
@@ -30796,7 +30796,7 @@ uili
 sum
 uiþ
 takar
-Nu
+nu
 uarþær
 hundær
 manzs
@@ -30832,7 +30832,7 @@ a
 egh
 bondin
 atær gialda
-Nu
+nu
 fölizs
 hyndzsima
 manzs
@@ -30877,7 +30877,7 @@ gialdin
 sum
 hundana
 aghu
-Nu
+nu
 hygge
 har
 at
@@ -30885,7 +30885,7 @@ lut
 sinum
 i
 laghum
-Nu
+nu
 ær
 laghsagha
 iþur
@@ -30905,7 +30905,7 @@ lyktas
 at
 þy
 læghsta
-Her effter
+her effter
 läsis
 aff
 en
@@ -30916,8 +30916,8 @@ en
 riddare
 och
 heth
-Tungulus
-Innan
+tungulus
+innan
 ybernia
 landh
 war
@@ -30925,7 +30925,7 @@ en
 riddare
 och
 heth
-Tungulus
+tungulus
 han
 war
 en
@@ -31021,7 +31021,7 @@ giorth
 skriffuat
 fore
 sik
-Siälen
+siälen
 stodh
 a
 kroppenom
@@ -31086,7 +31086,7 @@ wtan
 allä
 wegnä
 wtan om kringh
-Tha
+tha
 sagde
 en
 aff
@@ -31094,7 +31094,7 @@ them
 komppanom
 til
 siälinä
-See
+see
 nw
 hwat
 thu
@@ -31103,13 +31103,13 @@ fortiänth
 mädhen
 thu
 liffde
-Nw
+nw
 skal
 thu
 thin
 lön
 tagha
-Thu
+thu
 är
 dödzens
 dotter
@@ -31120,7 +31120,7 @@ wen
 och
 liusens
 owen
-Hwar
+hwar
 är
 nw
 tith
@@ -31136,7 +31136,7 @@ haffde
 olofflikä
 j
 werldine
-Hw
+hw
 äst
 thu
 ey
@@ -31148,19 +31148,19 @@ thu
 ey
 nw
 hoor
-Hwi
+hwi
 röffuar
 thu
 ey
 nw
-Hwi
+hwi
 dräpär
 thu
 nw
 ey
 thin
 iämpncristin
-Hwi
+hwi
 trugher
 thu
 nw
@@ -31169,12 +31169,12 @@ then
 arma
 mädh
 oräth
-Hwar
+hwar
 är
 nw
 thin
 blidskap
-Hwar
+hwar
 äru
 nw
 thinä
@@ -31184,13 +31184,13 @@ thu
 haffde
 j
 werldinne
-Hwi
+hwi
 hiälpä
 the
 tik
 ey
 nw
-Tha
+tha
 stod
 the
 arma
@@ -31205,7 +31205,7 @@ wenthe
 sik
 engä
 hiälp
-Nw
+nw
 then
 herrin
 ther
@@ -31236,7 +31236,7 @@ som
 hon
 saa
 opp
-Saa
+saa
 hon
 lenghe
 fran
@@ -31252,7 +31252,7 @@ hon
 enä
 storä
 glädhi
-Tha
+tha
 engelin
 kom
 nider
@@ -31260,15 +31260,15 @@ sagde
 hon
 til
 siälinnä
-Heell
+heell
 tungulus
 hwat
 gör
 thu
 nw
-Siälin
+siälin
 swarade
-Awi
+awi
 min
 herra
 hwar
@@ -31294,7 +31294,7 @@ wiliä
 sunder slithä
 mellan
 sin
-Ængelin
+ængelin
 swarade
 thu
 kaller
@@ -31319,7 +31319,7 @@ tik
 wiliä
 nw
 pinä
-Tha
+tha
 thu
 wast
 j
@@ -31329,7 +31329,7 @@ thu
 mik
 enkte
 goth
-Awi
+awi
 min
 käre
 herra
@@ -31343,7 +31343,7 @@ hördhe
 jach
 thinä
 röst
-Ængelin
+ængelin
 swarade
 fran
 then
@@ -31370,7 +31370,7 @@ wilde
 mik
 ey
 lydhä
-Æn
+æn
 gudz
 miskund
 är
@@ -31378,7 +31378,7 @@ mer
 än
 thin
 onskä
-Tha
+tha
 thu
 haffuer
 seet
@@ -31390,26 +31390,26 @@ thu
 haffuer
 tik
 forskuldat
-Siden
+siden
 skal
 thu
 ater
 til
 thiin
 likamma
-Swa
+swa
 gik
 engelin
 fore
 och
 siälin
 effter
-Tha
+tha
 sagde
 siälin
 til
 engelin
-Awi
+awi
 min
 käre
 herra
@@ -31431,7 +31431,7 @@ för än
 thu
 weest
 aff
-Ængelin
+ængelin
 swarade
 thu
 skal
@@ -31454,7 +31454,7 @@ enghen
 ma
 oss
 skadhä
-Tha
+tha
 diäfflana
 hördhe
 thet
@@ -31473,7 +31473,7 @@ inbyrdes
 och
 sagdo
 swa
-Awi
+awi
 huru
 grym
 gudh
@@ -31503,7 +31503,7 @@ ropit
 räddes
 hon
 myket
-Swa
+swa
 kom
 engelin
 och
@@ -31524,13 +31524,13 @@ fulder
 mädh
 vsla
 siälä
-Siälin
+siälin
 spordhe
 hwat
 siällom
 ther
 pintes
-Ängelin
+ängelin
 swaradhe
 ther
 skulo
@@ -31553,7 +31553,7 @@ lenghe
 som
 gudh
 wil
-Sidhen
+sidhen
 kommo
 the
 til
@@ -31614,7 +31614,7 @@ kyldhen
 och
 j
 eeldhen
-Tha
+tha
 sporde
 hon
 at
@@ -31622,7 +31622,7 @@ hwat
 siälom
 ther
 pintes
-Ængelin
+ængelin
 swaradhe
 thet
 äru
@@ -31669,7 +31669,7 @@ the
 j
 hardara
 pino
-Sidhen
+sidhen
 fooro
 the
 til
@@ -31738,7 +31738,7 @@ palm
 j
 sinä
 handh
-Siälin
+siälin
 sporde
 hwem
 the
@@ -31777,7 +31777,7 @@ the
 än
 mere
 pino
-Swa
+swa
 fooro
 the
 fram
@@ -31821,13 +31821,13 @@ mädh
 siäx
 thusandhe
 siälä
-Siälin
+siälin
 sporde
 hwem
 then
 pinan
 til hördhe
-Ängelin
+ängelin
 swarade
 allä
 nidinghe
@@ -31895,7 +31895,7 @@ wlffua
 biornä
 och
 hugorma
-Allä
+allä
 pintho
 the
 then
@@ -31936,7 +31936,7 @@ komme
 ater
 til
 kroppen
-Swa
+swa
 foro
 the
 fram
@@ -31989,7 +31989,7 @@ nider fallä
 aff
 thessä
 bro
-Siälen
+siälen
 laa
 owan
 bron
@@ -32014,14 +32014,14 @@ och
 kerde
 sinä
 nödh
-Siälen
+siälen
 sporde
 hwat
 siälom
 skulo
 her j
 pinas
-Ängelin
+ängelin
 swarade
 han
 som
@@ -32090,7 +32090,7 @@ ko
 ower
 thessa
 bro
-Siälin
+siälin
 swaradhe
 the
 ko
@@ -32102,7 +32102,7 @@ galt
 jach
 wäl
 igen
-Ängelin
+ängelin
 swarade
 thu
 galt
@@ -32117,7 +32117,7 @@ hona
 ey
 lenghre
 hafft
-Swa
+swa
 fik
 engelin
 siälen
@@ -32142,14 +32142,14 @@ komma
 til
 the
 bro
-Tha
+tha
 wilde
 the
 ko
 ey
 fölgiä
 siälinä
-A
+a
 brona
 tha
 drogh
@@ -32174,7 +32174,7 @@ siälen
 och
 kon
 stodh
-Som
+som
 hon
 kom
 mith
@@ -32187,7 +32187,7 @@ tiuffuer
 mädh
 enä
 korn byrdhä
-Siälen
+siälen
 wilde
 fram
 mädh
@@ -32198,7 +32198,7 @@ wilde
 fram
 mädh
 kornet
-Swa
+swa
 som
 the
 stodho
@@ -32261,7 +32261,7 @@ toldhe
 thu
 thessa
 pino
-Swa
+swa
 skalt
 thu
 j
@@ -32272,7 +32272,7 @@ pinas
 thok
 ey
 lenghe
-J
+j
 the
 samma
 stundh
@@ -32341,7 +32341,7 @@ somma
 mädh
 thera
 har
-Och
+och
 somma
 qwinnor
 föddo
@@ -32365,7 +32365,7 @@ riffuo
 vsla
 siälä
 ther mäder
-Tha
+tha
 sa
 hon
 alla handha
@@ -32374,7 +32374,7 @@ pawa
 cardenales
 konunga
 biscopa
-Prestä
+prestä
 munka
 riddare
 och
@@ -32385,7 +32385,7 @@ jumfrvr
 och
 alla handa
 almoga
-Sidhen
+sidhen
 kom
 siälen
 wth aff
@@ -32405,7 +32405,7 @@ wäl
 hell
 som
 för
-Swa
+swa
 fooro
 the
 fram
@@ -32455,7 +32455,7 @@ mädh
 iärnkrokom
 och
 drogho
-Allä
+allä
 the
 siälä
 the
@@ -32463,10 +32463,10 @@ fingho
 ower
 thusandhe
 milor
-Jn j
+jn j
 thet
 huset
-Tha
+tha
 siälen
 sa
 thet
@@ -32474,7 +32474,7 @@ sagde
 hon
 til
 engelin
-Awi
+awi
 min
 käre
 herrä
@@ -32485,7 +32485,7 @@ komma
 j
 thessa
 pino
-Ängelin
+ängelin
 swaradhä
 thennä
 lugha
@@ -32509,7 +32509,7 @@ hwat
 siälom
 ther jnne
 ärä
-Tha
+tha
 hon
 kom
 in
@@ -32559,7 +32559,7 @@ thädhen
 mädh
 gudz
 miskundh
-Siden
+siden
 sagde
 hon
 til
@@ -32579,7 +32579,7 @@ iach
 haffuer
 nw
 tolth
-Nw
+nw
 haffuer
 iach
 hörth
@@ -32613,7 +32613,7 @@ synduge
 män
 hopas
 til
-Ängelin
+ängelin
 swarade
 gudz
 miskund
@@ -32627,7 +32627,7 @@ dugher
 ey
 wtan
 miskund
-Nw
+nw
 är
 gudh
 miskundsammer
@@ -32654,7 +32654,7 @@ pino
 for
 thin
 brvth
-Tha
+tha
 sporde
 siälin
 aat
@@ -32664,7 +32664,7 @@ toldhe
 swa
 harda
 pino
-Ängelin
+ängelin
 swaradhe
 the
 som
@@ -32762,7 +32762,7 @@ olofflik
 ordh
 och
 fafängh
-The
+the
 qwinnor
 ther
 henghä
@@ -32797,7 +32797,7 @@ jumfrvr
 och
 ware
 ey
-The
+the
 qwinnor
 ther
 hengdo
@@ -32811,7 +32811,7 @@ haffua
 mädh
 sinom
 handom
-The
+the
 som
 hengdo
 mädh
@@ -32839,7 +32839,7 @@ fullä
 mädh
 fulom
 lustom
-Pawa
+pawa
 biscupa
 konunga
 fordömpdo
@@ -32867,7 +32867,7 @@ pinäs
 wtan
 all
 miskund
-Preste
+preste
 the
 ther
 waro
@@ -32918,7 +32918,7 @@ och
 ey
 for
 gudhi
-The
+the
 enkior
 thu
 ther
@@ -32942,7 +32942,7 @@ skam
 än
 gudz
 hempdh
-Thet
+thet
 hionalagh
 thu
 ther
@@ -32958,7 +32958,7 @@ haffua
 the
 nw
 oglädhi
-Tha
+tha
 sporde
 siälen
 om
@@ -32970,7 +32970,7 @@ til
 glädhi
 wtan
 pinä
-Ängelin
+ängelin
 swarade
 for thy at
 gudh
@@ -33011,7 +33011,7 @@ och
 androm
 godhom
 ger ninghom
-Än
+än
 for
 allä
 the
@@ -33040,7 +33040,7 @@ see
 ondhä
 manna
 pino
-Ängelin
+ängelin
 swarade
 for thy at
 godhä
@@ -33071,7 +33071,7 @@ som
 äru
 j
 glädhi
-Tha
+tha
 spordhe
 siälen
 om
@@ -33082,7 +33082,7 @@ som
 j
 glädi
 äru
-Ängelin
+ängelin
 swaradä
 ee
 glädz
@@ -33090,7 +33090,7 @@ hwar
 aff
 annars
 til kommo
-Swa
+swa
 som
 j
 himmerik
@@ -33100,7 +33100,7 @@ pinä
 och
 enkte
 we
-Swa
+swa
 är
 och
 j
@@ -33115,7 +33115,7 @@ thera
 pinä
 endes
 aldrik
-Tha
+tha
 saa
 siälin
 hwar
@@ -33141,7 +33141,7 @@ andra
 stundh
 j
 kylden
-Siälen
+siälen
 spordhe
 hwo
 ther
@@ -33149,7 +33149,7 @@ war
 j
 the
 pino
-Ängelin
+ängelin
 swarade
 thet
 äre
@@ -33165,7 +33165,7 @@ mannom
 mädh
 orätthom
 laghom
-Tha
+tha
 saa
 siälen
 vslä
@@ -33186,7 +33186,7 @@ mathe
 the
 engelund
 na
-Siälen
+siälen
 sporde
 hwem
 then
@@ -33224,7 +33224,7 @@ mässän
 sagdes
 om
 sonnedaghen
-Tha
+tha
 fooro
 the
 fram
@@ -33256,14 +33256,14 @@ gik
 en
 rädheliken
 eeldher
-Tha
+tha
 spordhe
 siälen
 hwem
 the
 pinä
 til hördhe
-Änge lin
+änge lin
 swaradhe
 them
 ther
@@ -33349,7 +33349,7 @@ wti
 en
 mörkan
 mur
-Tha
+tha
 sporde
 siälin
 hwo
@@ -33357,7 +33357,7 @@ skal
 wti
 the
 pino
-Ängelin
+ängelin
 swaradhe
 j
 thesso
@@ -33381,7 +33381,7 @@ thet
 ey
 widher
 han
-Swa
+swa
 kommo
 the
 til
@@ -33404,12 +33404,12 @@ och
 nidher
 swa som
 eeldh gnistor
-Siälin
+siälin
 spordhe
 hwat
 thet
 war
-Ängelin
+ängelin
 swarade
 thet
 är
@@ -33422,7 +33422,7 @@ han
 komber
 aldrik
 thäden
-Swa
+swa
 kommo
 the
 fram
@@ -33526,7 +33526,7 @@ hans
 eeldh
 wnder
 honom
-The
+the
 siälä
 waro
 otalikä
@@ -33562,7 +33562,7 @@ huxat
 eller
 tunghan
 talat
-Siälen
+siälen
 sagde
 til
 engelin
@@ -33587,7 +33587,7 @@ jach
 haffde
 j
 jorderike
-Thenne
+thenne
 rädzlä
 gör
 mik
@@ -33604,7 +33604,7 @@ iach
 skildes
 widh
 likamen
-Sidhen
+sidhen
 kommo
 the
 fram
@@ -33640,7 +33640,7 @@ wädher
 hunger
 och
 tröst
-Siälen
+siälen
 spordhe
 hwat
 thet
@@ -33667,7 +33667,7 @@ sidhen
 komber
 thu
 thäden
-Nw
+nw
 haffuin
 j
 hört
@@ -33685,7 +33685,7 @@ omögheliket
 är
 at
 sighiä
-Och
+och
 thusände
 flere
 pinor
@@ -33716,6 +33716,6 @@ himmerike
 ee
 for wtan
 endhä
-AMEN
-AMEN
+amen
+amen
 mcdlviio
