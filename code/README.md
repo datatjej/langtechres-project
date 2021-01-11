@@ -25,7 +25,7 @@ For running the code:
 1. Download and extract the XML files from MATHiR Threes: https://spraakbanken.gu.se/en/resources/mathir-trad
 2. Go to the location where the `preprocess.py` file is located and run: `python3 preprocess.py --path <path_to_mathir_trees_xml_files>`
 3. This will create two text files in the `data` folder:<br>
-a) `mathir_tokens.txt`, which contains all tokens from all five files (including duplicates): <br>
+* `mathir_tokens.txt`, which contains all tokens from all five files (including duplicates): <br>
 *Hær* <br>
 *sigx* <br>
 *aff* <br>
@@ -33,7 +33,7 @@ a) `mathir_tokens.txt`, which contains all tokens from all five files (including
 *allum* <br>
 \[...\] <br>
 
-b) `mathir_train.txt`, which contains all tokens and their corresponding lemma from all five files: <br>
+* `mathir_train.txt`, which contains all tokens and their corresponding lemma from all five files: <br>
 *Hær	här* <br>
 *sigx	sighia* <br>
 *aff	af* <br>
