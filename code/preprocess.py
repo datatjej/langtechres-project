@@ -16,19 +16,15 @@ def parse_xml(folder_path):
 
         for elem in root:
             if elem.tag == 'source':
-                #print("elem: ", elem)
                 for source_elem in elem:
                     if source_elem.tag == 'div':
-                        #print("source_elem: ", source_elem)
                         for sent_elem in source_elem:
-                            #print("sent_elem: ", sent_elem)
                             if sent_elem.tag == 'sentence':
                                 for token_elem in sent_elem:
-                                    #print("token_elem: ", token_elem)
                                     if token_elem.tag == 'token':
                                         if 'form' in token_elem.attrib:
                                             token = token_elem.attrib['form']
-                                            tokens_list.append(token)
+                                            tokens_list.append(token.lower())
                                         if 'lemma' in token_elem.attrib:
                                             lemma = token_elem.attrib['lemma']
                                             lemmata_list.append(lemma)
