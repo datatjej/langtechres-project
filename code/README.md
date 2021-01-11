@@ -2,24 +2,9 @@
 
 Use this folder for the code related to your project.
 
-## NORMA COMMANDS
+## PREPROCESS_TREES.PY
 
-Normalize:
-      
-      docker run -v $(pwd):/home mbollmann/norma -s -c example/example.cfg -f example/fnhd_sample.txt
-      
-Train:
-
-      docker run -v $(pwd):/home mbollmann/norma -c example/example.cfg -f example/fnhd_train.txt -t --saveonexit
-      
-      
-Flags:
-
-`-t` - train only, without generating normalizations <br>
-`--saveonexit`- is required (if not given in the config file) to save the trained parametrizations back to the parameter files
-
-
-## PREPROCESS.PY
+This script
 
 For running the code:
 1. Download and extract the XML files from MATHiR Threes: https://spraakbanken.gu.se/en/resources/mathir-trad
