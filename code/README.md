@@ -19,29 +19,26 @@ Flags:
 `--saveonexit`- is required (if not given in the config file) to save the trained parametrizations back to the parameter files
 
 
-## TODO
+## PREPROCESS.PY
 
-MATHiR Threes: https://spraakbanken.gu.se/en/resources/mathir-trad <br>
-MATHiR Words: https://spraakbanken.gu.se/en/resources/mathir-ord
-
-1. script for extracting all tokens (`form='aff'`) from the MATHir Trees files and saving them in a file, one token per line, called tokens.txt: 
-
+For running the code:
+1. Download and extract the XML files from MATHiR Threes: https://spraakbanken.gu.se/en/resources/mathir-trad
+2. Go to the location where the `preprocess.py` file is located and run: `python3 preprocess.py --path <path_to_mathir_trees_xml_files>`
+3. This will create two text files in the `data` folder:<br>
+a) `mathir_tokens.txt`, which contains all tokens from all five files (including duplicates): <br>
+*Hær*
+*sigx*
+*aff*
+*abotum*
+*allum*
 \[...\] <br>
-aff <br>
-iordh <br>
-oc <br>
-hans <br>
-qwinna <br>
-\[...\] <br>
 
-2. script for extracting all lemmas (`lemma='af'`) from the MATHiR Tree files:
-
-\[...\] <br>
-af <br>
-iorþ <br>
-ok <br>
-han <br>
-qvinna <br>
+b) `mathir_train.txt`, which contains all tokens and their corresponding lemma from all five files: <br>
+*Hær	här* <br>
+*sigx	sighia* <br>
+*aff	af* <br>
+*abotum     abbote* <br>
+*allum	alder* <br>
 \[...\] <br>
 
 ## FINDOUT
