@@ -2,7 +2,7 @@
 
 Use this folder for the code related to your project.
 
-## COMMANDS
+## NORMA COMMANDS
 
 Normalize:
       
@@ -24,7 +24,7 @@ Flags:
 MATHiR Threes: https://spraakbanken.gu.se/en/resources/mathir-trad <br>
 MATHiR Words: https://spraakbanken.gu.se/en/resources/mathir-ord
 
-1. script for extracting all tokens (`form='aff'`) from the MATHir Trees files and saving them in a file, one token per line, called tokens.txt:
+1. script for extracting all tokens (`form='aff'`) from the MATHir Trees files and saving them in a file, one token per line, called tokens.txt: 
 
 \[...\] <br>
 aff <br>
