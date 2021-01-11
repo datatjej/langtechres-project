@@ -40,12 +40,15 @@ def parse_xml(folder_path):
 def write_to_textfile(tokens_list, lemmata_list):
 
     assert len(tokens_list) == len(lemmata_list)
-    f = open("mathir_train.txt", "w+")
+    #f = open("mathir_train.txt", "w+")
 
-    for i in range(len(tokens_list)):
-        f.write(str(tokens_list[i]) + "\t" + str(lemmata_list[i]) + "\n")
-    print("Finished writing to {}.".format("mathir_train.txt"))
-    f.close()
+    with open("../data/mathir_tokens.txt", "w+") as f1, open("../data/mathir_train.txt", "w+") as f2:
+        for i in range(len(tokens_list)):
+            f1.write(str(tokens_list[i]) + "\n")
+            f2.write(str(tokens_list[i]) + "\t" + str(lemmata_list[i]) + "\n")
+
+    print("Finished writing to {} and {}.".format("mathir_train.txt", "mathir_tokens.txt"))
+    return
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
