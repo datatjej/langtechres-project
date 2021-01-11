@@ -26,7 +26,7 @@ For running the code:
 2. Go to the location where the `preprocess.py` file is located and run: `python3 preprocess.py --path <path_to_mathir_trees_xml_files>`
 3. This will create two text files in the `data` folder:<br>
 * `mathir_tokens.txt`, which contains all tokens from all five files (including duplicates): <br>
-*Hær* <br>
+*hær* <br>
 *sigx* <br>
 *aff* <br>
 *abotum* <br>
@@ -34,7 +34,7 @@ For running the code:
 \[...\] <br>
 
 * `mathir_train.txt`, which contains all tokens and their corresponding lemma from all five files: <br>
-*Hær	här* <br>
+*hær	här* <br>
 *sigx	sighia* <br>
 *aff	af* <br>
 *abotum     abbote* <br>
