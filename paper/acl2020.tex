@@ -16,6 +16,9 @@
 \usepackage[hyperref]{acl2020}
 \usepackage{times}
 \usepackage{latexsym}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage[T1]{fontenc}
 \renewcommand{\UrlFont}{\ttfamily\small}
 
 % This is not strictly necessary, and may be commented out,
@@ -46,16 +49,16 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-This work aims to explore the Norma tool for historical text normalization using substitution lists. The material used in this endeavour is the MATHiR resource from Språkbanken, containing annotated excerpts from five different texts in Old Swedish (ca 1225-1526).
+This work aims to explore the Norma tool for historical text normalization using substitution lists. The material used in this endeavour is the MAÞiR resource from Språkbanken, containing annotated excerpts from five different texts in Old Swedish (ca 1225-1526).
 \end{abstract}
 
 \section{Introduction}
 
-Historical texts that were written before any spelling standardization had taken place in their language of medium tend to contain a lot of spelling variation. This becomes problematic when you want to parse them for further processing or research them in a corpus. There exists several different methods for normalizing such text, i.e. map them to a standard form. 
+Historical texts that were written before any spelling standardization had taken place in their language of medium tend to contain a lot of spelling variation. This becomes problematic when you want to parse them for further processing or research them in a corpus \citet{abc}. There exists several different methods for normalizing such text, i.e. mapping them to a standard form. 
 
 \citet{bollmann:19} gives an overview and comparison of the following methods: 1) substitution lists, 2) rule-based methods, 3) distance-based methods, 4) statistical machine translation, and 5) neural machine translation. 
 
-Substitution lists are the simplest out of these methods and consists of putting together a list of different variants for different words. Variants that don't make it to the list cannot be handled. The normalization tools VARD and Norma contain such substitution list components.
+Substitution lists (also known as lookup-based normalization) are the simplest out of these methods and consists of putting together a list of different variants for different words. Variants that don't make it to the list cannot be handled. The normalization tools VARD and Norma contain such substitution list components.
 
 Rule-based methods instead try to pick up on regularities in the variations, such as the letter \emph{v} often being written like \emph{u}. \citet{bollmann:12} describe the rule-based re-write rules as operating on one or more characters and only taking the immediate character context into consideration. If more than one rule is applicable, then you choose the one with the highest frequency in the training data.   
 
@@ -63,11 +66,11 @@ The distance-based methods look at the number of edits needed to go from a varia
 
 The statistical machine translation-based methods look to optimize the probability for a spelling variant \emph{v} being of standard form \emph{w} by looking, for instance, at character-based statistics (cSMT). \citet{pettersson:13} manage to increase the normalization accuracy for Swedish from 64.6 to 92.3 \% by applying cSMT to historical texts from the time period 1527–1812.    
 
-Another data-driven approach for spelling normalization is neural machine translation (NMT), commonly using encoder-decoder models with LSTM units \citep{bollmann:19}. However, when \citet{bollmann:19} compares some character-based NMT models to the previously mentioned methods, he notes that these models need more data in order to perform well. Instead, he recommends using the Norma tool in the "combined" setting (more about this later) for languages with little training data, and the character-based statistical machine translation tool cSMTiser otherwise.     
-\section{Material and Methods}
+A recent data-driven approach for spelling normalization is neural machine translation (NMT), commonly using encoder-decoder models with LSTM units \citep{bollmann:19}. However, when \citet{bollmann:19} compares some character-based NMT models to the previously mentioned methods, he notes that these models need more data in order to perform well. Instead, he recommends using the Norma tool in the ``combined'' setting (more about this later) for languages with little training data, and the character-based statistical machine translation tool cSMTiser otherwise.     
+\section{Material and Software}
 
-\subsection{MaTHir}
-The material that I will be using in this study comes from the MaTHir resource at Språkbanken, consisting of annotated excerpts from five different Old Swedish texts:
+\subsection{MAÞiR}
+The material that I will be using in this study comes from the MAÞiR resource at Språkbanken, consisting of annotated excerpts from five different Old Swedish texts:
 
 \begin{enumerate}
    \item \emph{Abota}
@@ -85,7 +88,7 @@ The material that I will be using in this study comes from the MaTHir resource a
      \begin{itemize}
      \item Paraphrases of the five books of Moses 
      \item ca 1330/1526
-     \item 7049 token
+     \item 7049 tokens
    \end{itemize}
     \item \emph{Ogl-a} 
      \begin{itemize}
@@ -100,400 +103,127 @@ The material that I will be using in this study comes from the MaTHir resource a
    \end{itemize}
 \end{enumerate}
 
-These texts have been annotated word-by-word in XML format with information about syntactic relations, part of speech tags, morphology, lemma and head. This part of the resource is called MaTHiR Trees. The other one, MaTHiR Words, contains 10 TSV ('tab-separated values') files with lemmata information extracted from a reference dictionary for Medieval Swedish by \citet{soderwall:1891-1918} (Sdw). 
+These texts have been annotated word-by-word in XML format with information about syntactic relations, part of speech tags, morphology, lemma and head. This part of the resource is called MaÞiR Trees. The other one, MaÞiR Words, contains 10 TSV ('tab-separated values') files with lemmata information extracted from a reference dictionary for Medieval Swedish by \citet{soderwall:1891-1918} (Sdw). 
 
 Half of the files have four columns with information about lemma (which may contain spaces, and in the case of the verb file, a '+' sign separating the verb from a separable participle, e.g. EX), pseudolemma (containing only the verbal head in the case of verbs with separable participles), coarse-grained POS tag in accordance with Sdw, and finally a fine-grained POS tag. The other five files contain an additional column with parenthetical form, which show inflectional and spelling-related variation, also taken from Sdw.    
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=7cm]{images/tree.jpg}
+    \caption{my tree}
+    \label{fig:mytree}
+\end{figure}
+
 \subsection{Norma} 
 
+Norma\footnote{https://github.com/comphist/norma} \citep{bollmann:12} is an automatic normalization tool that contains functionality for rule-based, distance-based and lookup up-based normalization, as well as the option of running all these three in combination. When running the program, you have to provide it with a configuration file that specifies which normalizer(s) to use, and in which order. 
 
+When the program reads the first historical input word to be normalized (given in an input text file with one word per line), it proceeds to find a normalized candidate through the first normalizer specified in the configuration file. If the candidate word is above a certain confidence score threshold (between 0 and 1) defined by the user, it moves on to the next step of validating the candidate against the correct word form and starting the training function which takes the historical spelling and the standardized word form as input and adjusts the parameters of the normalizer. If the first normalizer does not yield a high enough confidence score, it moves on to the next normalizer. If none of the specified normalizers give a high enough score, the word remains unchanged.         
 
+Norma has three modes: interactive mode, training mode and batch mode. The interactive mode is supposed to allow the user to confirm or correct the normalization candidate provided by Norma themself, but is currently unavailable in the latest release of Norma due to technical issues. The batch mode is the default mode which takes the configuration file and text file of words to normalize as input and outputs a list of normalized words, one token per line together with a confidence score. The training mode allows you to provide manually normalized data in the form of a list with two tokens per line: historical form and the normalized form. 
+
+According to the user guide\footnote{https://github.com/comphist/norma/blob/master/doc/UserGuide.md}, "most normalizers" require a target lexicon that defines valid output strings in order to avoid generating non-existing words. This, naturally, does not seem to be the case for the Mapper normalizer, as it only normalizes words to forms that exist in the substitution list. 
+
+\section{Method}
+For preprocessing the annotated MAÞiR files I wrote a Python script that takes the path to the XML files as argument and then loops them through in order to extract tokens and their lemma. These are saved in two files: 
+
+\begin{enumerate}
+   \item \texttt{mathir\_tokens.txt}, which lists all tokens (including duplicates) from all files in lower case and one token per line:
+   \begin{table}[H]
+    \centering
+    \begin{tabular}{c}
+       hær \\
+       sigx \\
+       aff \\
+       abotum \\
+       allum \\
+       \ldots
+    \end{tabular}
+   \end{table}
+    \item \texttt{mathir\_train.txt}, which lists all tokens and their corresponding lemma, one tab-separated token-lemma pair per line:
+    
+    \begin{table}[H]
+    \centering
+    \begin{tabular}{c|c}
+        hær & här \\
+        sigx & sighia \\
+        aff & af \\
+        abotum & abbote \\ 
+        allum &	alder \\ 
+        \ldots & \ldots
+    \end{tabular}
+    \end{table}
+\end{enumerate}
+
+This latter file is only used for calculating the baseline accuracy, i.e. the number of tokens that already match their corresponding lemma.
+
+As basis for a subsitution list, I instead use five of the files in MAÞiR Words which contain parenthetical form or variant spelling of the dictionary lemmas. Therefore I wrote another script that takes the MAÞiR Words directory as input and loops through these files, saving the parenthetical form and corresponding lemma in another text file called \texttt{sdw\_train.txt}: 
+
+    \begin{table}[H]
+    \centering
+    \begin{tabular}{c|c}
+        \ldots & \ldots \\
+        lach & lagh \\
+        lagha & lagh \\
+        laghä & lagh \\
+        lak & lagh \\ 
+        laugh &	lagh \\ 
+        \ldots & \ldots
+    \end{tabular}
+    \end{table}
+
+When running this file in train mode in Norma, a parameter file called \texttt{sdw\_train.Mapper.mapfile} is automatically generated. In those cases where the training data is not coming from dictionary entries (like here), but instead generated from real data like the \texttt{mathir\_train.txt} file, this file will contain frequencies of each variant-lemma pair, which will then help Norma determine which lemma to choose when doing the lookup.
+
+For normalizing the tokens, I simply ran the \texttt{mathir\_tokens.txt} file in batch mode and saved the output to a text file by adding \texttt{>norma\_output.txt} to the Norma command.     
+
+For evaluating the output file, I wrote a script that takes the token file and output file as arguments and counts the number of matches between these two documents. The accuracy is calculated by simply dividing the total number of matches with the total number of tokens.
 
 \section{Results}
 
-Refer to Appendices~\ref{sec:appendix} and \ref{sec:supplemental} for further information. 
+    \begin{table}[H]
+    \centering
+    \begin{tabular}{c|c}
+        \hline
+        \textbf{Normalizer} & \textbf{Accuracy} \\
+         \hline
+        Baseline (unchanged) & 27.30 \% \\
+        \hline
+        Norma (lookup) & 34.14 \%  \\
+        \hline
+    \end{tabular}
+    \caption{\label{tab:table-results}Accuracy for baseline (leaving all tokens unchanged) and look-up based normalization in Norma.}
+    \end{table}
 
+The lookup-based normalization in Norma yielded a lemmatization accuracy of 34.14 \%, which can be compared to the baseline of 27.30 \%. I would have wanted to try out the weighted Levenshtein distance-based normalization in Norma as well, but unfortunately the command for generating the necessary target dictionary files was not working in Docker. See the figure below for examples of variant-lemma pairs that were missing in Sdw.
+
+    \begin{table}[H]
+    \centering
+    \begin{tabular}{c|c}
+        \textbf{Matches} & \textbf{Failed Matches} \\
+        \textbf{input} \quad \textbf{output} & \textbf{input} \quad \textbf{output} \quad \textbf{correct} \\
+         \ldots & \ldots \\
+        oc  \quad ok & wt \quad wt \quad ut \\
+        uili \quad vilia & ær \quad ær \quad vara \\
+        scal \quad skula & thet \quad tea \quad þän \\
+        med \quad mäþ & æter \quad æter \quad äta \\
+        þessi \quad þänne & þa \quad þiggia \quad þa \\
+        prester \quad präster & bætri \quad bætri \quad bätre \\
+        bönder \quad bonde & sigher \quad sigha \quad sighia \\
+        ligger \quad liggia & wigyæ \quad wigyæ \quad vighia\\
+        kyrkiu  \quad kirkia & guðfæþur \quad guðfæþur \quad guþfaþir\\
+        landbor \quad landboe &	for budhit\quad for budhit \quad forbiuþa \\
+          himmerike \quad himirike & wtan widh \quad wtan widh \quad utan viþer \\
+        \ldots & \ldots
+    \end{tabular}
+    \end{table}
 
 \section{Discussion}
 
-Any preliminary non-archival versions of submitted papers should be listed in the submission form but not in the review version of the paper.
 
 
 \section{Conclusion and further work}
 
-Manuscripts must be in two-column format.
-Exceptions to the two-column format include the title, authors' names and complete addresses, which must be centered at the top of the first page, and any full-width figures or tables (see the guidelines in Section~\ref{ssec:title-authors}).
-\textbf{Type single-spaced.}
-Start all pages directly under the top margin.
-The manuscript should be printed single-sided and its length should not exceed the maximum page limit described in Section~\ref{sec:length}.
-Pages should be numbered in the version submitted for review, but \textbf{pages should not be numbered in the camera-ready version}.
-
-\paragraph{\LaTeX-specific details:}
-The style files will generate page numbers when {\small\verb|\aclfinalcopy|} is commented out, and remove them otherwise.
-
-
-\subsection{File Format}
-\label{sect:pdf}
-
-For the production of the electronic manuscript you must use Adobe's Portable Document Format (PDF).
-Please make sure that your PDF file includes all the necessary fonts (especially tree diagrams, symbols, and fonts with Asian characters).
-When you print or create the PDF file, there is usually an option in your printer setup to include none, all or just non-standard fonts.
-Please make sure that you select the option of including ALL the fonts.
-\textbf{Before sending it, test your PDF by printing it from a computer different from the one where it was created.}
-Moreover, some word processors may generate very large PDF files, where each page is rendered as an image.
-Such images may reproduce poorly.
-In this case, try alternative ways to obtain the PDF.
-One way on some systems is to install a driver for a postscript printer, send your document to the printer specifying ``Output to a file'', then convert the file to PDF.
-
-It is of utmost importance to specify the \textbf{A4 format} (21 cm x 29.7 cm) when formatting the paper.
-Print-outs of the PDF file on A4 paper should be identical to the hardcopy version.
-If you cannot meet the above requirements about the production of your electronic submission, please contact the publication chairs as soon as possible.
-
-\paragraph{\LaTeX-specific details:}
-PDF files are usually produced from \LaTeX{} using the \texttt{\small pdflatex} command.
-If your version of \LaTeX{} produces Postscript files, \texttt{\small ps2pdf} or \texttt{\small dvipdf} can convert these to PDF.
-To ensure A4 format in \LaTeX, use the command {\small\verb|\special{papersize=210mm,297mm}|}
-in the \LaTeX{} preamble (below the {\small\verb|\usepackage|} commands) and use \texttt{\small dvipdf} and/or \texttt{\small pdflatex}; or specify \texttt{\small -t a4} when working with \texttt{\small dvips}.
-
-\subsection{Layout}
-\label{ssec:layout}
-
-Format manuscripts two columns to a page, in the manner these
-instructions are formatted.
-The exact dimensions for a page on A4 paper are:
-
-\begin{itemize}
-\item Left and right margins: 2.5 cm
-\item Top margin: 2.5 cm
-\item Bottom margin: 2.5 cm
-\item Column width: 7.7 cm
-\item Column height: 24.7 cm
-\item Gap between columns: 0.6 cm
-\end{itemize}
-
-\noindent Papers should not be submitted on any other paper size.
-If you cannot meet the above requirements about the production of your electronic submission, please contact the publication chairs above as soon as possible.
-
-\subsection{Fonts}
-
-For reasons of uniformity, Adobe's \textbf{Times Roman} font should be used.
-If Times Roman is unavailable, you may use Times New Roman or \textbf{Computer Modern Roman}.
-
-Table~\ref{font-table} specifies what font sizes and styles must be used for each type of text in the manuscript.
-
-\begin{table}
-\centering
-\begin{tabular}{lrl}
-\hline \textbf{Type of Text} & \textbf{Font Size} & \textbf{Style} \\ \hline
-paper title & 15 pt & bold \\
-author names & 12 pt & bold \\
-author affiliation & 12 pt & \\
-the word ``Abstract'' & 12 pt & bold \\
-section titles & 12 pt & bold \\
-subsection titles & 11 pt & bold \\
-document text & 11 pt  &\\
-captions & 10 pt & \\
-abstract text & 10 pt & \\
-bibliography & 10 pt & \\
-footnotes & 9 pt & \\
-\hline
-\end{tabular}
-\caption{\label{font-table} Font guide. }
-\end{table}
-
-\paragraph{\LaTeX-specific details:}
-To use Times Roman in \LaTeX2e{}, put the following in the preamble:
-\begin{quote}
-\small
-\begin{verbatim}
-\usepackage{times}
-\usepackage{latexsym}
-\end{verbatim}
-\end{quote}
-
-
-\subsection{Ruler}
-A printed ruler (line numbers in the left and right margins of the article) should be presented in the version submitted for review, so that reviewers may comment on particular lines in the paper without circumlocution.
-The presence or absence of the ruler should not change the appearance of any other content on the page.
-The camera ready copy should not contain a ruler.
-
-\paragraph{Reviewers:}
-note that the ruler measurements may not align well with lines in the paper -- this turns out to be very difficult to do well when the paper contains many figures and equations, and, when done, looks ugly.
-In most cases one would expect that the approximate location will be adequate, although you can also use fractional references (\emph{e.g.}, this line ends at mark $295.5$).
-
-\paragraph{\LaTeX-specific details:}
-The style files will generate the ruler when {\small\verb|\aclfinalcopy|} is commented out, and remove it otherwise.
-
-\subsection{Title and Authors}
-\label{ssec:title-authors}
-
-Center the title, author's name(s) and affiliation(s) across both columns.
-Do not use footnotes for affiliations.
-Place the title centered at the top of the first page, in a 15-point bold font.
-Long titles should be typed on two lines without a blank line intervening.
-Put the title 2.5 cm from the top of the page, followed by a blank line, then the author's names(s), and the affiliation on the following line.
-Do not use only initials for given names (middle initials are allowed).
-Do not format surnames in all capitals (\emph{e.g.}, use ``Mitchell'' not ``MITCHELL'').
-Do not format title and section headings in all capitals except for proper names (such as ``BLEU'') that are
-conventionally in all capitals.
-The affiliation should contain the author's complete address, and if possible, an electronic mail address.
-
-The title, author names and addresses should be completely identical to those entered to the electronical paper submission website in order to maintain the consistency of author information among all publications of the conference.
-If they are different, the publication chairs may resolve the difference without consulting with you; so it is in your own interest to double-check that the information is consistent.
-
-Start the body of the first page 7.5 cm from the top of the page.
-\textbf{Even in the anonymous version of the paper, you should maintain space for names and addresses so that they will fit in the final (accepted) version.}
-
-
-\subsection{Abstract}
-Use two-column format when you begin the abstract.
-Type the abstract at the beginning of the first column.
-The width of the abstract text should be smaller than the
-width of the columns for the text in the body of the paper by 0.6 cm on each side.
-Center the word \textbf{Abstract} in a 12 point bold font above the body of the abstract.
-The abstract should be a concise summary of the general thesis and conclusions of the paper.
-It should be no longer than 200 words.
-The abstract text should be in 10 point font.
-
-\subsection{Text}
-Begin typing the main body of the text immediately after the abstract, observing the two-column format as shown in the present document.
-
-Indent 0.4 cm when starting a new paragraph.
-
-\subsection{Sections}
-
-Format section and subsection headings in the style shown on the present document.
-Use numbered sections (Arabic numerals) to facilitate cross references.
-Number subsections with the section number and the subsection number separated by a dot, in Arabic numerals.
-
-\subsection{Footnotes}
-Put footnotes at the bottom of the page and use 9 point font.
-They may be numbered or referred to by asterisks or other symbols.\footnote{This is how a footnote should appear.}
-Footnotes should be separated from the text by a line.\footnote{Note the line separating the footnotes from the text.}
-
-\subsection{Graphics}
-
-Place figures, tables, and photographs in the paper near where they are first discussed, rather than at the end, if possible.
-Wide illustrations may run across both columns.
-Color is allowed, but adhere to Section~\ref{ssec:accessibility}'s guidelines on accessibility.
-
-\paragraph{Captions:}
-Provide a caption for every illustration; number each one sequentially in the form:
-``Figure 1. Caption of the Figure.''
-``Table 1. Caption of the Table.''
-Type the captions of the figures and tables below the body, using 10 point text.
-Captions should be placed below illustrations.
-Captions that are one line are centered (see Table~\ref{font-table}).
-Captions longer than one line are left-aligned (see Table~\ref{tab:accents}).
-
-\begin{table}
-\centering
-\begin{tabular}{lc}
-\hline
-\textbf{Command} & \textbf{Output}\\
-\hline
-\verb|{\"a}| & {\"a} \\
-\verb|{\^e}| & {\^e} \\
-\verb|{\`i}| & {\`i} \\ 
-\verb|{\.I}| & {\.I} \\ 
-\verb|{\o}| & {\o} \\
-\verb|{\'u}| & {\'u}  \\ 
-\verb|{\aa}| & {\aa}  \\\hline
-\end{tabular}
-\begin{tabular}{lc}
-\hline
-\textbf{Command} & \textbf{Output}\\
-\hline
-\verb|{\c c}| & {\c c} \\ 
-\verb|{\u g}| & {\u g} \\ 
-\verb|{\l}| & {\l} \\ 
-\verb|{\~n}| & {\~n} \\ 
-\verb|{\H o}| & {\H o} \\ 
-\verb|{\v r}| & {\v r} \\ 
-\verb|{\ss}| & {\ss} \\
-\hline
-\end{tabular}
-\caption{Example commands for accented characters, to be used in, \emph{e.g.}, \BibTeX\ names.}\label{tab:accents}
-\end{table}
-
-\paragraph{\LaTeX-specific details:}
-The style files are compatible with the caption and subcaption packages; do not add optional arguments.
-\textbf{Do not override the default caption sizes.}
-
-
-\subsection{Hyperlinks}
-Within-document and external hyperlinks are indicated with Dark Blue text, Color Hex \#000099.
-
-\subsection{Citations}
-Citations within the text appear in parentheses as~\citep{Gusfield:97} or, if the author's name appears in the text itself, as \citet{Gusfield:97}.
-Append lowercase letters to the year in cases of ambiguities.  
-Treat double authors as in~\citep{Aho:72}, but write as in~\citep{Chandra:81} when more than two authors are involved. Collapse multiple citations as in~\citep{Gusfield:97,Aho:72}. 
-
-Refrain from using full citations as sentence constituents.
-Instead of
-\begin{quote}
-  ``\citep{Gusfield:97} showed that ...''
-\end{quote}
-write
-\begin{quote}
-``\citet{Gusfield:97} showed that ...''
-\end{quote}
-
-\begin{table*}
-\centering
-\begin{tabular}{lll}
-\hline
-\textbf{Output} & \textbf{natbib command} & \textbf{Old ACL-style command}\\
-\hline
-\citep{Gusfield:97} & \small\verb|\citep| & \small\verb|\cite| \\
-\citealp{Gusfield:97} & \small\verb|\citealp| & no equivalent \\
-\citet{Gusfield:97} & \small\verb|\citet| & \small\verb|\newcite| \\
-\citeyearpar{Gusfield:97} & \small\verb|\citeyearpar| & \small\verb|\shortcite| \\
-\hline
-\end{tabular}
-\caption{\label{citation-guide}
-Citation commands supported by the style file.
-The style is based on the natbib package and supports all natbib citation commands.
-It also supports commands defined in previous ACL style files for compatibility.
-}
-\end{table*}
-
-\paragraph{\LaTeX-specific details:}
-Table~\ref{citation-guide} shows the syntax supported by the style files.
-We encourage you to use the natbib styles.
-You can use the command {\small\verb|\citet|} (cite in text) to get ``author (year)'' citations as in \citet{Gusfield:97}.
-You can use the command {\small\verb|\citep|} (cite in parentheses) to get ``(author, year)'' citations as in \citep{Gusfield:97}.
-You can use the command {\small\verb|\citealp|} (alternative cite without  parentheses) to get ``author year'' citations (which is useful for  using citations within parentheses, as in \citealp{Gusfield:97}).
-
-
-\subsection{References}
-Gather the full set of references together under the heading \textbf{References}; place the section before any Appendices. 
-Arrange the references alphabetically by first author, rather than by order of occurrence in the text.
-
-Provide as complete a citation as possible, using a consistent format, such as the one for \emph{Computational Linguistics\/} or the one in the  \emph{Publication Manual of the American 
-Psychological Association\/}~\citep{APA:83}.
-Use full names for authors, not just initials.
-
-Submissions should accurately reference prior and related work, including code and data.
-If a piece of prior work appeared in multiple venues, the version that appeared in a refereed, archival venue should be referenced.
-If multiple versions of a piece of prior work exist, the one used by the authors should be referenced.
-Authors should not rely on automated citation indices to provide accurate references for prior and related work.
-
-The following text cites various types of articles so that the references section of the present document will include them.
-\begin{itemize}
-\item Example article in journal: \citep{Ando2005}.
-\item Example article in proceedings, with location: \citep{borschinger-johnson-2011-particle}.
-\item Example article in proceedings, without location: \citep{andrew2007scalable}.
-\item Example arxiv paper: \citep{rasooli-tetrault-2015}. 
-\end{itemize}
-
-
-\paragraph{\LaTeX-specific details:}
-The \LaTeX{} and Bib\TeX{} style files provided roughly follow the American Psychological Association format.
-If your own bib file is named \texttt{\small acl2020.bib}, then placing the following before any appendices in your \LaTeX{}  file will generate the references section for you:
-\begin{quote}\small
-\verb|\bibliographystyle{acl_natbib}|\\
-\verb|\bibliography{acl2020}|
-\end{quote}
-
-You can obtain the complete ACL Anthology as a Bib\TeX\ file from \url{https://aclweb.org/anthology/anthology.bib.gz}.
-To include both the anthology and your own bib file, use the following instead of the above.
-\begin{quote}\small
-\verb|\bibliographystyle{acl_natbib}|\\
-\verb|\bibliography{anthology,acl2020}|
-\end{quote}
-
-
-\subsection{Digital Object Identifiers}
-As part of our work to make ACL materials more widely used and cited outside of our discipline, ACL has registered as a CrossRef member, as a registrant of Digital Object Identifiers (DOIs), the standard for registering permanent URNs for referencing scholarly materials.
-
-All camera-ready references are required to contain the appropriate DOIs (or as a second resort, the hyperlinked ACL Anthology Identifier) to all cited works.
-Appropriate records should be found for most materials in the current ACL Anthology at \url{http://aclanthology.info/}.
-As examples, we cite \citep{goodman-etal-2016-noise} to show you how papers with a DOI will appear in the bibliography.
-We cite \citep{harper-2014-learning} to show how papers without a DOI but with an ACL Anthology Identifier will appear in the bibliography.
-
-\paragraph{\LaTeX-specific details:}
-Please ensure that you use Bib\TeX\ records that contain DOI or URLs for any of the ACL materials that you reference.
-If the Bib\TeX{} file contains DOI fields, the paper title in the references section will appear as a hyperlink to the DOI, using the hyperref \LaTeX{} package.
-
-
-\subsection{Appendices}
-Appendices, if any, directly follow the text and the
-references (but only in the camera-ready; see Appendix~\ref{sec:appendix}).
-Letter them in sequence and provide an informative title:
-\textbf{Appendix A. Title of Appendix}.
-
-\section{Accessibility}
-\label{ssec:accessibility}
-
-In an effort to accommodate people who are color-blind (as well as those printing to paper), grayscale readability is strongly encouraged.
-Color is not forbidden, but authors should ensure that tables and figures do not rely solely on color to convey critical distinctions.
-A simple criterion:
-All curves and points in your figures should be clearly distinguishable without color.
-
-\section{Translation of non-English Terms}
-
-It is also advised to supplement non-English characters and terms with appropriate transliterations and/or translations since not all readers understand all such characters and terms.
-Inline transliteration or translation can be represented in the order of:
-\begin{center}
-\begin{tabular}{c}
-original-form \\
-transliteration \\
-``translation''
-\end{tabular}
-\end{center}
-
-\section{\LaTeX{} Compilation Issues}
-You may encounter the following error during compilation: 
-\begin{quote}
-{\small\verb|\pdfendlink|} ended up in different nesting level than {\small\verb|\pdfstartlink|}.
-\end{quote}
-This happens when \texttt{\small pdflatex} is used and a citation splits across a page boundary.
-To fix this, the style file contains a patch consisting of two lines:
-(1) {\small\verb|\RequirePackage{etoolbox}|} (line 455 in \texttt{\small acl2020.sty}), and
-(2) A long line below (line 456 in \texttt{\small acl2020.sty}).
-
-If you still encounter compilation issues even with the patch enabled, disable the patch by commenting the two lines, and then disable the \texttt{\small hyperref} package by loading the style file with the \texttt{\small nohyperref} option:
-
-\noindent
-{\small\verb|\usepackage[nohyperref]{acl2020}|}
-
-\noindent
-Then recompile, find the problematic citation, and rewrite the sentence containing the citation. (See, {\em e.g.}, \url{http://tug.org/errors.html})
-
-\section*{Acknowledgments}
-
-The acknowledgments should go immediately before the references. Do not number the acknowledgments section.
-Do not include this section when submitting your paper for review.
-
 \bibliography{anthology,acl2020}
 \bibliographystyle{acl_natbib}
-
-\appendix
-
-\section{Appendices}
-\label{sec:appendix}
-Appendices are material that can be read, and include lemmas, formulas, proofs, and tables that are not critical to the reading and understanding of the paper. 
-Appendices should be \textbf{uploaded as supplementary material} when submitting the paper for review.
-Upon acceptance, the appendices come after the references, as shown here.
-
-\paragraph{\LaTeX-specific details:}
-Use {\small\verb|\appendix|} before any appendix section to switch the section numbering over to letters.
-
-
-\section{Supplemental Material}
-\label{sec:supplemental}
-Submissions may include non-readable supplementary material used in the work and described in the paper.
-Any accompanying software and/or data should include licenses and documentation of research review as appropriate.
-Supplementary material may report preprocessing decisions, model parameters, and other details necessary for the replication of the experiments reported in the paper.
-Seemingly small preprocessing decisions can sometimes make a large difference in performance, so it is crucial to record such decisions to precisely characterize state-of-the-art methods. 
-
-Nonetheless, supplementary material should be supplementary (rather than central) to the paper.
-\textbf{Submissions that misuse the supplementary material may be rejected without review.}
-Supplementary material may include explanations or details of proofs or derivations that do not fit into the paper, lists of
-features or feature templates, sample inputs and outputs for a system, pseudo-code or source code, and data.
-(Source code and data should be separate uploads, rather than part of the paper).
-
-The paper should not rely on the supplementary material: while the paper may refer to and cite the supplementary material and the supplementary material will be available to the reviewers, they will not be asked to review the supplementary material.
 
 \end{document}
