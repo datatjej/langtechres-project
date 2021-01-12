@@ -2,6 +2,27 @@
 
 Use this folder for the code related to your project.
 
+## NORMA COMMANDS
+
+Normalize:
+
+      docker run -v $(pwd):/home mbollmann/norma -s -c example/example.cfg -f example/fnhd_sample.txt
+
+Train:
+
+      docker run -v $(pwd):/home mbollmann/norma -c example/example.cfg -f example/fnhd_train.txt -t --saveonexit
+      
+Create lexicon files (.fsm and .sym):
+
+      norma_lexicon -w sdw.txt -a sdw.fsm -l sdw.sym -c
+      
+                                                 norma_lexicon -w de.uniq -a de.fsm -l de.sym -c
+
+Flags:
+
+`-t` - train only, without generating normalizations <br>
+`--saveonexit`- is required (if not given in the config file) to save the trained parametrizations back to the parameter files
+
 ## PREPROCESS_TREES.PY
 
 This script
