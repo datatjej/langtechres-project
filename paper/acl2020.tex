@@ -13,6 +13,7 @@
 %% and that of ACL 08 by Joakim Nivre and Noah Smith
 
 \documentclass[11pt,a4paper]{article}
+%\usepackage[bottom]{footmisc}
 \usepackage[hyperref]{acl2020}
 \usepackage{times}
 \usepackage{latexsym}
@@ -20,6 +21,7 @@
 \usepackage{float}
 \usepackage[T1]{fontenc}
 \renewcommand{\UrlFont}{\ttfamily\small}
+
 
 % This is not strictly necessary, and may be commented out,
 % but it will improve the layout of the manuscript,
@@ -49,12 +51,12 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-This work aims to explore the Norma tool for historical text normalization using substitution lists. The material used in this endeavour is the MAÞiR resource from Språkbanken, containing annotated excerpts from five different texts in Old Swedish (ca 1225-1526).
+This work aims to explore the Norma tool \cite{bollmann:12} for historical text normalization using substitution lists. The material used in this endeavour is the MAÞiR resource from Språkbanken, containing annotated excerpts from five different texts in Old Swedish (ca 1225-1526). The results from this experiment are less than good, which can partially be explained by the choice of source data for the lookup table, as well as the lack of other complementary methods used in the normalization process. Future work aims to dive deeper into Norma and other normalization tools.
 \end{abstract}
 
 \section{Introduction}
 
-Historical texts that were written before any spelling standardization had taken place in their language of medium tend to contain a lot of spelling variation. This becomes problematic when you want to parse them for further processing or research them in a corpus \citet{abc}. There exists several different methods for normalizing such text, i.e. mapping them to a standard form. 
+Historical texts that were written before any spelling standardization had taken place in their language of medium tend to contain a lot of spelling variation. This becomes problematic when you want to parse them for further processing or research them in a corpus. Luckily, there exists several different methods for normalizing such text, i.e. mapping the variants to a standard form.
 
 \citet{bollmann:19} gives an overview and comparison of the following methods: 1) substitution lists, 2) rule-based methods, 3) distance-based methods, 4) statistical machine translation, and 5) neural machine translation. 
 
@@ -67,6 +69,9 @@ The distance-based methods look at the number of edits needed to go from a varia
 The statistical machine translation-based methods look to optimize the probability for a spelling variant \emph{v} being of standard form \emph{w} by looking, for instance, at character-based statistics (cSMT). \citet{pettersson:13} manage to increase the normalization accuracy for Swedish from 64.6 to 92.3 \% by applying cSMT to historical texts from the time period 1527–1812.    
 
 A recent data-driven approach for spelling normalization is neural machine translation (NMT), commonly using encoder-decoder models with LSTM units \citep{bollmann:19}. However, when \citet{bollmann:19} compares some character-based NMT models to the previously mentioned methods, he notes that these models need more data in order to perform well. Instead, he recommends using the Norma tool in the ``combined'' setting (more about this later) for languages with little training data, and the character-based statistical machine translation tool cSMTiser otherwise.     
+
+In this work, I will experiment with normalization on Old Swedish texts using substitution lists and the Norma tool \citep{bollmann:12}. All the code and generated data can be found on GitHub.\footnote{https://github.com/datatjej/langtechres-project}
+
 \section{Material and Software}
 
 \subsection{MAÞiR}
@@ -108,10 +113,10 @@ These texts have been annotated word-by-word in XML format with information abou
 Half of the files have four columns with information about lemma (which may contain spaces, and in the case of the verb file, a '+' sign separating the verb from a separable participle, e.g. EX), pseudolemma (containing only the verbal head in the case of verbs with separable participles), coarse-grained POS tag in accordance with Sdw, and finally a fine-grained POS tag. The other five files contain an additional column with parenthetical form, which show inflectional and spelling-related variation, also taken from Sdw.    
 
 \begin{figure}[H]
-    \centering
-    \includegraphics[width=7cm]{images/tree.jpg}
-    \caption{my tree}
-    \label{fig:mytree}
+\centering
+\includegraphics[width=5cm]{images/vgl.jpg}
+\caption{Page from the Elder Westrogothic law.}
+\label{fig:mytree}
 \end{figure}
 
 \subsection{Norma} 
@@ -122,7 +127,7 @@ When the program reads the first historical input word to be normalized (given i
 
 Norma has three modes: interactive mode, training mode and batch mode. The interactive mode is supposed to allow the user to confirm or correct the normalization candidate provided by Norma themself, but is currently unavailable in the latest release of Norma due to technical issues. The batch mode is the default mode which takes the configuration file and text file of words to normalize as input and outputs a list of normalized words, one token per line together with a confidence score. The training mode allows you to provide manually normalized data in the form of a list with two tokens per line: historical form and the normalized form. 
 
-According to the user guide\footnote{https://github.com/comphist/norma/blob/master/doc/UserGuide.md}, "most normalizers" require a target lexicon that defines valid output strings in order to avoid generating non-existing words. This, naturally, does not seem to be the case for the Mapper normalizer, as it only normalizes words to forms that exist in the substitution list. 
+According to the user guide\footnote{https://github.com/comphist/norma/blob/\\master/doc/UserGuide.md}, "most normalizers" require a target lexicon that defines valid output strings in order to avoid generating non-existing words. This, naturally, does not seem to be the case for the Mapper normalizer, as it only normalizes words to forms that exist in the substitution list. 
 
 \section{Method}
 For preprocessing the annotated MAÞiR files I wrote a Python script that takes the path to the XML files as argument and then loops them through in order to extract tokens and their lemma. These are saved in two files: 
@@ -190,13 +195,13 @@ For evaluating the output file, I wrote a script that takes the token file and o
         \hline
         Norma (lookup) & 34.14 \%  \\
         \hline
-    \end{tabular}
-    \caption{\label{tab:table-results}Accuracy for baseline (leaving all tokens unchanged) and look-up based normalization in Norma.}
+    \end{tabular}    
+    \caption{\label{tab:table-results}Accuracy for baseline (leaving all tokens unchanged) and lookup-based normalization in Norma.}
     \end{table}
 
-The lookup-based normalization in Norma yielded a lemmatization accuracy of 34.14 \%, which can be compared to the baseline of 27.30 \%. I would have wanted to try out the weighted Levenshtein distance-based normalization in Norma as well, but unfortunately the command for generating the necessary target dictionary files was not working in Docker. See the figure below for examples of variant-lemma pairs that were missing in Sdw.
+The lookup-based normalization in Norma yielded a lemmatization accuracy of 34.14 \%, which can be compared to the baseline of 27.30 \%. I would have wanted to try out the weighted Levenshtein distance-based normalization in Norma as well, but unfortunately the command for generating the necessary target dictionary files was not working in Docker.See Table \ref{tab:matches}  for some examples of successful and unsuccessful lookup matches.
 
-    \begin{table}[H]
+    \begin{table*}[tb]
     \centering
     \begin{tabular}{c|c}
         \textbf{Matches} & \textbf{Failed Matches} \\
@@ -207,23 +212,37 @@ The lookup-based normalization in Norma yielded a lemmatization accuracy of 34.1
         scal \quad skula & thet \quad tea \quad þän \\
         med \quad mäþ & æter \quad æter \quad äta \\
         þessi \quad þänne & þa \quad þiggia \quad þa \\
-        prester \quad präster & bætri \quad bætri \quad bätre \\
+        engelin \quad ängeli & bætri \quad bætri \quad bätre \\
         bönder \quad bonde & sigher \quad sigha \quad sighia \\
-        ligger \quad liggia & wigyæ \quad wigyæ \quad vighia\\
+        wordo \quad varþa & wigyæ \quad wigyæ \quad vighia\\
         kyrkiu  \quad kirkia & guðfæþur \quad guðfæþur \quad guþfaþir\\
         landbor \quad landboe &	for budhit\quad for budhit \quad forbiuþa \\
-          himmerike \quad himirike & wtan widh \quad wtan widh \quad utan viþer \\
+        himmerike \quad himirike & wtan widh \quad wtan widh \quad utan viþer \\
         \ldots & \ldots
     \end{tabular}
-    \end{table}
+    \caption{\label{tab:matches}Some successful and unsuccessful lookups.}
+    \end{table*}
 
 \section{Discussion}
 
 
+The accuracy for the lookup-based normalization may seem very low at 34.14 \%, but the results are not surprising given the source of the lookup table. The Sdw dictionary entries and their associated parenthetical forms will often not include inflected or conjugated forms, and if they do (as in the case of some verbs and nouns) it's purely by chance. Some of these by-chance successful normalizations include plural forms such \emph{landbor} (normalized to \emph{landboe}) and conjugated verbs like \emph{wordo} (normalized to \emph{varþa}). 
+
+Most of the successful normalization can be explained by the fact that 27.30 \% of the tokens in the input data are already identical to their lemma forms and that Norma does not modify tokens that are missing in the lookup table. This number would probably increase somewhat with some simple rule-based procedures like changing the letter \emph{w} to \emph{u} (compare \emph{wt} and \emph{ut} in Table \ref{tab:matches}) and \emph{æ} to \emph{ä} or \emph{e}.
+
+However, this does not mean that lookup-based normalization is useless - quite the opposite. \citet{bollmann:19} shows that lookup-based normalization can reach accuracy scores of more than 90 \% for historical texts in in English, Spanish and Slovenian. Bollmann's comparison also illustrates that Norma in "combined" mode -- using rule-based, distance-based and lookup-based normalization in combination -- yields better results than any of these tools used in isolation.
 
 \section{Conclusion and further work}
 
-\bibliography{anthology,acl2020}
+This exploratory study opens up many doors for future research. It would be interesting to see how rule-based and distance-based normalization in Norma would affect the accuracy, and I hope to try that once I figure out the technical issue I had with generating the necessary target lexicons.
+
+The accuracy might be low, but for me, this project highly contributed to the expected learning outcome of the course by familiarizing me with two different language technology resources: Norma and MAÞiR. The process of figuring out how to install Norma was time-consuming and frustrating, but it lead me to discover Docker, a platform that allows you to install programs like Norma without worrying about dependencies, since all the softwares needed get packed in so called containers. 
+
+The installation of Docker was also time-consuming and included removing my current Windows Subsystem for Linux (WSL 1) installation to upgrade to the 2nd version and losing all previously installed packages. Once that was done, though, Norma could easily be installed using a single terminal command. And I recently noticed that cSMTiser, the software for statistical machine translation that I originally wanted to use for this project (but gave up on because of the equally tedious installation process) is also available via Docker.
+
+On a finishing note, this project also introduced me to report writing in LaTeX and Overleaf, and I don't think I will ever go back to Word or Google Drive documents. 
+
+\bibliography{anthology,acl2020} 
 \bibliographystyle{acl_natbib}
 
 \end{document}
