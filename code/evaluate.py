@@ -58,7 +58,7 @@ if __name__ == '__main__':
                         default=False,
                         type=str,
                         required=False,
-                        help="Path to the input text file with tokens to be normalized by Norma")
+                        help="Path to the text file mathir_train.txt")
     parser.add_argument("-output",
                         "--output",
                         default=False,
