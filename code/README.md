@@ -12,11 +12,11 @@ Train:
 
       docker run -v $(pwd):/home mbollmann/norma -c example/example.cfg -f example/fnhd_train.txt -t --saveonexit
       
-Create lexicon files (.fsm and .sym):
+Create lexicon files (.fsm and .sym) (Haven't managed to make this work with the Docker installation of Norma):
 
       norma_lexicon -w sdw.txt -a sdw.fsm -l sdw.sym -c
       
-                                                 norma_lexicon -w de.uniq -a de.fsm -l de.sym -c
+                               
 
 Flags:
 
@@ -25,11 +25,11 @@ Flags:
 
 ## PREPROCESS_TREES.PY
 
-This script
+This script parses the MATHiR Trees  text into two files, one with tokens and one with tokens + lemmas.
 
 For running the code:
 1. Download and extract the XML files from MATHiR Threes: https://spraakbanken.gu.se/en/resources/mathir-trad
-2. Go to the location where the `preprocess.py` file is located and run: `python3 preprocess.py --path <path_to_mathir_trees_xml_files>`
+2. Go to the location where the `preprocess_trees.py` file is located and run: `python3 preprocess_trees.py --path <path_to_mathir_trees_xml_files>`
 3. This will create two text files in the `data` folder:<br>
 * `mathir_tokens.txt`, which contains all tokens from all five files (including duplicates): <br>
 *hær* <br>
@@ -46,6 +46,34 @@ For running the code:
 *abotum     abbote* <br>
 *allum	alder* <br>
 \[...\] <br>
+
+## PREPROCESS_WORDS.PY
+
+This script parses the MATHiR Words files and creates a file with variant-lemma pairs.
+
+For running the code:
+1. Download and extract the text files from MATHiR Words: https://spraakbanken.gu.se/en/resources/mathir-ord
+2. Go to the location where the `preprocess_words.py` file is located and run: `python3 preprocess_words.py --path <path_to_mathir_words_text_files>`
+3. This will create a text file called `sdw_train.txt` in the `data` folder.<br>
+
+## MAKE_LEXICON.PY
+
+This script parses the MATHiR Words files and creates a file with only the lemmas. To be used for creating target lexicons.
+
+For running the code:
+1. Download and extract the text files from MATHiR Words: https://spraakbanken.gu.se/en/resources/mathir-ord
+2. Go to the location where the `make_lexicon.py` file is located and run: `python3 make_lexicon.py --path <path_to_mathir_words_text_files>`
+3. This will create a text file called `sdw_lexicon.txt` in the `data` folder.<br>
+
+## BASELINE.PY
+
+This script takes the `mathir_train.txt` file produced by `preprocess_trees.py` as input (currently using my path, go in and change that if you want to use it yourself) to control how many of the tokens are already the same as the lemma. An accuracy score is printed out to the terminal.
+
+## EVALUATE.PY
+
+This script takes the output text file by Norma and the `mathir_train.txt` file as input and compares what Norma outputted to the correct labels. An accuracy score is printed in the terminal. Go to the directory where `evaluate.py`is located and run: 
+
+      python3 evaluate.py --input <path_to_mathir_train.txt> --output <path_to_normas_output_file>
 
 ## FINDOUT
 
