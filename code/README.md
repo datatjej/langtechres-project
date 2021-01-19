@@ -6,11 +6,11 @@ Use this folder for the code related to your project.
 
 Normalize:
 
-      docker run -v $(pwd):/home mbollmann/norma -s -c example/example.cfg -f example/fnhd_sample.txt
+      docker run -v $(pwd):/home mbollmann/norma -s -c example.cfg -f fnhd_sample.txt
 
 Train:
 
-      docker run -v $(pwd):/home mbollmann/norma -c example/example.cfg -f example/fnhd_train.txt -t --saveonexit
+      docker run -v $(pwd):/home mbollmann/norma -c example.cfg -f fnhd_train.txt -t --saveonexit
       
 Create lexicon files (.fsm and .sym)
 
