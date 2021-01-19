@@ -12,12 +12,10 @@ Train:
 
       docker run -v $(pwd):/home mbollmann/norma -c example/example.cfg -f example/fnhd_train.txt -t --saveonexit
       
-Create lexicon files (.fsm and .sym) (Haven't managed to make this work with the Docker installation of Norma):
+Create lexicon files (.fsm and .sym)
 
-      norma_lexicon -w sdw.txt -a sdw.fsm -l sdw.sym -c
+      docker run -v $(pwd):/home --entrypoint norma_lexicon mbollmann/norma -w sdw_lexicon.txt -a sdw_lexicon.fsm -l sdw_lexicon.sym -c
       
-                               
-
 Flags:
 
 `-t` - train only, without generating normalizations <br>
